@@ -35,7 +35,19 @@ Source: Ray, Sidney H. 1919. The Languages of Northern Papua. JRAI 49: 317–341
   - č, š, ž, δ, χ, γ, ġ and dot-below ḍ, ṣ are as printed.
 - Cells with ", " are split into synonyms.
 - Parenthesised optional material, e.g. `tĭlīnă(k)`, is dropped from `Form` and kept in `Value`.
-- No orthography profile and no segments, by decision. Ray's symbol notes (p. 323) would be the basis for one.
+- Segments come from `etc/orthography.tsv`, which `etc/make_orthography.py` generates from Ray's "Note on orthography" (p. 323):
+  - ŋ = ng in "sing".
+  - t'/ty → c, d'/dy → ɟ.
+  - y → j, j → dʒ.
+  - ġ/γ → ɣ, χ → x.
+  - Vowels as in German: breve → short, macron → ː.
+- Rows tagged UNCERTAIN are editorial guesses:
+  - ng → ŋg; ny/ñ → ɲ; l' → ʎ.
+  - q → kʷ, from the Kâte mission spelling.
+  - δ → ð; ḍ/ṣ → ɖ/ʂ.
+  - ts/dz/ds as affricates; ch/tsh → tʃ.
+  - Circumflex → long; acute ignored; ä → ɛ; ė → ə; ü → y except in hiatus.
+- Ray's ṙ (palatal r) does not occur in the tables.
 
 ## Concepts
 - Concepticon v3.4.0:
@@ -69,12 +81,18 @@ Glottolog v5.3, Concepticon v3.4.0, CLTS v2.3.0.
 ![Glottolog: 98%](etc/badge_languages.svg)
 ![Concepticon: 96%](etc/badge_concepts.svg)
 ![Source: 100%](etc/badge_sources.svg)
+![BIPA: 100%](etc/badge_bipa.svg)
+![CLTS SoundClass: 100%](etc/badge_sc.svg)
 
 - **Varieties:** 116 (linked to 59 different Glottocodes)
 - **Concepts:** 63 (linked to 48 different Concepticon concept sets)
 - **Lexemes:** 2,499
 - **Sources:** 1
 - **Synonymy:** 1.12
+- **Invalid lexemes:** 0
+- **Tokens:** 11,506
+- **Segments:** 48 (0 BIPA errors, 0 CLTS sound class errors, 48 CLTS modified)
+- **Inventory size (avg):** 17.16
 
 ## Possible Improvements:
 

@@ -23,7 +23,8 @@ class Dataset(BaseDataset):
     lexeme_class = Lexeme
 
     # Cells list synonyms separated by ", " (e.g. "pelen, aun"); "(...)" holds optional material.
-    form_spec = FormSpec(separators=",;", missing_data=("—", "-", "?"), strip_inside_brackets=True)
+    form_spec = FormSpec(
+        separators=",;", missing_data=("—", "-", "?"), strip_inside_brackets=True, replacements=[(" ", "_")])
 
     def cmd_download(self, args):
         pass
