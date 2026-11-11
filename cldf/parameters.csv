@@ -1,0 +1,64 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+areca_nut,Areca Nut,2369,BETEL NUT
+banana,Banana,868,BANANA
+bird,Bird,937,BIRD
+coco_nut,Coco-nut,970,COCONUT
+dog,Dog,2009,DOG
+ear,Ear,1247,EAR
+eye,Eye,1248,EYE
+fire,Fire,221,FIRE
+fish,Fish,227,FISH
+foot_leg,"Foot, Leg",2098,FOOT OR LEG
+hand_arm,"Hand, Arm",2121,ARM OR HAND
+house,House,1252,HOUSE
+man,Man,1554,MAN
+men_s_or_club_house,Men's or club house,408,MEN'S HOUSE
+moon,Moon,1313,MOON
+pig,Pig,1337,PIG
+stone,Stone,857,STONE
+sun,Sun,1343,SUN
+tooth,Tooth,1380,TOOTH
+water,Water,948,WATER
+woman,Woman,962,WOMAN
+n1,1,1493,ONE
+n2,2,1498,TWO
+n3,3,492,THREE
+n4,4,1500,FOUR
+n5,5,493,FIVE
+n6,6,1703,SIX
+n7,7,1704,SEVEN
+n8,8,1705,EIGHT
+n9,9,1483,NINE
+n10,10,1515,TEN
+n20,20,1710,TWENTY
+n1sg,1sg,1209,I
+n2sg,2sg,1215,THOU
+n3sg,3sg,2642,HE OR SHE
+n1pl,1pl,1212,WE
+n1pl_incl,1pl.incl,1131,WE (INCLUSIVE)
+n1pl_excl,1pl.excl,1130,WE (EXCLUSIVE)
+n2pl,2pl,1213,YOU
+n3pl,3pl,817,THEY
+n1du,1du,2634,WE TWO
+n1du_incl,1du.incl,2637,WE TWO (INCLUSIVE)
+n1du_excl,1du.excl,2636,WE TWO (EXCLUSIVE)
+n2du,2du,2111,YOU TWO
+n3du,3du,2635,THEY TWO
+n1tr,1tr,,
+n1tr_incl,1tr.incl,,
+n1tr_excl,1tr.excl,,
+n2tr,2tr,,
+n3tr,3tr,,
+poss_word_1sg,poss.word.1sg,2090,MY
+poss_word_2sg,poss.word.2sg,732,YOUR (SINGULAR)
+poss_word_3sg,poss.word.3sg,2092,HIS OR HER
+poss_suffix_1sg,poss.suffix.1sg,,
+poss_suffix_2sg,poss.suffix.2sg,,
+poss_suffix_3sg,poss.suffix.3sg,,
+verb_subj_1sg,verb.subj.1sg,,
+verb_subj_2sg,verb.subj.2sg,,
+verb_subj_3sg,verb.subj.3sg,,
+verb_subj_1pl_incl,verb.subj.1pl.incl,,
+verb_subj_1pl_excl,verb.subj.1pl.excl,,
+verb_subj_2pl,verb.subj.2pl,,
+verb_subj_3pl,verb.subj.3pl,,

@@ -1,0 +1,2500 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,Page
+Tami-poss_suffix_1sg-1,,Tami,poss_suffix_1sg,-ŋ,-ŋ,,,Ray1919,,,,,323
+Tami-poss_suffix_2sg-1,,Tami,poss_suffix_2sg,-m,-m,,,Ray1919,,,,,323
+Tami-poss_suffix_3sg-1,,Tami,poss_suffix_3sg,-na,-na,,,Ray1919,,,,,323
+Tami-poss_word_1sg-1,,Tami,poss_word_1sg,kaŋ,kaŋ,,,Ray1919,,,,,323
+Tami-poss_word_2sg-1,,Tami,poss_word_2sg,kam,kam,,,Ray1919,,,,,323
+Tami-poss_word_3sg-1,,Tami,poss_word_3sg,kan,kan,,,Ray1919,,,,,323
+Yabim-poss_suffix_1sg-1,,Yabim,poss_suffix_1sg,-o,-o,,,Ray1919,,,,,323
+Yabim-poss_suffix_2sg-1,,Yabim,poss_suffix_2sg,-m,-m,,,Ray1919,,,,,323
+Yabim-poss_word_1sg-1,,Yabim,poss_word_1sg,"ŋo, ai-ŋo",ŋo,,,Ray1919,,,,,323
+Yabim-poss_word_1sg-2,,Yabim,poss_word_1sg,"ŋo, ai-ŋo",ai-ŋo,,,Ray1919,,,,,323
+Yabim-poss_word_2sg-1,,Yabim,poss_word_2sg,"nim, aum-nim",nim,,,Ray1919,,,,,323
+Yabim-poss_word_2sg-2,,Yabim,poss_word_2sg,"nim, aum-nim",aum-nim,,,Ray1919,,,,,323
+Yabim-poss_word_3sg-1,,Yabim,poss_word_3sg,"ni, eni",ni,,,Ray1919,,,,,323
+Yabim-poss_word_3sg-2,,Yabim,poss_word_3sg,"ni, eni",eni,,,Ray1919,,,,,323
+Bilibili-poss_suffix_1sg-1,,Bilibili,poss_suffix_1sg,"-ŋu, ŋ",-ŋu,,,Ray1919,,,,,323
+Bilibili-poss_suffix_1sg-2,,Bilibili,poss_suffix_1sg,"-ŋu, ŋ",ŋ,,,Ray1919,,,,,323
+Bilibili-poss_suffix_3sg-1,,Bilibili,poss_suffix_3sg,-n,-n,,,Ray1919,,,,,323
+Karkar-poss_suffix_1sg-1,,Karkar,poss_suffix_1sg,-k,-k,,,Ray1919,,,,,323
+Karkar-poss_suffix_3sg-1,,Karkar,poss_suffix_3sg,-n,-n,,,Ray1919,,,,,323
+Karkar-poss_word_1sg-1,,Karkar,poss_word_1sg,ŋai-nek,ŋai-nek,,,Ray1919,,,,,323
+Karkar-poss_word_2sg-1,,Karkar,poss_word_2sg,onga-ne,onga-ne,,,Ray1919,,,,,323
+Karkar-poss_word_3sg-1,,Karkar,poss_word_3sg,inga-nen,inga-nen,,,Ray1919,,,,,323
+Ali-poss_suffix_1sg-1,,Ali,poss_suffix_1sg,k,k,,,Ray1919,,,,,323
+Ali-poss_suffix_2sg-1,,Ali,poss_suffix_2sg,m,m,,,Ray1919,,,,,323
+Ali-poss_suffix_3sg-1,,Ali,poss_suffix_3sg,ŋ,ŋ,,,Ray1919,,,,,323
+Ali-poss_word_1sg-1,,Ali,poss_word_1sg,eoweŋ,eoweŋ,,,Ray1919,,,,,323
+Ali-poss_word_2sg-1,,Ali,poss_word_2sg,yieŋ,yieŋ,,,Ray1919,,,,,323
+Ali-poss_word_3sg-1,,Ali,poss_word_3sg,eŋen,eŋen,,,Ray1919,,,,,323
+Tumleo-poss_suffix_1sg-1,,Tumleo,poss_suffix_1sg,k,k,,,Ray1919,,,,,323
+Tumleo-poss_suffix_2sg-1,,Tumleo,poss_suffix_2sg,m,m,,,Ray1919,,,,,323
+Tumleo-poss_suffix_3sg-1,,Tumleo,poss_suffix_3sg,n,n,,,Ray1919,,,,,323
+Tumleo-poss_word_1sg-1,,Tumleo,poss_word_1sg,aueosen,aueosen,,,Ray1919,,,,,323
+Tumleo-poss_word_2sg-1,,Tumleo,poss_word_2sg,yiyien,yiyien,,,Ray1919,,,,,323
+Tumleo-poss_word_3sg-1,,Tumleo,poss_word_3sg,yeiyeien,yeiyeien,,,Ray1919,,,,,323
+Tami-n1sg-1,,Tami,n1sg,(ne)yau,yau,,,Ray1919,,,,,324
+Tami-n1pl_incl-1,,Tami,n1pl_incl,(niŋ)git,git,,,Ray1919,,,,,324
+Tami-n1pl_excl-1,,Tami,n1pl_excl,(niŋ)gai,gai,,,Ray1919,,,,,324
+Tami-n1du_incl-1,,Tami,n1du_incl,(niŋ)gitalu,gitalu,,,Ray1919,,,,,324
+Tami-n1du_excl-1,,Tami,n1du_excl,(niŋ)gailu,gailu,,,Ray1919,,,,,324
+Tami-n1tr_incl-1,,Tami,n1tr_incl,(niŋ)gitato,gitato,,,Ray1919,,,,,324
+Tami-n1tr_excl-1,,Tami,n1tr_excl,(niŋ)gaito,gaito,,,Ray1919,,,,,324
+Tami-n2sg-1,,Tami,n2sg,(ne)gom,gom,,,Ray1919,,,,,324
+Tami-n2pl-1,,Tami,n2pl,(niŋ)gam,gam,,,Ray1919,,,,,324
+Tami-n2du-1,,Tami,n2du,(niŋ)gamlu,gamlu,,,Ray1919,,,,,324
+Tami-n2tr-1,,Tami,n2tr,(niŋ)gamto,gamto,,,Ray1919,,,,,324
+Tami-n3sg-1,,Tami,n3sg,yai,yai,,,Ray1919,,,,,324
+Tami-n3pl-1,,Tami,n3pl,siŋ,siŋ,,,Ray1919,,,,,324
+Tami-n3du-1,,Tami,n3du,silu,silu,,,Ray1919,,,,,324
+Tami-n3tr-1,,Tami,n3tr,sito,sito,,,Ray1919,,,,,324
+Yabim-n1sg-1,,Yabim,n1sg,ai,ai,,,Ray1919,,,,,324
+Yabim-n1pl-1,,Yabim,n1pl,aia,aia,,,Ray1919,,,,,324
+Yabim-n1du-1,,Yabim,n1du,"aiagi, agi",aiagi,,,Ray1919,,,,,324
+Yabim-n1du-2,,Yabim,n1du,"aiagi, agi",agi,,,Ray1919,,,,,324
+Yabim-n2sg-1,,Yabim,n2sg,aum,aum,,,Ray1919,,,,,324
+Yabim-n2pl-1,,Yabim,n2pl,ama,ama,,,Ray1919,,,,,324
+Yabim-n2du-1,,Yabim,n2du,amagi,amagi,,,Ray1919,,,,,324
+Yabim-n3sg-1,,Yabim,n3sg,eŋ,eŋ,,,Ray1919,,,,,324
+Yabim-n3pl-1,,Yabim,n3pl,"esia, esea",esia,,,Ray1919,,,,,324
+Yabim-n3pl-2,,Yabim,n3pl,"esia, esea",esea,,,Ray1919,,,,,324
+Yabim-n3du-1,,Yabim,n3du,"esiagi, agi",esiagi,,,Ray1919,,,,,324
+Yabim-n3du-2,,Yabim,n3du,"esiagi, agi",agi,,,Ray1919,,,,,324
+Kelana-n1sg-1,,Kelana,n1sg,yau,yau,,,Ray1919,,,,,324
+Kelana-n2sg-1,,Kelana,n2sg,yom,yom,,,Ray1919,,,,,324
+RookIs-n1sg-1,,RookIs,n1sg,yau,yau,,,Ray1919,,,,,324
+RookIs-n2sg-1,,RookIs,n2sg,yo,yo,,,Ray1919,,,,,324
+Kaimanga-n1sg-1,,Kaimanga,n1sg,ñon,ñon,,,Ray1919,,,,,324
+Kaimanga-n2sg-1,,Kaimanga,n2sg,"nu, yum",nu,,,Ray1919,,,,,324
+Kaimanga-n2sg-2,,Kaimanga,n2sg,"nu, yum",yum,,,Ray1919,,,,,324
+Tuom-n1sg-1,,Tuom,n1sg,yau,yau,,,Ray1919,,,,,324
+Tuom-n1pl_incl-1,,Tuom,n1pl_incl,id,id,,,Ray1919,,,,,324
+Tuom-n1pl_excl-1,,Tuom,n1pl_excl,yaiŋa,yaiŋa,,,Ray1919,,,,,324
+Tuom-n1du_incl-1,,Tuom,n1du_incl,ituru,ituru,,,Ray1919,,,,,324
+Tuom-n1du_excl-1,,Tuom,n1du_excl,yairu,yairu,,,Ray1919,,,,,324
+Tuom-n1tr_incl-1,,Tuom,n1tr_incl,itol,itol,,,Ray1919,,,,,324
+Tuom-n2sg-1,,Tuom,n2sg,"yumsi, yum",yumsi,,,Ray1919,,,,,324
+Tuom-n2sg-2,,Tuom,n2sg,"yumsi, yum",yum,,,Ray1919,,,,,324
+Tuom-n2pl-1,,Tuom,n2pl,yam,yam,,,Ray1919,,,,,324
+Tuom-n2du-1,,Tuom,n2du,yamru,yamru,,,Ray1919,,,,,324
+Tuom-n2tr-1,,Tuom,n2tr,yamtol,yamtol,,,Ray1919,,,,,324
+Tuom-n3sg-1,,Tuom,n3sg,"ŋēovi, nug",ŋēovi,,,Ray1919,,,,,324
+Tuom-n3sg-2,,Tuom,n3sg,"ŋēovi, nug",nug,,,Ray1919,,,,,324
+Tuom-n3tr-1,,Tuom,n3tr,titor,titor,,,Ray1919,,,,,324
+Mantok-n1sg-1,,Mantok,n1sg,yau,yau,,,Ray1919,,,,,324
+Mantok-n1du_incl-1,,Mantok,n1du_incl,ituru,ituru,,,Ray1919,,,,,324
+Mantok-n2sg-1,,Mantok,n2sg,yam,yam,,,Ray1919,,,,,324
+Mantok-n3sg-1,,Mantok,n3sg,neu,neu,,,Ray1919,,,,,324
+Bilibili-n1sg-1,,Bilibili,n1sg,ŋa,ŋa,,,Ray1919,,,,,324
+Bilibili-n1pl_incl-1,,Bilibili,n1pl_incl,ĭnd,ĭnd,,,Ray1919,,,,,324
+Bilibili-n1pl_excl-1,,Bilibili,n1pl_excl,a,a,,,Ray1919,,,,,324
+Bilibili-n2sg-1,,Bilibili,n2sg,o,o,,,Ray1919,,,,,324
+Bilibili-n2pl-1,,Bilibili,n2pl,aŋ,aŋ,,,Ray1919,,,,,324
+Bilibili-n3sg-1,,Bilibili,n3sg,i,i,,,Ray1919,,,,,324
+Bilibili-n3pl-1,,Bilibili,n3pl,i,i,,,Ray1919,,,,,324
+Karkar-n1sg-1,,Karkar,n1sg,ŋai,ŋai,,,Ray1919,,,,,324
+Karkar-n1pl_incl-1,,Karkar,n1pl_incl,nam,nam,,,Ray1919,,,,,324
+Karkar-n1pl_excl-1,,Karkar,n1pl_excl,id,id,,,Ray1919,,,,,324
+Karkar-n1du_incl-1,,Karkar,n1du_incl,nungom uraru,nungom uraru,,,Ray1919,,,,,324
+Karkar-n1du_excl-1,,Karkar,n1du_excl,nungod uraru,nungod uraru,,,Ray1919,,,,,324
+Karkar-n1tr_incl-1,,Karkar,n1tr_incl,nungom utol,nungom utol,,,Ray1919,,,,,324
+Karkar-n1tr_excl-1,,Karkar,n1tr_excl,nungod utol,nungod utol,,,Ray1919,,,,,324
+Karkar-n2sg-1,,Karkar,n2sg,enge,enge,,,Ray1919,,,,,324
+Karkar-n2pl-1,,Karkar,n2pl,aŋ,aŋ,,,Ray1919,,,,,324
+Karkar-n3sg-1,,Karkar,n3sg,inge,inge,,,Ray1919,,,,,324
+Karkar-n3pl-1,,Karkar,n3pl,iŋ,iŋ,,,Ray1919,,,,,324
+SiarRagetta-n1sg-1,,SiarRagetta,n1sg,ŋa,ŋa,,,Ray1919,,,,,325
+SiarRagetta-n1pl_incl-1,,SiarRagetta,n1pl_incl,id,id,,,Ray1919,,,,,325
+SiarRagetta-n1pl_excl-1,,SiarRagetta,n1pl_excl,am,am,,,Ray1919,,,,,325
+SiarRagetta-n1du_incl-1,,SiarRagetta,n1du_incl,idausŭn,idausŭn,,,Ray1919,,,,,325
+SiarRagetta-n1du_excl-1,,SiarRagetta,n1du_excl,amausŭn,amausŭn,,,Ray1919,,,,,325
+SiarRagetta-n1tr_incl-1,,SiarRagetta,n1tr_incl,itŏl,itŏl,,,Ray1919,,,,,325
+SiarRagetta-n1tr_excl-1,,SiarRagetta,n1tr_excl,amtŏl,amtŏl,,,Ray1919,,,,,325
+SiarRagetta-n2sg-1,,SiarRagetta,n2sg,o,o,,,Ray1919,,,,,325
+SiarRagetta-n2pl-1,,SiarRagetta,n2pl,aŋ,aŋ,,,Ray1919,,,,,325
+SiarRagetta-n2du-1,,SiarRagetta,n2du,aŋausŭn,aŋausŭn,,,Ray1919,,,,,325
+SiarRagetta-n2tr-1,,SiarRagetta,n2tr,aŋtŏl,aŋtŏl,,,Ray1919,,,,,325
+SiarRagetta-n3sg-1,,SiarRagetta,n3sg,i,i,,,Ray1919,,,,,325
+SiarRagetta-n3pl-1,,SiarRagetta,n3pl,idi,idi,,,Ray1919,,,,,325
+SiarRagetta-n3du-1,,SiarRagetta,n3du,iausŭn,iausŭn,,,Ray1919,,,,,325
+SiarRagetta-n3tr-1,,SiarRagetta,n3tr,itŏl,itŏl,,,Ray1919,,,,,325
+Sarang-n1sg-1,,Sarang,n1sg,nai,nai,,,Ray1919,,,,,325
+Sarang-n1pl_excl-1,,Sarang,n1pl_excl,nam,nam,,,Ray1919,,,,,325
+Sarang-n1du-1,,Sarang,n1du,toru,toru,,,Ray1919,,,,,325
+Sarang-n2sg-1,,Sarang,n2sg,o,o,,,Ray1919,,,,,325
+Sarang-n2pl-1,,Sarang,n2pl,aŋ,aŋ,,,Ray1919,,,,,325
+Sarang-n3sg-1,,Sarang,n3sg,i,i,,,Ray1919,,,,,325
+Sarang-n3pl-1,,Sarang,n3pl,idi,idi,,,Ray1919,,,,,325
+Manam-n1sg-1,,Manam,n1sg,ŋau,ŋau,,,Ray1919,,,,,325
+Manam-n2sg-1,,Manam,n2sg,"aio, kaiko",aio,,,Ray1919,,,,,325
+Manam-n2sg-2,,Manam,n2sg,"aio, kaiko",kaiko,,,Ray1919,,,,,325
+Manam-n3sg-1,,Manam,n3sg,ŋai,ŋai,,,Ray1919,,,,,325
+HansaV-n1sg-1,,HansaV,n1sg,ŋnau,ŋnau,,,Ray1919,,,,,325
+HansaV-n2sg-1,,HansaV,n2sg,ŋnai,ŋnai,,,Ray1919,,,,,325
+Karesau-n1sg-1,,Karesau,n1sg,kiau,kiau,,,Ray1919,,,,,325
+Karesau-n2sg-1,,Karesau,n2sg,yek,yek,,,Ray1919,,,,,325
+Ali-n1sg-1,,Ali,n1sg,eo,eo,,,Ray1919,,,,,325
+Ali-n1pl-1,,Ali,n1pl,yit,yit,,,Ray1919,,,,,325
+Ali-n1du-1,,Ali,n1du,"trit, tit",trit,,,Ray1919,,,,,325
+Ali-n1du-2,,Ali,n1du,"trit, tit",tit,,,Ray1919,,,,,325
+Ali-n2sg-1,,Ali,n2sg,yi,yi,,,Ray1919,,,,,325
+Ali-n2pl-1,,Ali,n2pl,am,am,,,Ray1919,,,,,325
+Ali-n2du-1,,Ali,n2du,"treŋ, teŋ",treŋ,,,Ray1919,,,,,325
+Ali-n2du-2,,Ali,n2du,"treŋ, teŋ",teŋ,,,Ray1919,,,,,325
+Ali-n3sg-1,,Ali,n3sg,eŋ,eŋ,,,Ray1919,,,,,325
+Ali-n3pl-1,,Ali,n3pl,re,re,,,Ray1919,,,,,325
+Ali-n3du-1,,Ali,n3du,"treŋ, teŋ",treŋ,,,Ray1919,,,,,325
+Ali-n3du-2,,Ali,n3du,"treŋ, teŋ",teŋ,,,Ray1919,,,,,325
+Yakamul-n1sg-1,,Yakamul,n1sg,eo,eo,,,Ray1919,,,,,325
+Yakamul-n1pl-1,,Yakamul,n1pl,yúk,yúk,,,Ray1919,,,,,325
+Yakamul-n1du-1,,Yakamul,n1du,ati,ati,,,Ray1919,,,,,325
+Yakamul-n2sg-1,,Yakamul,n2sg,yi,yi,,,Ray1919,,,,,325
+Yakamul-n2pl-1,,Yakamul,n2pl,am,am,,,Ray1919,,,,,325
+Yakamul-n3sg-1,,Yakamul,n3sg,yeŋ,yeŋ,,,Ray1919,,,,,325
+Yakamul-n3pl-1,,Yakamul,n3pl,ri,ri,,,Ray1919,,,,,325
+UlauSueng-n1sg-1,,UlauSueng,n1sg,geau,geau,,,Ray1919,,,,,325
+UlauSueng-n1pl-1,,UlauSueng,n1pl,yit,yit,,,Ray1919,,,,,325
+UlauSueng-n2sg-1,,UlauSueng,n2sg,yi,yi,,,Ray1919,,,,,325
+UlauSueng-n2pl-1,,UlauSueng,n2pl,am,am,,,Ray1919,,,,,325
+UlauSueng-n3sg-1,,UlauSueng,n3sg,wui,wui,,,Ray1919,,,,,325
+UlauSueng-n3pl-1,,UlauSueng,n3pl,ari,ari,,,Ray1919,,,,,325
+Tumleo-n1sg-1,,Tumleo,n1sg,aueo,aueo,,,Ray1919,,,,,325
+Tumleo-n1pl-1,,Tumleo,n1pl,etet,etet,,,Ray1919,,,,,325
+Tumleo-n2sg-1,,Tumleo,n2sg,yiyi,yiyi,,,Ray1919,,,,,325
+Tumleo-n2pl-1,,Tumleo,n2pl,amem,amem,,,Ray1919,,,,,325
+Tumleo-n3sg-1,,Tumleo,n3sg,yeiyei,yeiyei,,,Ray1919,,,,,325
+Tumleo-n3pl-1,,Tumleo,n3pl,rere,rere,,,Ray1919,,,,,325
+Yotafa-n1sg-1,,Yotafa,n1sg,ner,ner,,,Ray1919,,,,,325
+Yotafa-n1pl-1,,Yotafa,n1pl,siberi,siberi,,,Ray1919,,,,,325
+Yotafa-n2sg-1,,Yotafa,n2sg,ter,ter,,,Ray1919,,,,,325
+Yotafa-n2pl-1,,Yotafa,n2pl,simi,simi,,,Ray1919,,,,,325
+Yotafa-n3sg-1,,Yotafa,n3sg,der,der,,,Ray1919,,,,,325
+Yotafa-n3pl-1,,Yotafa,n3pl,deriki,deriki,,,Ray1919,,,,,325
+Kai-n1sg-1,,Kai,n1sg,no(ni),no,,,Ray1919,,,,,325
+Kai-n1pl_incl-1,,Kai,n1pl_incl,nongo,nongo,,,Ray1919,,,,,325
+Kai-n1pl_excl-1,,Kai,n1pl_excl,nonge,nonge,,,Ray1919,,,,,325
+Kai-n1du_incl-1,,Kai,n1du_incl,noha,noha,,,Ray1919,,,,,325
+Kai-n1du_excl-1,,Kai,n1du_excl,nohe,nohe,,,Ray1919,,,,,325
+Kai-n2sg-1,,Kai,n2sg,go(gi),go,,,Ray1919,,,,,325
+Kai-n2pl-1,,Kai,n2pl,ŋonge,ŋonge,,,Ray1919,,,,,325
+Kai-n2du-1,,Kai,n2du,ŋohe,ŋohe,,,Ray1919,,,,,325
+Kai-n3sg-1,,Kai,n3sg,e(gi),e,,,Ray1919,,,,,325
+Kai-n3pl-1,,Kai,n3pl,yange,yange,,,Ray1919,,,,,325
+Kai-n3du-1,,Kai,n3du,yahe,yahe,,,Ray1919,,,,,325
+Pong-n1sg-1,,Pong,n1sg,na,na,,,Ray1919,,,,,325
+Pong-n2sg-1,,Pong,n2sg,ga,ga,,,Ray1919,,,,,325
+Pong-n3sg-1,,Pong,n3sg,yaŋa,yaŋa,,,Ray1919,,,,,325
+Keseraua-n1sg-1,,Keseraua,n1sg,na,na,,,Ray1919,,,,,325
+Keseraua-n2sg-1,,Keseraua,n2sg,ga,ga,,,Ray1919,,,,,325
+Keseraua-n3sg-1,,Keseraua,n3sg,yaŋa,yaŋa,,,Ray1919,,,,,325
+KelanaKei-n1sg-1,,KelanaKei,n1sg,nai,nai,,,Ray1919,,,,,325
+KelanaKei-n2sg-1,,KelanaKei,n2sg,ŋe,ŋe,,,Ray1919,,,,,325
+Gorendu-n1sg-1,,Gorendu,n1sg,adyi,adyi,,,Ray1919,,,,,325
+Gorendu-n2sg-1,,Gorendu,n2sg,ni,ni,,,Ray1919,,,,,325
+Gorendu-n3sg-1,,Gorendu,n3sg,nadi,nadi,,,Ray1919,,,,,325
+Bongu-n1sg-1,,Bongu,n1sg,ad'i,ad'i,,,Ray1919,,,,,325
+Bongu-n1pl_incl-1,,Bongu,n1pl_incl,jīg,jīg,,,Ray1919,,,,,325
+Bongu-n1pl_excl-1,,Bongu,n1pl_excl,gā,gā,,,Ray1919,,,,,325
+Bongu-n1du_incl-1,,Bongu,n1du_incl,jal,jal,,,Ray1919,,,,,325
+Bongu-n1du_excl-1,,Bongu,n1du_excl,gal,gal,,,Ray1919,,,,,325
+Bongu-n2sg-1,,Bongu,n2sg,nī,nī,,,Ray1919,,,,,325
+Bongu-n2pl-1,,Bongu,n2pl,nīd'ī,nīd'ī,,,Ray1919,,,,,325
+Bongu-n2du-1,,Bongu,n2du,nīl,nīl,,,Ray1919,,,,,325
+Bongu-n3sg-1,,Bongu,n3sg,andu,andu,,,Ray1919,,,,,325
+Bongu-n3pl-1,,Bongu,n3pl,nad'ī,nad'ī,,,Ray1919,,,,,325
+Bongu-n3du-1,,Bongu,n3du,nal,nal,,,Ray1919,,,,,325
+Bogajim-n1sg-1,,Bogajim,n1sg,"edju, dju, e",edju,,,Ray1919,,,,,325
+Bogajim-n1sg-2,,Bogajim,n1sg,"edju, dju, e",dju,,,Ray1919,,,,,325
+Bogajim-n1sg-3,,Bogajim,n1sg,"edju, dju, e",e,,,Ray1919,,,,,325
+Bogajim-n1pl-1,,Bogajim,n1pl,iga,iga,,,Ray1919,,,,,325
+Bogajim-n1du-1,,Bogajim,n1du,ago,ago,,,Ray1919,,,,,325
+Bogajim-n1tr-1,,Bogajim,n1tr,ika,ika,,,Ray1919,,,,,325
+Bogajim-n2sg-1,,Bogajim,n2sg,ni,ni,,,Ray1919,,,,,325
+Bogajim-n2pl-1,,Bogajim,n2pl,"nango, niŋgi",nango,,,Ray1919,,,,,325
+Bogajim-n2pl-2,,Bogajim,n2pl,"nango, niŋgi",niŋgi,,,Ray1919,,,,,325
+Bogajim-n2du-1,,Bogajim,n2du,"ago, naraluo",ago,,,Ray1919,,,,,325
+Bogajim-n2du-2,,Bogajim,n2du,"ago, naraluo",naraluo,,,Ray1919,,,,,325
+Bogajim-n2tr-1,,Bogajim,n2tr,ika,ika,,,Ray1919,,,,,325
+Bogajim-n3sg-1,,Bogajim,n3sg,"are, a",are,,,Ray1919,,,,,325
+Bogajim-n3sg-2,,Bogajim,n3sg,"are, a",a,,,Ray1919,,,,,325
+Bogajim-n3pl-1,,Bogajim,n3pl,"nango, naŋgi",nango,,,Ray1919,,,,,325
+Bogajim-n3pl-2,,Bogajim,n3pl,"nango, naŋgi",naŋgi,,,Ray1919,,,,,325
+Manikam-n1sg-1,,Manikam,n1sg,dya,dya,,,Ray1919,,,,,325
+Burumana-n1sg-1,,Burumana,n1sg,d'a,d'a,,,Ray1919,,,,,325
+Burumana-n1pl_excl-1,,Burumana,n1pl_excl,ga,ga,,,Ray1919,,,,,325
+Burumana-n2sg-1,,Burumana,n2sg,ni,ni,,,Ray1919,,,,,325
+Burumana-n3sg-1,,Burumana,n3sg,aro,aro,,,Ray1919,,,,,325
+Kaliko-n1sg-1,,Kaliko,n1sg,dya,dya,,,Ray1919,,,,,325
+Kaliko-n2sg-1,,Kaliko,n2sg,ny,ny,,,Ray1919,,,,,325
+Koliku-n1sg-1,,Koliku,n1sg,d'a,d'a,,,Ray1919,,,,,325
+Koliku-n1pl_excl-1,,Koliku,n1pl_excl,ga,ga,,,Ray1919,,,,,325
+Koliku-n2sg-1,,Koliku,n2sg,ni,ni,,,Ray1919,,,,,325
+Koliku-n3sg-1,,Koliku,n3sg,aro,aro,,,Ray1919,,,,,325
+Male-n1sg-1,,Male,n1sg,d'a,d'a,,,Ray1919,,,,,325
+Male-n1pl_excl-1,,Male,n1pl_excl,ga,ga,,,Ray1919,,,,,325
+Male-n2sg-1,,Male,n2sg,ni,ni,,,Ray1919,,,,,325
+Male-n3sg-1,,Male,n3sg,aro,aro,,,Ray1919,,,,,325
+Langtub-n1sg-1,,Langtub,n1sg,i,i,,,Ray1919,,,,,325
+Langtub-n2sg-1,,Langtub,n2sg,"ne, ni",ne,,,Ray1919,,,,,325
+Langtub-n2sg-2,,Langtub,n2sg,"ne, ni",ni,,,Ray1919,,,,,325
+Sungumana-n1sg-1,,Sungumana,n1sg,d'a,d'a,,,Ray1919,,,,,326
+Sungumana-n1pl_incl-1,,Sungumana,n1pl_incl,niŋga,niŋga,,,Ray1919,,,,,326
+Sungumana-n1pl_excl-1,,Sungumana,n1pl_excl,ga,ga,,,Ray1919,,,,,326
+Sungumana-n2sg-1,,Sungumana,n2sg,ni,ni,,,Ray1919,,,,,326
+Sungumana-n2pl-1,,Sungumana,n2pl,indo,indo,,,Ray1919,,,,,326
+Sungumana-n3sg-1,,Sungumana,n3sg,andu,andu,,,Ray1919,,,,,326
+Maragam-n1sg-1,,Maragam,n1sg,je,je,,,Ray1919,,,,,326
+Maragam-n1pl_excl-1,,Maragam,n1pl_excl,ine,ine,,,Ray1919,,,,,326
+Maragam-n2sg-1,,Maragam,n2sg,ni,ni,,,Ray1919,,,,,326
+Maragam-n3sg-1,,Maragam,n3sg,taŋgumun,taŋgumun,,,Ray1919,,,,,326
+Panim-n1sg-1,,Panim,n1sg,isi,isi,,,Ray1919,,,,,326
+Panim-n1pl-1,,Panim,n1pl,ige,ige,,,Ray1919,,,,,326
+Panim-n2sg-1,,Panim,n2sg,"ine, hine, ne",ine,,,Ray1919,,,,,326
+Panim-n2sg-2,,Panim,n2sg,"ine, hine, ne",hine,,,Ray1919,,,,,326
+Panim-n2sg-3,,Panim,n2sg,"ine, hine, ne",ne,,,Ray1919,,,,,326
+Panim-n2pl-1,,Panim,n2pl,age,age,,,Ray1919,,,,,326
+Panim-n3sg-1,,Panim,n3sg,hebod,hebod,,,Ray1919,,,,,326
+Panim-n3pl-1,,Panim,n3pl,heage,heage,,?,Ray1919,,,,,326
+Mis-n1sg-1,,Mis,n1sg,da,da,,,Ray1919,,,,,326
+Mis-n1pl-1,,Mis,n1pl,ige,ige,,,Ray1919,,,,,326
+Mis-n2sg-1,,Mis,n2sg,na,na,,,Ray1919,,,,,326
+Mis-n2pl-1,,Mis,n2pl,age,age,,,Ray1919,,,,,326
+Mis-n3sg-1,,Mis,n3sg,nug,nug,,,Ray1919,,,,,326
+Nupanob-n1sg-1,,Nupanob,n1sg,"da, ta, ita",da,,,Ray1919,,,,,326
+Nupanob-n1sg-2,,Nupanob,n1sg,"da, ta, ita",ta,,,Ray1919,,,,,326
+Nupanob-n1sg-3,,Nupanob,n1sg,"da, ta, ita",ita,,,Ray1919,,,,,326
+Nupanob-n1pl-1,,Nupanob,n1pl,"ige, igam",ige,,,Ray1919,,,,,326
+Nupanob-n1pl-2,,Nupanob,n1pl,"ige, igam",igam,,,Ray1919,,,,,326
+Nupanob-n2sg-1,,Nupanob,n2sg,"na, u",na,,,Ray1919,,,,,326
+Nupanob-n2sg-2,,Nupanob,n2sg,"na, u",u,,,Ray1919,,,,,326
+Kemba-n1sg-1,,Kemba,n1sg,da,da,,,Ray1919,,,,,326
+Rempin-n1sg-1,,Rempin,n1sg,da,da,,,Ray1919,,,,,326
+Bunu-n1sg-1,,Bunu,n1sg,ya,ya,,,Ray1919,,,,,326
+Tombenam-n1sg-1,,Tombenam,n1sg,"inor, emaka",inor,,,Ray1919,,,,,326
+Tombenam-n1sg-2,,Tombenam,n1sg,"inor, emaka",emaka,,,Ray1919,,,,,326
+Tombenam-n2sg-1,,Tombenam,n2sg,eingor,eingor,,,Ray1919,,,,,326
+Monumbo-n1sg-1,,Monumbo,n1sg,ĕk,ĕk,,,Ray1919,,,,,326
+Monumbo-n1pl-1,,Monumbo,n1pl,im,im,,,Ray1919,,,,,326
+Monumbo-n1du-1,,Monumbo,n1du,ip,ip,,,Ray1919,,,,,326
+Monumbo-n2sg-1,,Monumbo,n2sg,tsĕk,tsĕk,,,Ray1919,,,,,326
+Monumbo-n2pl-1,,Monumbo,n2pl,um,um,,,Ray1919,,,,,326
+Monumbo-n2du-1,,Monumbo,n2du,up,up,,,Ray1919,,,,,326
+Monumbo-n3sg-1,,Monumbo,n3sg,niŋ,niŋ,,(masc.),Ray1919,,,,,326
+Monumbo-n3pl-1,,Monumbo,n3pl,miŋ,miŋ,,(masc.),Ray1919,,,,,326
+Monumbo-n3du-1,,Monumbo,n3du,măk,măk,,(masc.),Ray1919,,,,,326
+Monumbo-n3sg-2,,Monumbo,n3sg,uk,uk,,(fem.),Ray1919,,,,,326
+Monumbo-n3pl-2,,Monumbo,n3pl,mbok,mbok,,(fem.),Ray1919,,,,,326
+Monumbo-n3du-2,,Monumbo,n3du,văk,văk,,(fem.),Ray1919,,,,,326
+Monumbo-n3sg-3,,Monumbo,n3sg,mĭk,mĭk,,(child),Ray1919,,,,,326
+Monumbo-n3pl-3,,Monumbo,n3pl,mbok,mbok,,(child),Ray1919,,,,,326
+Monumbo-n3du-3,,Monumbo,n3du,băk,băk,,(child),Ray1919,,,,,326
+Monumbo-n3sg-4,,Monumbo,n3sg,ĭk,ĭk,,(thing),Ray1919,,,,,326
+Monumbo-n3pl-4,,Monumbo,n3pl,mbok,mbok,,(thing),Ray1919,,,,,326
+Monumbo-n3du-4,,Monumbo,n3du,manaman,manaman,,(thing),Ray1919,,,,,326
+Watam-n1sg-1,,Watam,n1sg,yak,yak,,,Ray1919,,,,,326
+Watam-n2sg-1,,Watam,n2sg,u,u,,,Ray1919,,,,,326
+Watam-n3sg-1,,Watam,n3sg,min,min,,,Ray1919,,,,,326
+Watam-n3pl-1,,Watam,n3pl,min,min,,,Ray1919,,,,,326
+KAugustaRiver-n1sg-1,,KAugustaRiver,n1sg,nun,nun,,,Ray1919,,,,,326
+KAugustaRiver-n2sg-1,,KAugustaRiver,n2sg,men,men,,,Ray1919,,,,,326
+Kavu-n1sg-1,,Kavu,n1sg,ayuk,ayuk,,,Ray1919,,,,,326
+Kavu-n1pl-1,,Kavu,n1pl,apak,apak,,,Ray1919,,,,,326
+Kavu-n2sg-1,,Kavu,n2sg,nak,nak,,,Ray1919,,,,,326
+Kavu-n2pl-1,,Kavu,n2pl,ipak,ipak,,,Ray1919,,,,,326
+Kavu-n3sg-1,,Kavu,n3sg,anan,anan,,,Ray1919,,,,,326
+Kavu-n3pl-1,,Kavu,n3pl,keit'enak,keit'enak,,,Ray1919,,,,,326
+Valman-n1sg-1,,Valman,n1sg,kum,kum,,,Ray1919,,,,,326
+Valman-n1pl-1,,Valman,n1pl,kibin,kibin,,,Ray1919,,,,,326
+Valman-n2sg-1,,Valman,n2sg,t'i,t'i,,,Ray1919,,,,,326
+Valman-n2pl-1,,Valman,n2pl,t'im,t'im,,,Ray1919,,,,,326
+Valman-n3sg-1,,Valman,n3sg,runon,runon,,(masc.),Ray1919,,,,,326
+Valman-n3sg-2,,Valman,n3sg,ru,ru,,(fem.),Ray1919,,,,,326
+Valman-n3pl-1,,Valman,n3pl,ri,ri,,,Ray1919,,,,,326
+Tami-verb_subj_1sg-1,,Tami,verb_subj_1sg,a,a,,,Ray1919,,,,,326
+Tami-verb_subj_2sg-1,,Tami,verb_subj_2sg,"gu, go",gu,,,Ray1919,,,,,326
+Tami-verb_subj_2sg-2,,Tami,verb_subj_2sg,"gu, go",go,,,Ray1919,,,,,326
+Tami-verb_subj_1pl_incl-1,,Tami,verb_subj_1pl_incl,ta,ta,,,Ray1919,,,,,326
+Tami-verb_subj_1pl_excl-1,,Tami,verb_subj_1pl_excl,ga,ga,,,Ray1919,,,,,326
+Tami-verb_subj_2pl-1,,Tami,verb_subj_2pl,ga,ga,,,Ray1919,,,,,326
+Tami-verb_subj_3pl-1,,Tami,verb_subj_3pl,si,si,,,Ray1919,,,,,326
+Yabim-verb_subj_1sg-1,,Yabim,verb_subj_1sg,"ya, ga, ta",ya,,,Ray1919,,,,,326
+Yabim-verb_subj_1sg-2,,Yabim,verb_subj_1sg,"ya, ga, ta",ga,,,Ray1919,,,,,326
+Yabim-verb_subj_1sg-3,,Yabim,verb_subj_1sg,"ya, ga, ta",ta,,,Ray1919,,,,,326
+Yabim-verb_subj_2sg-1,,Yabim,verb_subj_2sg,"u(o), gu(go), ta",u,,,Ray1919,,,,,326
+Yabim-verb_subj_2sg-2,,Yabim,verb_subj_2sg,"u(o), gu(go), ta",gu,,,Ray1919,,,,,326
+Yabim-verb_subj_2sg-3,,Yabim,verb_subj_2sg,"u(o), gu(go), ta",ta,,,Ray1919,,,,,326
+Yabim-verb_subj_3sg-1,,Yabim,verb_subj_3sg,"e, ge(gi), ta",e,,,Ray1919,,,,,326
+Yabim-verb_subj_3sg-2,,Yabim,verb_subj_3sg,"e, ge(gi), ta",ge,,,Ray1919,,,,,326
+Yabim-verb_subj_3sg-3,,Yabim,verb_subj_3sg,"e, ge(gi), ta",ta,,,Ray1919,,,,,326
+Yabim-verb_subj_1pl_incl-1,,Yabim,verb_subj_1pl_incl,"a, a, ta",a,,,Ray1919,,,,,326
+Yabim-verb_subj_1pl_incl-2,,Yabim,verb_subj_1pl_incl,"a, a, ta",a,,,Ray1919,,,,,326
+Yabim-verb_subj_1pl_incl-3,,Yabim,verb_subj_1pl_incl,"a, a, ta",ta,,,Ray1919,,,,,326
+Yabim-verb_subj_1pl_excl-1,,Yabim,verb_subj_1pl_excl,"a, a, ta",a,,,Ray1919,,,,,326
+Yabim-verb_subj_1pl_excl-2,,Yabim,verb_subj_1pl_excl,"a, a, ta",a,,,Ray1919,,,,,326
+Yabim-verb_subj_1pl_excl-3,,Yabim,verb_subj_1pl_excl,"a, a, ta",ta,,,Ray1919,,,,,326
+Yabim-verb_subj_2pl-1,,Yabim,verb_subj_2pl,"a, a, ta",a,,,Ray1919,,,,,326
+Yabim-verb_subj_2pl-2,,Yabim,verb_subj_2pl,"a, a, ta",a,,,Ray1919,,,,,326
+Yabim-verb_subj_2pl-3,,Yabim,verb_subj_2pl,"a, a, ta",ta,,,Ray1919,,,,,326
+Yabim-verb_subj_3pl-1,,Yabim,verb_subj_3pl,"se (si), se (si), ta (te, ti)",se,,,Ray1919,,,,,326
+Yabim-verb_subj_3pl-2,,Yabim,verb_subj_3pl,"se (si), se (si), ta (te, ti)",se,,,Ray1919,,,,,326
+Yabim-verb_subj_3pl-3,,Yabim,verb_subj_3pl,"se (si), se (si), ta (te, ti)",ta,,,Ray1919,,,,,326
+Bilibili-verb_subj_1sg-1,,Bilibili,verb_subj_1sg,"ŋa, ŋe, ŋi, ŋo, ŋu",ŋa,,,Ray1919,,,,,326
+Bilibili-verb_subj_1sg-2,,Bilibili,verb_subj_1sg,"ŋa, ŋe, ŋi, ŋo, ŋu",ŋe,,,Ray1919,,,,,326
+Bilibili-verb_subj_1sg-3,,Bilibili,verb_subj_1sg,"ŋa, ŋe, ŋi, ŋo, ŋu",ŋi,,,Ray1919,,,,,326
+Bilibili-verb_subj_1sg-4,,Bilibili,verb_subj_1sg,"ŋa, ŋe, ŋi, ŋo, ŋu",ŋo,,,Ray1919,,,,,326
+Bilibili-verb_subj_1sg-5,,Bilibili,verb_subj_1sg,"ŋa, ŋe, ŋi, ŋo, ŋu",ŋu,,,Ray1919,,,,,326
+Bilibili-verb_subj_2sg-1,,Bilibili,verb_subj_2sg,"o, u, w",o,,,Ray1919,,,,,326
+Bilibili-verb_subj_2sg-2,,Bilibili,verb_subj_2sg,"o, u, w",u,,,Ray1919,,,,,326
+Bilibili-verb_subj_2sg-3,,Bilibili,verb_subj_2sg,"o, u, w",w,,,Ray1919,,,,,326
+Bilibili-verb_subj_3sg-1,,Bilibili,verb_subj_3sg,"i, y",i,,,Ray1919,,,,,326
+Bilibili-verb_subj_3sg-2,,Bilibili,verb_subj_3sg,"i, y",y,,,Ray1919,,,,,326
+Bilibili-verb_subj_1pl_incl-1,,Bilibili,verb_subj_1pl_incl,"tă, tĕ, tŭ",tă,,,Ray1919,,,,,326
+Bilibili-verb_subj_1pl_incl-2,,Bilibili,verb_subj_1pl_incl,"tă, tĕ, tŭ",tĕ,,,Ray1919,,,,,326
+Bilibili-verb_subj_1pl_incl-3,,Bilibili,verb_subj_1pl_incl,"tă, tĕ, tŭ",tŭ,,,Ray1919,,,,,326
+Bilibili-verb_subj_1pl_excl-1,,Bilibili,verb_subj_1pl_excl,"ă, ĕ, ŏ",ă,,,Ray1919,,,,,326
+Bilibili-verb_subj_1pl_excl-2,,Bilibili,verb_subj_1pl_excl,"ă, ĕ, ŏ",ĕ,,,Ray1919,,,,,326
+Bilibili-verb_subj_1pl_excl-3,,Bilibili,verb_subj_1pl_excl,"ă, ĕ, ŏ",ŏ,,,Ray1919,,,,,326
+Bilibili-verb_subj_2pl-1,,Bilibili,verb_subj_2pl,"ă, ă, ŏ",ă,,,Ray1919,,,,,326
+Bilibili-verb_subj_2pl-2,,Bilibili,verb_subj_2pl,"ă, ă, ŏ",ă,,,Ray1919,,,,,326
+Bilibili-verb_subj_2pl-3,,Bilibili,verb_subj_2pl,"ă, ă, ŏ",ŏ,,,Ray1919,,,,,326
+Bilibili-verb_subj_3pl-1,,Bilibili,verb_subj_3pl,"dă, dĕ, dĭ, dŏ, dŭ",dă,,,Ray1919,,,,,326
+Bilibili-verb_subj_3pl-2,,Bilibili,verb_subj_3pl,"dă, dĕ, dĭ, dŏ, dŭ",dĕ,,,Ray1919,,,,,326
+Bilibili-verb_subj_3pl-3,,Bilibili,verb_subj_3pl,"dă, dĕ, dĭ, dŏ, dŭ",dĭ,,,Ray1919,,,,,326
+Bilibili-verb_subj_3pl-4,,Bilibili,verb_subj_3pl,"dă, dĕ, dĭ, dŏ, dŭ",dŏ,,,Ray1919,,,,,326
+Bilibili-verb_subj_3pl-5,,Bilibili,verb_subj_3pl,"dă, dĕ, dĭ, dŏ, dŭ",dŭ,,,Ray1919,,,,,326
+Karkar-verb_subj_1sg-1,,Karkar,verb_subj_1sg,"ŋ, ni",ŋ,,,Ray1919,,,,,326
+Karkar-verb_subj_1sg-2,,Karkar,verb_subj_1sg,"ŋ, ni",ni,,,Ray1919,,,,,326
+Karkar-verb_subj_2sg-1,,Karkar,verb_subj_2sg,"o, u",o,,,Ray1919,,,,,326
+Karkar-verb_subj_2sg-2,,Karkar,verb_subj_2sg,"o, u",u,,,Ray1919,,,,,326
+Karkar-verb_subj_3sg-1,,Karkar,verb_subj_3sg,i,i,,,Ray1919,,,,,326
+Karkar-verb_subj_1pl_incl-1,,Karkar,verb_subj_1pl_incl,ma,ma,,,Ray1919,,,,,326
+Karkar-verb_subj_1pl_excl-1,,Karkar,verb_subj_1pl_excl,da,da,,,Ray1919,,,,,326
+Karkar-verb_subj_2pl-1,,Karkar,verb_subj_2pl,a,a,,,Ray1919,,,,,326
+Karkar-verb_subj_3pl-1,,Karkar,verb_subj_3pl,ti,ti,,,Ray1919,,,,,326
+Ali-verb_subj_1sg-1,,Ali,verb_subj_1sg,ne,ne,,,Ray1919,,,,,326
+Ali-verb_subj_2sg-1,,Ali,verb_subj_2sg,wŏ,wŏ,,,Ray1919,,,,,326
+Ali-verb_subj_3sg-1,,Ali,verb_subj_3sg,na,na,,,Ray1919,,,,,326
+Ali-verb_subj_1pl_incl-1,,Ali,verb_subj_1pl_incl,ta,ta,,,Ray1919,,,,,326
+Ali-verb_subj_1pl_excl-1,,Ali,verb_subj_1pl_excl,ta,ta,,,Ray1919,,,,,326
+Ali-verb_subj_2pl-1,,Ali,verb_subj_2pl,a,a,,,Ray1919,,,,,326
+Ali-verb_subj_3pl-1,,Ali,verb_subj_3pl,ra,ra,,,Ray1919,,,,,326
+Tumleo-verb_subj_1sg-1,,Tumleo,verb_subj_1sg,na,na,,,Ray1919,,,,,326
+Tumleo-verb_subj_2sg-1,,Tumleo,verb_subj_2sg,ka,ka,,,Ray1919,,,,,326
+Tumleo-verb_subj_3sg-1,,Tumleo,verb_subj_3sg,ka,ka,,,Ray1919,,,,,326
+Tumleo-verb_subj_1pl_incl-1,,Tumleo,verb_subj_1pl_incl,ta,ta,,,Ray1919,,,,,326
+Tumleo-verb_subj_2pl-1,,Tumleo,verb_subj_2pl,ka,ka,,,Ray1919,,,,,326
+Tumleo-verb_subj_3pl-1,,Tumleo,verb_subj_3pl,ra,ra,,,Ray1919,,,,,326
+Tami-n1-1,,Tami,n1,te,te,,,Ray1919,,,,,327
+Tami-n2-1,,Tami,n2,lu,lu,,,Ray1919,,,,,327
+Tami-n3-1,,Tami,n3,tol,tol,,,Ray1919,,,,,327
+Tami-n4-1,,Tami,n4,pat,pat,,,Ray1919,,,,,327
+Tami-n5-1,,Tami,n5,lim,lim,,,Ray1919,,,,,327
+Tami-n6-1,,Tami,n6,lim-ma-te,lim-ma-te,,,Ray1919,,,,,327
+Tami-n7-1,,Tami,n7,lim-ma-lu,lim-ma-lu,,,Ray1919,,,,,327
+Tami-n8-1,,Tami,n8,lim-ma-tol,lim-ma-tol,,,Ray1919,,,,,327
+Tami-n9-1,,Tami,n9,lim-ma-pat,lim-ma-pat,,,Ray1919,,,,,327
+Tami-n10-1,,Tami,n10,lim-anta-lu,lim-anta-lu,,,Ray1919,,,,,327
+Tami-n20-1,,Tami,n20,damo-mon-te,damo-mon-te,,,Ray1919,,,,,327
+Bukaua-n1-1,,Bukaua,n1,doŋ,doŋ,,,Ray1919,,,,,327
+Bukaua-n2-1,,Bukaua,n2,lu,lu,,,Ray1919,,,,,327
+Bukaua-n3-1,,Bukaua,n3,tu,tu,,,Ray1919,,,,,327
+Bukaua-n4-1,,Bukaua,n4,ale,ale,,,Ray1919,,,,,327
+Bukaua-n5-1,,Bukaua,n5,lim-daŋ,lim-daŋ,,,Ray1919,,,,,327
+Bukaua-n6-1,,Bukaua,n6,lemaŋ-daŋ-anuta,lemaŋ-daŋ-anuta,,,Ray1919,,,,,327
+Bukaua-n7-1,,Bukaua,n7,lema-ŋanu-lu,lema-ŋanu-lu,,,Ray1919,,,,,327
+Bukaua-n8-1,,Bukaua,n8,lema-ŋanu-tu,lema-ŋanu-tu,,,Ray1919,,,,,327
+Bukaua-n9-1,,Bukaua,n9,lema-ŋanu-ale,lema-ŋanu-ale,,,Ray1919,,,,,327
+Bukaua-n10-1,,Bukaua,n10,sahu,sahu,,,Ray1919,,,,,327
+Bukaua-n20-1,,Bukaua,n20,nasamu-lim-daŋ,nasamu-lim-daŋ,,,Ray1919,,,,,327
+Yabim-n1-1,,Yabim,n1,teŋ,teŋ,,,Ray1919,,,,,327
+Yabim-n2-1,,Yabim,n2,lu,lu,,,Ray1919,,,,,327
+Yabim-n3-1,,Yabim,n3,tilia,tilia,,,Ray1919,,,,,327
+Yabim-n4-1,,Yabim,n4,ale,ale,,,Ray1919,,,,,327
+Yabim-n5-1,,Yabim,n5,lemeŋ-teŋ,lemeŋ-teŋ,,,Ray1919,,,,,327
+Yabim-n6-1,,Yabim,n6,lemeŋ-teŋ-ŋanu-ta,lemeŋ-teŋ-ŋanu-ta,,,Ray1919,,,,,327
+Yabim-n7-1,,Yabim,n7,lemeŋ-teŋ-ŋanu-lu,lemeŋ-teŋ-ŋanu-lu,,,Ray1919,,,,,327
+Yabim-n8-1,,Yabim,n8,lemeŋ-teŋ-ŋanu-tilia,lemeŋ-teŋ-ŋanu-tilia,,,Ray1919,,,,,327
+Yabim-n9-1,,Yabim,n9,lemeŋ-teŋ-ŋanu-ali,lemeŋ-teŋ-ŋanu-ali,,,Ray1919,,,,,327
+Yabim-n10-1,,Yabim,n10,lemeŋ-lu,lemeŋ-lu,,,Ray1919,,,,,327
+Yabim-n20-1,,Yabim,n20,ŋa-samu,ŋa-samu,,,Ray1919,,,,,327
+Suam-n1-1,,Suam,n1,teŋ,teŋ,,,Ray1919,,,,,327
+Suam-n2-1,,Suam,n2,"luagi, lua",luagi,,,Ray1919,,,,,327
+Suam-n2-2,,Suam,n2,"luagi, lua",lua,,,Ray1919,,,,,327
+Suam-n3-1,,Suam,n3,tilia,tilia,,,Ray1919,,,,,327
+Suam-n4-1,,Suam,n4,ālī,ālī,,,Ray1919,,,,,327
+Suam-n5-1,,Suam,n5,lĕmĕn-teŋ,lĕmĕn-teŋ,,,Ray1919,,,,,327
+Suam-n6-1,,Suam,n6,lemeŋ-anu-tă,lemeŋ-anu-tă,,,Ray1919,,,,,327
+Suam-n7-1,,Suam,n7,lemeŋ-anu-lu,lemeŋ-anu-lu,,,Ray1919,,,,,327
+Suam-n8-1,,Suam,n8,lemeŋ-anu-tilia,lemeŋ-anu-tilia,,,Ray1919,,,,,327
+Suam-n9-1,,Suam,n9,lemeŋ-anu-ālī,lemeŋ-anu-ālī,,,Ray1919,,,,,327
+Suam-n10-1,,Suam,n10,leme-ru,leme-ru,,,Ray1919,,,,,327
+Suam-n20-1,,Suam,n20,năsămu,năsămu,,,Ray1919,,,,,327
+Kelana-n1-1,,Kelana,n1,esemogon,esemogon,,,Ray1919,,,,,327
+Kelana-n2-1,,Kelana,n2,lua,lua,,,Ray1919,,,,,327
+Kelana-n3-1,,Kelana,n3,tolu,tolu,,,Ray1919,,,,,327
+Kelana-n4-1,,Kelana,n4,pana,pana,,,Ray1919,,,,,327
+Kelana-n5-1,,Kelana,n5,lemeŋ-tasili,lemeŋ-tasili,,,Ray1919,,,,,327
+Kelana-n6-1,,Kelana,n6,lemeŋ-me-esemogon,lemeŋ-me-esemogon,,,Ray1919,,,,,327
+Kelana-n7-1,,Kelana,n7,lemeŋ-me-lua,lemeŋ-me-lua,,,Ray1919,,,,,327
+Kelana-n8-1,,Kelana,n8,lemeŋ-me-tolu,lemeŋ-me-tolu,,,Ray1919,,,,,327
+Kelana-n9-1,,Kelana,n9,lemeŋ-me-pana,lemeŋ-me-pana,,,Ray1919,,,,,327
+Kelana-n10-1,,Kelana,n10,lemeŋ-ta-lua,lemeŋ-ta-lua,,,Ray1919,,,,,327
+Kelana-n20-1,,Kelana,n20,ŋelo-mali-siŋa,ŋelo-mali-siŋa,,,Ray1919,,,,,327
+RookIs-n1-1,,RookIs,n1,emogon,emogon,,,Ray1919,,,,,327
+RookIs-n2-1,,RookIs,n2,ru,ru,,,Ray1919,,,,,327
+RookIs-n3-1,,RookIs,n3,tol,tol,,,Ray1919,,,,,327
+RookIs-n4-1,,RookIs,n4,paŋ,paŋ,,,Ray1919,,,,,327
+RookIs-n5-1,,RookIs,n5,līm,līm,,,Ray1919,,,,,327
+RookIs-n6-1,,RookIs,n6,lim-b-es,lim-b-es,,,Ray1919,,,,,327
+RookIs-n7-1,,RookIs,n7,lim-be-ru,lim-be-ru,,,Ray1919,,,,,327
+RookIs-n8-1,,RookIs,n8,lim-be-ru-toru (?),lim-be-ru-toru,,,Ray1919,,,,,327
+RookIs-n9-1,,RookIs,n9,lim-be-ru-pan (?),lim-be-ru-pan,,,Ray1919,,,,,327
+RookIs-n10-1,,RookIs,n10,saŋul,saŋul,,,Ray1919,,,,,327
+RookIs-n20-1,,RookIs,n20,tamo-te,tamo-te,,,Ray1919,,,,,327
+Tuom-n1-1,,Tuom,n1,ĕs,ĕs,,,Ray1919,,,,,327
+Tuom-n2-1,,Tuom,n2,ru,ru,,,Ray1919,,,,,327
+Tuom-n3-1,,Tuom,n3,tol,tol,,,Ray1919,,,,,327
+Tuom-n4-1,,Tuom,n4,paŋ,paŋ,,,Ray1919,,,,,327
+Tuom-n5-1,,Tuom,n5,līm,līm,,,Ray1919,,,,,327
+Tuom-n6-1,,Tuom,n6,lim-be-es,lim-be-es,,,Ray1919,,,,,327
+Tuom-n7-1,,Tuom,n7,lim-be-ru,lim-be-ru,,,Ray1919,,,,,327
+Tuom-n8-1,,Tuom,n8,lim-be-tol,lim-be-tol,,,Ray1919,,,,,327
+Tuom-n9-1,,Tuom,n9,lim-be-paŋ,lim-be-paŋ,,,Ray1919,,,,,327
+Tuom-n10-1,,Tuom,n10,"saŋul, săŋavul",saŋul,,,Ray1919,,,,,327
+Tuom-n10-2,,Tuom,n10,"saŋul, săŋavul",săŋavul,,,Ray1919,,,,,327
+Tuom-n20-1,,Tuom,n20,tamo-tte,tamo-tte,,,Ray1919,,,,,327
+Bilibili-n1-1,,Bilibili,n1,kukun,kukun,,,Ray1919,,,,,328
+Bilibili-n2-1,,Bilibili,n2,oru,oru,,,Ray1919,,,,,328
+Bilibili-n3-1,,Bilibili,n3,toli,toli,,,Ray1919,,,,,328
+Bilibili-n4-1,,Bilibili,n4,pali,pali,,,Ray1919,,,,,328
+Bilibili-n5-1,,Bilibili,n5,lima-ta,lima-ta,,,Ray1919,,,,,328
+Bilibili-n6-1,,Bilibili,n6,kukun-kete,kukun-kete,,,Ray1919,,,,,328
+Bilibili-n7-1,,Bilibili,n7,kukun-oru,kukun-oru,,,Ray1919,,,,,328
+Bilibili-n8-1,,Bilibili,n8,kukun-toli,kukun-toli,,,Ray1919,,,,,328
+Bilibili-n9-1,,Bilibili,n9,kukun-pali,kukun-pali,,,Ray1919,,,,,328
+Bilibili-n10-1,,Bilibili,n10,liman-oru,liman-oru,,,Ray1919,,,,,328
+Bilibili-n20-1,,Bilibili,n20,kukun-tama (kukun-giteŋan),kukun-tama,,,Ray1919,,,,,328
+Mitebog-n1-1,,Mitebog,n1,olam,olam,,,Ray1919,,,,,328
+Mitebog-n10-1,,Mitebog,n10,liman-oru,liman-oru,,,Ray1919,,,,,328
+Karkar-n1-1,,Karkar,n1,kasek,kasek,,,Ray1919,,,,,328
+Karkar-n2-1,,Karkar,n2,uraru,uraru,,,Ray1919,,,,,328
+Karkar-n3-1,,Karkar,n3,utol,utol,,,Ray1919,,,,,328
+Karkar-n4-1,,Karkar,n4,ivēvo,ivēvo,,,Ray1919,,,,,328
+Karkar-n5-1,,Karkar,n5,bāni(n),bāni,,,Ray1919,,,,,328
+Karkar-n6-1,,Karkar,n6,bani-sĕkun-kasek,bani-sĕkun-kasek,,,Ray1919,,,,,328
+Karkar-n7-1,,Karkar,n7,banin-sekun-uraru,banin-sekun-uraru,,,Ray1919,,,,,328
+Karkar-n8-1,,Karkar,n8,banin-sekun-utol,banin-sekun-utol,,,Ray1919,,,,,328
+Karkar-n9-1,,Karkar,n9,banin-sekun-ivevo,banin-sekun-ivevo,,,Ray1919,,,,,328
+Karkar-n10-1,,Karkar,n10,banin-enenda-imat,banin-enenda-imat,,,Ray1919,,,,,328
+Karkar-n20-1,,Karkar,n20,niën-enenda-imāt,niën-enenda-imāt,,,Ray1919,,,,,328
+SiarRagetta-n1-1,,SiarRagetta,n1,taimon,taimon,,,Ray1919,,,,,328
+SiarRagetta-n2-1,,SiarRagetta,n2,asu,asu,,,Ray1919,,,,,328
+SiarRagetta-n3-1,,SiarRagetta,n3,tol,tol,,,Ray1919,,,,,328
+SiarRagetta-n4-1,,SiarRagetta,n4,pal,pal,,,Ray1919,,,,,328
+SiarRagetta-n5-1,,SiarRagetta,n5,liman-ainta,liman-ainta,,,Ray1919,,,,,328
+Graget-n1-1,,Graget,n1,dāĭmŏn,dāĭmŏn,,,Ray1919,,,,,328
+Graget-n2-1,,Graget,n2,ăsu,ăsu,,,Ray1919,,,,,328
+Graget-n3-1,,Graget,n3,tŏl,tŏl,,,Ray1919,,,,,328
+Graget-n4-1,,Graget,n4,pāl,pāl,,,Ray1919,,,,,328
+Graget-n5-1,,Graget,n5,"nimăgĕsau, nimagăntă",nimăgĕsau,,,Ray1919,,,,,328
+Graget-n5-2,,Graget,n5,"nimăgĕsau, nimagăntă",nimagăntă,,,Ray1919,,,,,328
+Graget-n6-1,,Graget,n6,tikŭn-dāimŏn,tikŭn-dāimŏn,,,Ray1919,,,,,328
+Graget-n7-1,,Graget,n7,tikŭn-asŭgn,tikŭn-asŭgn,,,Ray1919,,,,,328
+Graget-n8-1,,Graget,n8,tikŭn-tŏlgn,tikŭn-tŏlgn,,,Ray1919,,,,,328
+Graget-n9-1,,Graget,n9,tĭkŭn-pālgn,tĭkŭn-pālgn,,,Ray1919,,,,,328
+Graget-n10-1,,Graget,n10,nimăgăsu,nimăgăsu,,,Ray1919,,,,,328
+Graget-n20-1,,Graget,n20,nimăgăsu-nĕgăsu,nimăgăsu-nĕgăsu,,,Ray1919,,,,,328
+Sarang-n1-1,,Sarang,n1,sekmone,sekmone,,,Ray1919,,,,,328
+Sarang-n2-1,,Sarang,n2,raru,raru,,,Ray1919,,,,,328
+Sarang-n3-1,,Sarang,n3,tol,tol,,,Ray1919,,,,,328
+Sarang-n4-1,,Sarang,n4,anekanek,anekanek,,,Ray1919,,,,,328
+Sarang-n5-1,,Sarang,n5,kurum-sa,kurum-sa,,,Ray1919,,,,,328
+Sarang-n10-1,,Sarang,n10,aitigi,aitigi,,,Ray1919,,,,,328
+Manam-n1-1,,Manam,n1,tee,tee,,,Ray1919,,,,,328
+Manam-n2-1,,Manam,n2,rua,rua,,,Ray1919,,,,,328
+Manam-n3-1,,Manam,n3,toli,toli,,,Ray1919,,,,,328
+Manam-n4-1,,Manam,n4,oati,oati,,,Ray1919,,,,,328
+Manam-n5-1,,Manam,n5,lima,lima,,,Ray1919,,,,,328
+Manam-n6-1,,Manam,n6,lima-tee,lima-tee,,,Ray1919,,,,,328
+Manam-n7-1,,Manam,n7,lima-rua,lima-rua,,,Ray1919,,,,,328
+Manam-n8-1,,Manam,n8,lima-toli,lima-toli,,,Ray1919,,,,,328
+Manam-n9-1,,Manam,n9,lima-oati,lima-oati,,,Ray1919,,,,,328
+Manam-n10-1,,Manam,n10,u-lemo,u-lemo,,,Ray1919,,,,,328
+Wokeo-n1-1,,Wokeo,n1,ta,ta,,,Ray1919,,,,,328
+Wokeo-n2-1,,Wokeo,n2,rue,rue,,,Ray1919,,,,,328
+Wokeo-n3-1,,Wokeo,n3,tōl,tōl,,,Ray1919,,,,,328
+Wokeo-n4-1,,Wokeo,n4,"kwik, kŭik",kwik,,,Ray1919,,,,,328
+Wokeo-n4-2,,Wokeo,n4,"kwik, kŭik",kŭik,,,Ray1919,,,,,328
+Wokeo-n5-1,,Wokeo,n5,"bŏχŏbă, bŏkŏbă",bŏχŏbă,,,Ray1919,,,,,328
+Wokeo-n5-2,,Wokeo,n5,"bŏχŏbă, bŏkŏbă",bŏkŏbă,,,Ray1919,,,,,328
+Wokeo-n6-1,,Wokeo,n6,barăgo,barăgo,,,Ray1919,,,,,328
+Wokeo-n7-1,,Wokeo,n7,be-tŏl,be-tŏl,,,Ray1919,,,,,328
+Wokeo-n8-1,,Wokeo,n8,kiki-rue,kiki-rue,,,Ray1919,,,,,328
+Wokeo-n9-1,,Wokeo,n9,kiki-vat,kiki-vat,,,Ray1919,,,,,328
+Wokeo-n10-1,,Wokeo,n10,usu,usu,,,Ray1919,,,,,328
+Keule-n1-1,,Keule,n1,ta,ta,,,Ray1919,,,,,328
+Keule-n2-1,,Keule,n2,ru,ru,,,Ray1919,,,,,328
+Keule-n3-1,,Keule,n3,tol,tol,,,Ray1919,,,,,328
+Keule-n4-1,,Keule,n4,kwik,kwik,,,Ray1919,,,,,328
+Keule-n5-1,,Keule,n5,(kwik) bŏχŏbă,bŏχŏbă,,,Ray1919,,,,,328
+Keule-n6-1,,Keule,n6,(kwik) bărăgŏ,bărăgŏ,,,Ray1919,,,,,328
+Keule-n7-1,,Keule,n7,kwik-betŏl,kwik-betŏl,,,Ray1919,,,,,328
+Keule-n8-1,,Keule,n8,kiki-ru,kiki-ru,,,Ray1919,,,,,328
+Keule-n9-1,,Keule,n9,kiki-ru-bŏχŏbă,kiki-ru-bŏχŏbă,,,Ray1919,,,,,328
+Keule-n10-1,,Keule,n10,kiki-ru-bărăgŏ,kiki-ru-bărăgŏ,,,Ray1919,,,,,328
+HansaV-n1-1,,HansaV,n1,tee,tee,,,Ray1919,,,,,328
+HansaV-n2-1,,HansaV,n2,rua,rua,,,Ray1919,,,,,328
+HansaV-n3-1,,HansaV,n3,tŏli,tŏli,,,Ray1919,,,,,328
+HansaV-n4-1,,HansaV,n4,oăti,oăti,,,Ray1919,,,,,328
+HansaV-n5-1,,HansaV,n5,lima,lima,,,Ray1919,,,,,328
+HansaV-n6-1,,HansaV,n6,lima-tee,lima-tee,,,Ray1919,,,,,328
+HansaV-n7-1,,HansaV,n7,lima-rua,lima-rua,,,Ray1919,,,,,328
+HansaV-n8-1,,HansaV,n8,lima-tŏli,lima-tŏli,,,Ray1919,,,,,328
+HansaV-n9-1,,HansaV,n9,lima-oăti,lima-oăti,,,Ray1919,,,,,328
+HansaV-n10-1,,HansaV,n10,u-lema,u-lema,,,Ray1919,,,,,328
+HansaV-n20-1,,HansaV,n20,ulem-tamata,ulem-tamata,,,Ray1919,,,,,328
+Ali-n1-1,,Ali,n1,teï,teï,,,Ray1919,,,,,328
+Ali-n2-1,,Ali,n2,ro,ro,,,Ray1919,,,,,328
+Ali-n3-1,,Ali,n3,tul,tul,,,Ray1919,,,,,328
+Ali-n4-1,,Ali,n4,au,au,,,Ray1919,,,,,328
+Ali-n5-1,,Ali,n5,lim,lim,,,Ray1919,,,,,328
+Ali-n6-1,,Ali,n6,lim-am-teï,lim-am-teï,,,Ray1919,,,,,328
+Ali-n7-1,,Ali,n7,lim-an-ro,lim-an-ro,,,Ray1919,,,,,328
+Ali-n8-1,,Ali,n8,lim-an-tul,lim-an-tul,,,Ray1919,,,,,328
+Ali-n9-1,,Ali,n9,lim-an-au,lim-an-au,,,Ray1919,,,,,328
+Ali-n10-1,,Ali,n10,wu-lim,wu-lim,,,Ray1919,,,,,328
+Ali-n20-1,,Ali,n20,wulim-ro-sapiŋ,wulim-ro-sapiŋ,,,Ray1919,,,,,328
+Saliu-n1-1,,Saliu,n1,tai,tai,,,Ray1919,,,,,328
+Saliu-n2-1,,Saliu,n2,rō,rō,,,Ray1919,,,,,328
+Saliu-n3-1,,Saliu,n3,tul,tul,,,Ray1919,,,,,328
+Saliu-n4-1,,Saliu,n4,au,au,,,Ray1919,,,,,328
+Saliu-n5-1,,Saliu,n5,lim,lim,,,Ray1919,,,,,328
+Saliu-n6-1,,Saliu,n6,lim-am-tai,lim-am-tai,,,Ray1919,,,,,328
+Saliu-n7-1,,Saliu,n7,lim-an-ro,lim-an-ro,,,Ray1919,,,,,328
+Saliu-n8-1,,Saliu,n8,lim-tul,lim-tul,,,Ray1919,,,,,328
+Saliu-n9-1,,Saliu,n9,limau,limau,,,Ray1919,,,,,328
+Saliu-n10-1,,Saliu,n10,u-lim,u-lim,,,Ray1919,,,,,328
+Yamir-n1-1,,Yamir,n1,ti,ti,,,Ray1919,,,,,328
+Yamir-n2-1,,Yamir,n2,rō,rō,,,Ray1919,,,,,328
+Yamir-n3-1,,Yamir,n3,tel,tel,,,Ray1919,,,,,328
+Yamir-n4-1,,Yamir,n4,au,au,,,Ray1919,,,,,328
+Yamir-n5-1,,Yamir,n5,lim,lim,,,Ray1919,,,,,328
+Yamir-n6-1,,Yamir,n6,lima-m-ti,lima-m-ti,,,Ray1919,,,,,328
+Yamir-n7-1,,Yamir,n7,liman-ro,liman-ro,,,Ray1919,,,,,328
+Yamir-n8-1,,Yamir,n8,lim-tel,lim-tel,,,Ray1919,,,,,328
+Yamir-n9-1,,Yamir,n9,lim-au,lim-au,,,Ray1919,,,,,328
+Yamir-n10-1,,Yamir,n10,napet-sapin,napet-sapin,,,Ray1919,,,,,328
+Yakamul-n1-1,,Yakamul,n1,matei,matei,,,Ray1919,,,,,328
+Yakamul-n2-1,,Yakamul,n2,ro,ro,,,Ray1919,,,,,328
+Yakamul-n3-1,,Yakamul,n3,tel,tel,,,Ray1919,,,,,328
+Yakamul-n4-1,,Yakamul,n4,au,au,,,Ray1919,,,,,328
+Yakamul-n5-1,,Yakamul,n5,lim,lim,,,Ray1919,,,,,328
+Yakamul-n6-1,,Yakamul,n6,lime-tei,lime-tei,,,Ray1919,,,,,328
+Yakamul-n10-1,,Yakamul,n10,wu-lime-tei,wu-lime-tei,,,Ray1919,,,,,328
+Yakamul-n20-1,,Yakamul,n20,wu-lim-ro,wu-lim-ro,,,Ray1919,,,,,328
+UlauSueng-n1-1,,UlauSueng,n1,patai,patai,,,Ray1919,,,,,328
+UlauSueng-n2-1,,UlauSueng,n2,ru,ru,,,Ray1919,,,,,328
+UlauSueng-n3-1,,UlauSueng,n3,tûl,tûl,,,Ray1919,,,,,328
+UlauSueng-n4-1,,UlauSueng,n4,worawiŋ,worawiŋ,,,Ray1919,,,,,328
+UlauSueng-n5-1,,UlauSueng,n5,ayekalun-pata,ayekalun-pata,,,Ray1919,,,,,328
+UlauSueng-n6-1,,UlauSueng,n6,ayekalun-patai,ayekalun-patai,,,Ray1919,,,,,328
+UlauSueng-n10-1,,UlauSueng,n10,ewut'-patai,ewut'-patai,,,Ray1919,,,,,328
+UlauSueng-n20-1,,UlauSueng,n20,ewut'-ro,ewut'-ro,,,Ray1919,,,,,328
+Sauvein-n1-1,,Sauvein,n1,tai,tai,,,Ray1919,,,,,328
+Sauvein-n2-1,,Sauvein,n2,ru,ru,,,Ray1919,,,,,328
+Sauvein-n3-1,,Sauvein,n3,tul,tul,,,Ray1919,,,,,328
+Sauvein-n4-1,,Sauvein,n4,au,au,,,Ray1919,,,,,328
+Sauvein-n5-1,,Sauvein,n5,lim,lim,,,Ray1919,,,,,328
+Sauvein-n6-1,,Sauvein,n6,lima-m-ta,lima-m-ta,,,Ray1919,,,,,328
+Tumleo-n1-1,,Tumleo,n1,pa-mata,pa-mata,,,Ray1919,,,,,328
+Tumleo-n2-1,,Tumleo,n2,pa-lo,pa-lo,,,Ray1919,,,,,328
+Tumleo-n3-1,,Tumleo,n3,pa-tul,pa-tul,,,Ray1919,,,,,328
+Tumleo-n4-1,,Tumleo,n4,pa-u,pa-u,,,Ray1919,,,,,328
+Tumleo-n5-1,,Tumleo,n5,pa-leim,pa-leim,,,Ray1919,,,,,328
+Tumleo-n6-1,,Tumleo,n6,lima-ŋa-mata,lima-ŋa-mata,,,Ray1919,,,,,328
+Tumleo-n10-1,,Tumleo,n10,wo-lim,wo-lim,,,Ray1919,,,,,328
+Tumleo-n20-1,,Tumleo,n20,wo-lim-ro,wo-lim-ro,,,Ray1919,,,,,328
+Sissano-n1-1,,Sissano,n1,bondenen,bondenen,,,Ray1919,,,,,328
+Sissano-n2-1,,Sissano,n2,ildin,ildin,,,Ray1919,,,,,328
+Yotafa-n1-1,,Yotafa,n1,the,the,,,Ray1919,,,,,328
+Yotafa-n2-1,,Yotafa,n2,ros,ros,,,Ray1919,,,,,328
+Yotafa-n3-1,,Yotafa,n3,"for, tor",for,,,Ray1919,,,,,328
+Yotafa-n3-2,,Yotafa,n3,"for, tor",tor,,,Ray1919,,,,,328
+Yotafa-n4-1,,Yotafa,n4,"au, aw",au,,,Ray1919,,,,,328
+Yotafa-n4-2,,Yotafa,n4,"au, aw",aw,,,Ray1919,,,,,328
+Yotafa-n5-1,,Yotafa,n5,"mimiām, miniān",mimiām,,,Ray1919,,,,,328
+Yotafa-n5-2,,Yotafa,n5,"mimiām, miniān",miniān,,,Ray1919,,,,,328
+Yotafa-n6-1,,Yotafa,n6,māndŏsīm,māndŏsīm,,,Ray1919,,,,,328
+Yotafa-n7-1,,Yotafa,n7,marondi,marondi,,,Ray1919,,,,,328
+Yotafa-n8-1,,Yotafa,n8,rondisnika,rondisnika,,,Ray1919,,,,,328
+Yotafa-n9-1,,Yotafa,n9,ronduminase,ronduminase,,,Ray1919,,,,,328
+Yotafa-n10-1,,Yotafa,n10,ronduminarōs,ronduminarōs,,,Ray1919,,,,,328
+Yotafa-n20-1,,Yotafa,n20,manisayām,manisayām,,,Ray1919,,,,,328
+Kai-n1-1,,Kai,n1,mo,mo,,,Ray1919,,,,,329
+Kai-n2-1,,Kai,n2,"yahe, yeyahe",yahe,,,Ray1919,,,,,329
+Kai-n2-2,,Kai,n2,"yahe, yeyahe",yeyahe,,,Ray1919,,,,,329
+Kai-n3-1,,Kai,n3,yahe-a-mo,yahe-a-mo,,,Ray1919,,,,,329
+Kai-n4-1,,Kai,n4,yahe-a-yahe,yahe-a-yahe,,,Ray1919,,,,,329
+Kai-n5-1,,Kai,n5,me-mo-mole,me-mo-mole,,,Ray1919,,,,,329
+Kai-n6-1,,Kai,n6,me-mo-a-mo,me-mo-a-mo,,,Ray1919,,,,,329
+Kai-n10-1,,Kai,n10,me-yeyahe,me-yeyahe,,,Ray1919,,,,,329
+Kai-n20-1,,Kai,n20,ŋi-mo,ŋi-mo,,,Ray1919,,,,,329
+Bussim-n1-1,,Bussim,n1,"mŏa, mŏnako",mŏa,,,Ray1919,,,,,329
+Bussim-n1-2,,Bussim,n1,"mŏa, mŏnako",mŏnako,,,Ray1919,,,,,329
+Bussim-n2-1,,Bussim,n2,yăhĕka,yăhĕka,,,Ray1919,,,,,329
+Bussim-n3-1,,Bussim,n3,hăraba,hăraba,,,Ray1919,,,,,329
+Bussim-n4-1,,Bussim,n4,hīfŏre,hīfŏre,,,Ray1919,,,,,329
+Bussim-n5-1,,Bussim,n5,mĕ-mŏa,mĕ-mŏa,,,Ray1919,,,,,329
+Bussim-n6-1,,Bussim,n6,hinĕm-mŏa,hinĕm-mŏa,,,Ray1919,,,,,329
+Bussim-n7-1,,Bussim,n7,hīnī-hāhĕ,hīnī-hāhĕ,,,Ray1919,,,,,329
+Bussim-n8-1,,Bussim,n8,hīni-harabŏa,hīni-harabŏa,,,Ray1919,,,,,329
+Bussim-n9-1,,Bussim,n9,hīnī-hīfore,hīnī-hīfore,,,Ray1919,,,,,329
+Bussim-n10-1,,Bussim,n10,mĕ-yăhĕ,mĕ-yăhĕ,,,Ray1919,,,,,329
+Bussim-n20-1,,Bussim,n20,nī-măbū,nī-măbū,,,Ray1919,,,,,329
+Bila-n1-1,,Bila,n1,mŏni,mŏni,,,Ray1919,,,,,329
+Bila-n2-1,,Bila,n2,yahĕka,yahĕka,,,Ray1919,,,,,329
+Bila-n3-1,,Bila,n3,hăba,hăba,,,Ray1919,,,,,329
+Bila-n4-1,,Bila,n4,hăbă-kaŋ,hăbă-kaŋ,,,Ray1919,,,,,329
+Bila-n5-1,,Bila,n5,mŏle-mŏni,mŏle-mŏni,,,Ray1919,,,,,329
+Bila-n7-1,,Bila,n7,mŏle-mŏni-ikŏa-yahĕ,mŏle-mŏni-ikŏa-yahĕ,,,Ray1919,,,,,329
+Bila-n8-1,,Bila,n8,mŏle-mŏni-ikoa-hăba,mŏle-mŏni-ikoa-hăba,,,Ray1919,,,,,329
+Bila-n10-1,,Bila,n10,mŏle-yāhĕ,mŏle-yāhĕ,,,Ray1919,,,,,329
+Poom-n1-1,,Poom,n1,"moa, mŏni",moa,,,Ray1919,,,,,329
+Poom-n1-2,,Poom,n1,"moa, mŏni",mŏni,,,Ray1919,,,,,329
+Poom-n2-1,,Poom,n2,yaheka,yaheka,,,Ray1919,,,,,329
+Poom-n3-1,,Poom,n3,"haba, hāraba",haba,,,Ray1919,,,,,329
+Poom-n3-2,,Poom,n3,"haba, hāraba",hāraba,,,Ray1919,,,,,329
+Poom-n4-1,,Poom,n4,"habakaŋ, hīfŏre",habakaŋ,,,Ray1919,,,,,329
+Poom-n4-2,,Poom,n4,"habakaŋ, hīfŏre",hīfŏre,,,Ray1919,,,,,329
+Poom-n5-1,,Poom,n5,"mŏni, mē-moa",mŏni,,,Ray1919,,,,,329
+Poom-n5-2,,Poom,n5,"mŏni, mē-moa",mē-moa,,,Ray1919,,,,,329
+Poom-n6-1,,Poom,n6,hine-moa,hine-moa,,,Ray1919,,,,,329
+Poom-n10-1,,Poom,n10,mŏle-hai,mŏle-hai,,,Ray1919,,,,,329
+Kamoka-n1-1,,Kamoka,n1,taūe,taūe,,,Ray1919,,,,,329
+Kamoka-n2-1,,Kamoka,n2,ledsem,ledsem,,,Ray1919,,,,,329
+Kamoka-n3-1,,Kamoka,n3,saun,saun,,,Ray1919,,,,,329
+Kamoka-n4-1,,Kamoka,n4,wŏsok,wŏsok,,,Ray1919,,,,,329
+Kamoka-n5-1,,Kamoka,n5,qandambu,qandambu,,,Ray1919,,,,,329
+Pong-n1-1,,Pong,n1,wene,wene,,,Ray1919,,,,,329
+Pong-n2-1,,Pong,n2,etka,etka,,,Ray1919,,,,,329
+Pong-n3-1,,Pong,n3,karaŋa,karaŋa,,,Ray1919,,,,,329
+Pong-n4-1,,Pong,n4,kotpa,kotpa,,,Ray1919,,,,,329
+Pong-n5-1,,Pong,n5,metam,metam,,,Ray1919,,,,,329
+Pong-n6-1,,Pong,n6,irina-wene,irina-wene,,,Ray1919,,,,,329
+Pong-n7-1,,Pong,n7,irina-etka,irina-etka,,,Ray1919,,,,,329
+Pong-n8-1,,Pong,n8,irina-karanua,irina-karanua,,,Ray1919,,,,,329
+Pong-n9-1,,Pong,n9,irina-ekotpa,irina-ekotpa,,,Ray1919,,,,,329
+Pong-n10-1,,Pong,n10,metetka,metetka,,,Ray1919,,,,,329
+KelanaKei-n1-1,,KelanaKei,n1,weku,weku,,,Ray1919,,,,,329
+KelanaKei-n2-1,,KelanaKei,n2,aetke,aetke,,,Ray1919,,,,,329
+KelanaKei-n3-1,,KelanaKei,n3,karaue,karaue,,,Ray1919,,,,,329
+KelanaKei-n4-1,,KelanaKei,n4,mange,mange,,,Ray1919,,,,,329
+KelanaKei-n5-1,,KelanaKei,n5,mete-mane,mete-mane,,,Ray1919,,,,,329
+KelanaKei-n6-1,,KelanaKei,n6,weko-so-mete-mane,weko-so-mete-mane,,,Ray1919,,,,,329
+KelanaKei-n7-1,,KelanaKei,n7,aetke-so-mete-mane,aetke-so-mete-mane,,,Ray1919,,,,,329
+KelanaKei-n8-1,,KelanaKei,n8,karaue-so-mete-mane,karaue-so-mete-mane,,,Ray1919,,,,,329
+KelanaKei-n9-1,,KelanaKei,n9,mange-so-mete-mane,mange-so-mete-mane,,,Ray1919,,,,,329
+KelanaKei-n10-1,,KelanaKei,n10,metaetke,metaetke,,,Ray1919,,,,,329
+KelanaKei-n20-1,,KelanaKei,n20,metaetke-so-kiaetke,metaetke-so-kiaetke,,,Ray1919,,,,,329
+Gorendu-n1-1,,Gorendu,n1,kudyi,kudyi,,,Ray1919,,,,,329
+Gorendu-n2-1,,Gorendu,n2,ali,ali,,,Ray1919,,,,,329
+Gorendu-n3-1,,Gorendu,n3,alub,alub,,,Ray1919,,,,,329
+Gorendu-n4-1,,Gorendu,n4,gorle,gorle,,,Ray1919,,,,,329
+Gorendu-n5-1,,Gorendu,n5,ibon-be,ibon-be,,,Ray1919,,,,,329
+Gorendu-n6-1,,Gorendu,n6,igle-be,igle-be,,,Ray1919,,,,,329
+Gorendu-n7-1,,Gorendu,n7,igle-ali,igle-ali,,,Ray1919,,,,,329
+Gorendu-n8-1,,Gorendu,n8,igle-alub,igle-alub,,,Ray1919,,,,,329
+Gorendu-n9-1,,Gorendu,n9,igle-gorle,igle-gorle,,,Ray1919,,,,,329
+Gorendu-n10-1,,Gorendu,n10,ibon-ali,ibon-ali,,,Ray1919,,,,,329
+Gorendu-n20-1,,Gorendu,n20,samba ali,samba ali,,,Ray1919,,,,,329
+Bongu-n1-1,,Bongu,n1,gud'ī,gud'ī,,,Ray1919,,,,,329
+Bongu-n2-1,,Bongu,n2,alī,alī,,,Ray1919,,,,,329
+Bongu-n3-1,,Bongu,n3,ġalub,ġalub,,,Ray1919,,,,,329
+Bongu-n4-1,,Bongu,n4,ġoġole,ġoġole,,,Ray1919,,,,,329
+Bongu-n5-1,,Bongu,n5,īboŋ-gud',īboŋ-gud',,,Ray1919,,,,,329
+Bongu-n6-1,,Bongu,n6,iboŋ-e(ŋ)gele-gud'i,iboŋ-egele-gud'i,,,Ray1919,,,,,329
+Bongu-n7-1,,Bongu,n7,iboŋ-e(ŋ)gele-alī,iboŋ-egele-alī,,,Ray1919,,,,,329
+Bongu-n8-1,,Bongu,n8,iboŋ-e(ŋ)gele-ġalub,iboŋ-egele-ġalub,,,Ray1919,,,,,329
+Bongu-n9-1,,Bongu,n9,iboŋ-e(ŋ)gele-ġoġole,iboŋ-egele-ġoġole,,,Ray1919,,,,,329
+Bongu-n10-1,,Bongu,n10,īboŋ-alalī,īboŋ-alalī,,,Ray1919,,,,,329
+Bongu-n20-1,,Bongu,n20,iboŋ-alalī-samba-alalī,iboŋ-alalī-samba-alalī,,,Ray1919,,,,,329
+Bogajim-n1-1,,Bogajim,n1,"kud'ai, hujaide",kud'ai,,,Ray1919,,,,,329
+Bogajim-n1-2,,Bogajim,n1,"kud'ai, hujaide",hujaide,,,Ray1919,,,,,329
+Bogajim-n2-1,,Bogajim,n2,"ayil, ael'de",ayil,,,Ray1919,,,,,329
+Bogajim-n2-2,,Bogajim,n2,"ayil, ael'de",ael'de,,,Ray1919,,,,,329
+Bogajim-n3-1,,Bogajim,n3,"ġalub, alubde",ġalub,,,Ray1919,,,,,329
+Bogajim-n3-2,,Bogajim,n3,"ġalub, alubde",alubde,,,Ray1919,,,,,329
+Bogajim-n4-1,,Bogajim,n4,"ġolerer, gorlede",ġolerer,,,Ray1919,,,,,329
+Bogajim-n4-2,,Bogajim,n4,"ġolerer, gorlede",gorlede,,,Ray1919,,,,,329
+Bogajim-n5-1,,Bogajim,n5,"baŋ-kud'ai, baŋ-hujaide",baŋ-kud'ai,,,Ray1919,,,,,329
+Bogajim-n5-2,,Bogajim,n5,"baŋ-kud'ai, baŋ-hujaide",baŋ-hujaide,,,Ray1919,,,,,329
+Bogajim-n6-1,,Bogajim,n6,gala-hujaide,gala-hujaide,,,Ray1919,,,,,329
+Bogajim-n7-1,,Bogajim,n7,gala-ael'de,gala-ael'de,,,Ray1919,,,,,329
+Bogajim-n8-1,,Bogajim,n8,gala-alubde,gala-alubde,,,Ray1919,,,,,329
+Bogajim-n9-1,,Bogajim,n9,gala-gorlede,gala-gorlede,,,Ray1919,,,,,329
+Bogajim-n10-1,,Bogajim,n10,ban-ael'de,ban-ael'de,,,Ray1919,,,,,329
+Bogajim-n20-1,,Bogajim,n20,siŋa-aiel,siŋa-aiel,,,Ray1919,,,,,329
+Manikam-n1-1,,Manikam,n1,kudšak,kudšak,,,Ray1919,,,,,329
+Manikam-n2-1,,Manikam,n2,ŋalu,ŋalu,,,Ray1919,,,,,329
+Manikam-n3-1,,Manikam,n3,winoya,winoya,,,Ray1919,,,,,329
+Manikam-n4-1,,Manikam,n4,bar,bar,,,Ray1919,,,,,329
+Burumana-n1-1,,Burumana,n1,gud'i,gud'i,,,Ray1919,,,,,329
+Burumana-n3-1,,Burumana,n3,ġalub,ġalub,,,Ray1919,,,,,329
+Burumana-n4-1,,Burumana,n4,ġoġole,ġoġole,,,Ray1919,,,,,329
+Burumana-n5-1,,Burumana,n5,bar-gud'i,bar-gud'i,,,Ray1919,,,,,329
+Koliku-n1-1,,Koliku,n1,gud'i,gud'i,,,Ray1919,,,,,329
+Koliku-n2-1,,Koliku,n2,lili,lili,,,Ray1919,,,,,329
+Koliku-n3-1,,Koliku,n3,ġalub,ġalub,,,Ray1919,,,,,329
+Koliku-n4-1,,Koliku,n4,ġoġole,ġoġole,,,Ray1919,,,,,329
+Koliku-n5-1,,Koliku,n5,bar-gud'i,bar-gud'i,,,Ray1919,,,,,329
+Kaliko-n1-1,,Kaliko,n1,gujera,gujera,,,Ray1919,,,,,329
+Kaliko-n2-1,,Kaliko,n2,lili,lili,,,Ray1919,,,,,329
+Kaliko-n3-1,,Kaliko,n3,kalubi,kalubi,,,Ray1919,,,,,329
+Kaliko-n4-1,,Kaliko,n4,goχole,goχole,,,Ray1919,,,,,329
+Kaliko-n5-1,,Kaliko,n5,boχalele,boχalele,,,Ray1919,,,,,329
+Male-n1-1,,Male,n1,gud'i,gud'i,,,Ray1919,,,,,329
+Male-n2-1,,Male,n2,lili,lili,,,Ray1919,,,,,329
+Male-n3-1,,Male,n3,ġalub,ġalub,,,Ray1919,,,,,329
+Male-n4-1,,Male,n4,ġoġole,ġoġole,,,Ray1919,,,,,329
+Male-n5-1,,Male,n5,bar-gud'i,bar-gud'i,,,Ray1919,,,,,329
+Damun-n1-1,,Damun,n1,gujera,gujera,,,Ray1919,,,,,329
+Damun-n2-1,,Damun,n2,lilo,lilo,,,Ray1919,,,,,329
+Damun-n3-1,,Damun,n3,tumbaŋ,tumbaŋ,,,Ray1919,,,,,329
+Damun-n4-1,,Damun,n4,tumalilo-tumalilo,tumalilo-tumalilo,,,Ray1919,,,,,329
+Langtub-n1-1,,Langtub,n1,ndaimon,ndaimon,,,Ray1919,,,,,329
+Langtub-n2-1,,Langtub,n2,lălă,lălă,,,Ray1919,,,,,329
+Langtub-n3-1,,Langtub,n3,keipi,keipi,,,Ray1919,,,,,329
+Langtub-n4-1,,Langtub,n4,bŏdi,bŏdi,,,Ray1919,,,,,329
+Langtub-n5-1,,Langtub,n5,kulonde kulo-ndaimon,kulonde kulo-ndaimon,,,Ray1919,,,,,329
+Langtub-n6-1,,Langtub,n6,kolun-patun-ndaimon,kolun-patun-ndaimon,,,Ray1919,,,,,329
+Langtub-n10-1,,Langtub,n10,kula-la,kula-la,,,Ray1919,,,,,329
+Langtub-n20-1,,Langtub,n20,kabe-lala,kabe-lala,,,Ray1919,,,,,329
+Sungum-n1-1,,Sungum,n1,gud'i,gud'i,,,Ray1919,,,,,329
+Sungum-n2-1,,Sungum,n2,lilo,lilo,,,Ray1919,,,,,329
+Sungum-n3-1,,Sungum,n3,galub,galub,,,Ray1919,,,,,329
+Sungum-n5-1,,Sungum,n5,bar-gud'i,bar-gud'i,,,Ray1919,,,,,329
+Maragam-n1-1,,Maragam,n1,duaiiŋ,duaiiŋ,,,Ray1919,,,,,329
+Maragam-n2-1,,Maragam,n2,ar,ar,,,Ray1919,,,,,329
+Maragam-n3-1,,Maragam,n3,kiŋ,kiŋ,,,Ray1919,,,,,329
+Rumba-n1-1,,Rumba,n1,doaying,doaying,,,Ray1919,,,,,329
+Rumba-n2-1,,Rumba,n2,arumba,arumba,,,Ray1919,,,,,329
+Rumba-n3-1,,Rumba,n3,keŋba,keŋba,,,Ray1919,,,,,329
+Rumba-n4-1,,Rumba,n4,ualkumba,ualkumba,,,Ray1919,,,,,329
+Rumba-n5-1,,Rumba,n5,woi-andelu,woi-andelu,,,Ray1919,,,,,329
+Rumba-n6-1,,Rumba,n6,woi-ande-paka-rumba,woi-ande-paka-rumba,,,Ray1919,,,,,329
+Englam-n1-1,,Englam,n1,taimom,taimom,,,Ray1919,,,,,329
+Englam-n2-1,,Englam,n2,aru,aru,,,Ray1919,,,,,329
+Englam-n3-1,,Englam,n3,toli,toli,,,Ray1919,,,,,329
+Englam-n4-1,,Englam,n4,pali,pali,,,Ray1919,,,,,329
+Englam-n5-1,,Englam,n5,lima-ta,lima-ta,,,Ray1919,,,,,329
+Panim-n1-1,,Panim,n1,ŏlūfăn,ŏlūfăn,,,Ray1919,,,,,329
+Panim-n2-1,,Panim,n2,ĕlĭs,ĕlĭs,,,Ray1919,,,,,329
+Panim-n3-1,,Panim,n3,izĕd,izĕd,,,Ray1919,,,,,329
+Panim-n4-1,,Panim,n4,woalai,woalai,,,Ray1919,,,,,329
+Panim-n5-1,,Panim,n5,mămāgai,mămāgai,,,Ray1919,,,,,329
+Panim-n6-1,,Panim,n6,ebĕn-nahe,ebĕn-nahe,,,Ray1919,,,,,329
+Panim-n7-1,,Panim,n7,ebĕn-ĕlīs,ebĕn-ĕlīs,,,Ray1919,,,,,329
+Panim-n8-1,,Panim,n8,ebĕn-izĕd,ebĕn-izĕd,,,Ray1919,,,,,329
+Panim-n9-1,,Panim,n9,ebĕn-woalai,ebĕn-woalai,,,Ray1919,,,,,329
+Panim-n10-1,,Panim,n10,mama-gūnŭm,mama-gūnŭm,,,Ray1919,,,,,329
+Panim-n20-1,,Panim,n20,gu-gunum,gu-gunum,,,Ray1919,,,,,329
+Mis-n1-1,,Mis,n1,"usis, usif",usis,,,Ray1919,,,,,330
+Mis-n1-2,,Mis,n1,"usis, usif",usif,,,Ray1919,,,,,330
+Mis-n2-1,,Mis,n2,arit,arit,,,Ray1919,,,,,330
+Mis-n3-1,,Mis,n3,kiam,kiam,,,Ray1919,,,,,330
+Mis-n4-1,,Mis,n4,varos,varos,,,Ray1919,,,,,330
+Mis-n5-1,,Mis,n5,tanigole,tanigole,,,Ray1919,,,,,330
+Mis-n6-1,,Mis,n6,"gurole, gugole",gurole,,,Ray1919,,,,,330
+Mis-n6-2,,Mis,n6,"gurole, gugole",gugole,,,Ray1919,,,,,330
+Mis-n7-1,,Mis,n7,gu-arit,gu-arit,,,Ray1919,,,,,330
+Mis-n8-1,,Mis,n8,gu-kiam,gu-kiam,,,Ray1919,,,,,330
+Mis-n9-1,,Mis,n9,gu-varos,gu-varos,,,Ray1919,,,,,330
+Mis-n10-1,,Mis,n10,evel-leplep,evel-leplep,,,Ray1919,,,,,330
+Nupanob-n1-1,,Nupanob,n1,laipo,laipo,,,Ray1919,,,,,330
+Nupanob-n2-1,,Nupanob,n2,"asit, aδit",asit,,,Ray1919,,,,,330
+Nupanob-n2-2,,Nupanob,n2,"asit, aδit",aδit,,,Ray1919,,,,,330
+Nupanob-n3-1,,Nupanob,n3,evam,evam,,,Ray1919,,,,,330
+Nupanob-n4-1,,Nupanob,n4,waδele,waδele,,,Ray1919,,,,,330
+Nupanob-n5-1,,Nupanob,n5,"tanigole, tanige",tanigole,,,Ray1919,,,,,330
+Nupanob-n5-2,,Nupanob,n5,"tanigole, tanige",tanige,,,Ray1919,,,,,330
+Rempin-n1-1,,Rempin,n1,atel,atel,,,Ray1919,,,,,330
+Rempin-n2-1,,Rempin,n2,eil,eil,,,Ray1919,,,,,330
+Rempin-n3-1,,Rempin,n3,abu,abu,,,Ray1919,,,,,330
+Rempin-n4-1,,Rempin,n4,walik,walik,,,Ray1919,,,,,330
+Rempin-n5-1,,Rempin,n5,heta,heta,,,Ray1919,,,,,330
+Rempin-n10-1,,Rempin,n10,hibeka tabel,hibeka tabel,,,Ray1919,,,,,330
+Tombenam-n1-1,,Tombenam,n1,"undala, nda (p)",undala,,,Ray1919,,,,,330
+Tombenam-n1-2,,Tombenam,n1,"undala, nda (p)",nda,,,Ray1919,,,,,330
+Tombenam-n2-1,,Tombenam,n2,ner,ner,,,Ray1919,,,,,330
+Tombenam-n3-1,,Tombenam,n3,ŋarop,ŋarop,,,Ray1919,,,,,330
+Tombenam-n4-1,,Tombenam,n4,ŋaramban,ŋaramban,,,Ray1919,,,,,330
+Tombenam-n5-1,,Tombenam,n5,ikur,ikur,,,Ray1919,,,,,330
+Tombenam-n6-1,,Tombenam,n6,ikur-mara-unda,ikur-mara-unda,,,Ray1919,,,,,330
+Tombenam-n7-1,,Tombenam,n7,ikur-maran-ŋer,ikur-maran-ŋer,,,Ray1919,,,,,330
+Tombenam-n8-1,,Tombenam,n8,ikur-maran-ŋarop,ikur-maran-ŋarop,,,Ray1919,,,,,330
+Tombenam-n9-1,,Tombenam,n9,ikur-maran-ŋaramban,ikur-maran-ŋaramban,,,Ray1919,,,,,330
+Tombenam-n10-1,,Tombenam,n10,ombener,ombener,,,Ray1919,,,,,330
+Tombenam-n20-1,,Tombenam,n20,moande,moande,,,Ray1919,,,,,330
+Dagoi-n1-1,,Dagoi,n1,ŋaia,ŋaia,,,Ray1919,,,,,330
+Dagoi-n2-1,,Dagoi,n2,ŋner,ŋner,,,Ray1919,,,,,330
+Dagoi-n3-1,,Dagoi,n3,arob,arob,,,Ray1919,,,,,330
+Dagoi-n4-1,,Dagoi,n4,ŋaramban,ŋaramban,,,Ray1919,,,,,330
+Dagoi-n5-1,,Dagoi,n5,kur,kur,,,Ray1919,,,,,330
+Dagoi-n6-1,,Dagoi,n6,iku-nara-unda,iku-nara-unda,,,Ray1919,,,,,330
+Dagoi-n7-1,,Dagoi,n7,iku-nara-ŋner,iku-nara-ŋner,,,Ray1919,,,,,330
+Dagoi-n8-1,,Dagoi,n8,iku-nara-ŋarob,iku-nara-ŋarob,,,Ray1919,,,,,330
+Dagoi-n9-1,,Dagoi,n9,iku-ŋara-mbam,iku-ŋara-mbam,,,Ray1919,,,,,330
+Dagoi-n10-1,,Dagoi,n10,a-um-bene,a-um-bene,,,Ray1919,,,,,330
+Dagoi-n20-1,,Dagoi,n20,moande,moande,,,Ray1919,,,,,330
+Monumbo-n1-1,,Monumbo,n1,takua,takua,,,Ray1919,,,,,330
+Monumbo-n2-1,,Monumbo,n2,tsaipe,tsaipe,,,Ray1919,,,,,330
+Monumbo-n3-1,,Monumbo,n3,tsaipe-takua,tsaipe-takua,,,Ray1919,,,,,330
+Monumbo-n4-1,,Monumbo,n4,tsaipe-tsaipe,tsaipe-tsaipe,,,Ray1919,,,,,330
+Monumbo-n5-1,,Monumbo,n5,ŋa-takua,ŋa-takua,,,Ray1919,,,,,330
+Monumbo-n6-1,,Monumbo,n6,ŋa-takua-takua,ŋa-takua-takua,,,Ray1919,,,,,330
+Monumbo-n7-1,,Monumbo,n7,ŋa-takua-tsaipe,ŋa-takua-tsaipe,,,Ray1919,,,,,330
+Monumbo-n8-1,,Monumbo,n8,ŋa-takua-tsaipe-takua,ŋa-takua-tsaipe-takua,,,Ray1919,,,,,330
+Monumbo-n9-1,,Monumbo,n9,ŋa-takua-tsaipe-tsaipe,ŋa-takua-tsaipe-tsaipe,,,Ray1919,,,,,330
+Monumbo-n10-1,,Monumbo,n10,ŋoaŋ,ŋoaŋ,,,Ray1919,,,,,330
+Monumbo-n20-1,,Monumbo,n20,inambo,inambo,,,Ray1919,,,,,330
+KAugustaRiver1-n1-1,,KAugustaRiver1,n1,uarra,uarra,,,Ray1919,,,,,330
+KAugustaRiver1-n2-1,,KAugustaRiver1,n2,būsi,būsi,,,Ray1919,,,,,330
+KAugustaRiver1-n3-1,,KAugustaRiver1,n3,nomu,nomu,,,Ray1919,,,,,330
+KAugustaRiver1-n4-1,,KAugustaRiver1,n4,hau-us,hau-us,,,Ray1919,,,,,330
+KAugustaRiver1-n5-1,,KAugustaRiver1,n5,nondo,nondo,,,Ray1919,,,,,330
+KAugustaRiver1-n6-1,,KAugustaRiver1,n6,uonăra,uonăra,,,Ray1919,,,,,330
+KAugustaRiver2-n1-1,,KAugustaRiver2,n1,nak,nak,,,Ray1919,,,,,330
+KAugustaRiver2-n2-1,,KAugustaRiver2,n2,vila,vila,,,Ray1919,,,,,330
+KAugustaRiver2-n3-1,,KAugustaRiver2,n3,kovuk,kovuk,,,Ray1919,,,,,330
+KAugustaRiver2-n4-1,,KAugustaRiver2,n4,einak,einak,,,Ray1919,,,,,330
+KAugustaRiver2-n5-1,,KAugustaRiver2,n5,taambem,taambem,,,Ray1919,,,,,330
+KAugustaRiver2-n6-1,,KAugustaRiver2,n6,čergagelag,čergagelag,,,Ray1919,,,,,330
+KAugustaRiver3-n1-1,,KAugustaRiver3,n1,kēla,kēla,,,Ray1919,,,,,330
+KAugustaRiver3-n2-1,,KAugustaRiver3,n2,vēti,vēti,,,Ray1919,,,,,330
+KAugustaRiver3-n3-1,,KAugustaRiver3,n3,mongul,mongul,,,Ray1919,,,,,330
+KAugustaRiver3-n4-1,,KAugustaRiver3,n4,ali,ali,,,Ray1919,,,,,330
+KAugustaRiver3-n5-1,,KAugustaRiver3,n5,ambun,ambun,,,Ray1919,,,,,330
+KAugustaRiver3-n6-1,,KAugustaRiver3,n6,ambun,ambun,,,Ray1919,,,,,330
+Watam-n1-1,,Watam,n1,gaku,gaku,,,Ray1919,,,,,330
+Watam-n2-1,,Watam,n2,noini,noini,,,Ray1919,,,,,330
+Watam-n3-1,,Watam,n3,giramo,giramo,,,Ray1919,,,,,330
+Watam-n4-1,,Watam,n4,pourek,pourek,,,Ray1919,,,,,330
+Watam-n5-1,,Watam,n5,rapun,rapun,,,Ray1919,,,,,330
+Watam-n10-1,,Watam,n10,par-niŋ,par-niŋ,,,Ray1919,,,,,330
+DagurVatai-n1-1,,DagurVatai,n1,"ătĕ, ătĭn",ătĕ,,,Ray1919,,,,,330
+DagurVatai-n1-2,,DagurVatai,n1,"ătĕ, ătĭn",ătĭn,,,Ray1919,,,,,330
+DagurVatai-n2-1,,DagurVatai,n2,biĕ,biĕ,,,Ray1919,,,,,330
+DagurVatai-n3-1,,DagurVatai,n3,bi-hătĕ,bi-hătĕ,,,Ray1919,,,,,330
+DagurVatai-n4-1,,DagurVatai,n4,nĕbati,nĕbati,,,Ray1919,,,,,330
+DagurVatai-n5-1,,DagurVatai,n5,nĕba-hătĕ,nĕba-hătĕ,,,Ray1919,,,,,330
+DagurVatai-n6-1,,DagurVatai,n6,nĕbat-viĕ,nĕbat-viĕ,,,Ray1919,,,,,330
+DagurVatai-n7-1,,DagurVatai,n7,nĕbat-bi-hătĕ,nĕbat-bi-hătĕ,,,Ray1919,,,,,330
+DagurVatai-n8-1,,DagurVatai,n8,nĕbat-biĕ-biĕ,nĕbat-biĕ-biĕ,,,Ray1919,,,,,330
+DagurVatai-n9-1,,DagurVatai,n9,nĕbat-bihătĕ-biĕ,nĕbat-bihătĕ-biĕ,,,Ray1919,,,,,330
+DagurVatai-n10-1,,DagurVatai,n10,ănauhĭp,ănauhĭp,,,Ray1919,,,,,330
+Kavu-n1-1,,Kavu,n1,atin,atin,,,Ray1919,,,,,330
+Kavu-n2-1,,Kavu,n2,piät,piät,,,Ray1919,,,,,330
+Kavu-n3-1,,Kavu,n3,pit'atin,pit'atin,,,Ray1919,,,,,330
+Kavu-n4-1,,Kavu,n4,nemat'it,nemat'it,,,Ray1919,,,,,330
+Kavu-n5-1,,Kavu,n5,anauvip,anauvip,,,Ray1919,,,,,330
+Kavu-n10-1,,Kavu,n10,vivis,vivis,,,Ray1919,,,,,330
+Vrinagol-n1-1,,Vrinagol,n1,ălpă,ălpă,,,Ray1919,,,,,330
+Vrinagol-n2-1,,Vrinagol,n2,"viĕ, vieĭ",viĕ,,,Ray1919,,,,,330
+Vrinagol-n2-2,,Vrinagol,n2,"viĕ, vieĭ",vieĭ,,,Ray1919,,,,,330
+Vrinagol-n3-1,,Vrinagol,n3,vĭĕŋŏ,vĭĕŋŏ,,,Ray1919,,,,,330
+Vrinagol-n4-1,,Vrinagol,n4,"vie-viĕ, vĭeĭ-vĕeĭ",vie-viĕ,,,Ray1919,,,,,330
+Vrinagol-n4-2,,Vrinagol,n4,"vie-viĕ, vĭeĭ-vĕeĭ",vĭeĭ-vĕeĭ,,,Ray1919,,,,,330
+Vrinagol-n5-1,,Vrinagol,n5,klăgaulŭn,klăgaulŭn,,,Ray1919,,,,,330
+Vrinagol-n6-1,,Vrinagol,n6,klăgaulŭn-ălpă,klăgaulŭn-ălpă,,,Ray1919,,,,,330
+Vrinagol-n7-1,,Vrinagol,n7,klăgaulŭn-viĕ,klăgaulŭn-viĕ,,,Ray1919,,,,,330
+Vrinagol-n8-1,,Vrinagol,n8,klăgaulŭn-vĭĕŋo,klăgaulŭn-vĭĕŋo,,,Ray1919,,,,,330
+Vrinagol-n9-1,,Vrinagol,n9,klăgaulŭn-viĕ-viĕ,klăgaulŭn-viĕ-viĕ,,,Ray1919,,,,,330
+Vrinagol-n10-1,,Vrinagol,n10,klăgaulŭn-klăgaulŭn,klăgaulŭn-klăgaulŭn,,,Ray1919,,,,,330
+Valman-n1-1,,Valman,n1,alpa,alpa,,,Ray1919,,,,,330
+Valman-n2-1,,Valman,n2,viei,viei,,,Ray1919,,,,,330
+Valman-n3-1,,Valman,n3,viei-ŋo,viei-ŋo,,,Ray1919,,,,,330
+Valman-n4-1,,Valman,n4,viei-viei,viei-viei,,,Ray1919,,,,,330
+Valman-n5-1,,Valman,n5,klag(o)-olun,klag-olun,,,Ray1919,,,,,330
+Valman-n10-1,,Valman,n10,klagolun-klagolun,klagolun-klagolun,,,Ray1919,,,,,330
+Akur-n1-1,,Akur,n1,nŏntŏ,nŏntŏ,,,Ray1919,,,,,330
+Akur-n2-1,,Akur,n2,bĭai,bĭai,,,Ray1919,,,,,330
+Akur-n3-1,,Akur,n3,bĭĕ-ŋo,bĭĕ-ŋo,,,Ray1919,,,,,330
+Akur-n4-1,,Akur,n4,bĭai-bĭai,bĭai-bĭai,,,Ray1919,,,,,330
+Akur-n5-1,,Akur,n5,bĭai-bĭai-ălpă,bĭai-bĭai-ălpă,,,Ray1919,,,,,330
+Anal-n1-1,,Anal,n1,lotaiye,lotaiye,,,Ray1919,,,,,330
+Anal-n2-1,,Anal,n2,rounke,rounke,,,Ray1919,,,,,330
+Anal-n3-1,,Anal,n3,rounke-lo-taiye,rounke-lo-taiye,,,Ray1919,,,,,330
+Anal-n4-1,,Anal,n4,rounke-rounke,rounke-rounke,,,Ray1919,,,,,330
+Anal-n5-1,,Anal,n5,rounke-rounke-lotaiye,rounke-rounke-lotaiye,,,Ray1919,,,,,330
+Arop-n1-1,,Arop,n1,puntanen,puntanen,,,Ray1919,,,,,330
+Arop-n2-1,,Arop,n2,eltin,eltin,,,Ray1919,,,,,330
+Arop-n3-1,,Arop,n3,eltin-puntanen,eltin-puntanen,,,Ray1919,,,,,330
+Arop-n4-1,,Arop,n4,eltin-eltin,eltin-eltin,,,Ray1919,,,,,330
+Arop-n5-1,,Arop,n5,eltin-eltin-puntanen,eltin-eltin-puntanen,,,Ray1919,,,,,330
+Leitere-n1-1,,Leitere,n1,opă,opă,,,Ray1919,,,,,330
+Leitere-n2-1,,Leitere,n2,yĕmonŏ,yĕmonŏ,,,Ray1919,,,,,330
+Leitere-n3-1,,Leitere,n3,enŏ,enŏ,,,Ray1919,,,,,330
+Leitere-n4-1,,Leitere,n4,nō,nō,,,Ray1919,,,,,330
+Leitere-n5-1,,Leitere,n5,nō-meu,nō-meu,,,Ray1919,,,,,330
+Leitere-n6-1,,Leitere,n6,nō-meyu,nō-meyu,,,Ray1919,,,,,330
+Leitere-n7-1,,Leitere,n7,nō-menŏ,nō-menŏ,,,Ray1919,,,,,330
+Leitere-n8-1,,Leitere,n8,nōyu,nōyu,,,Ray1919,,,,,330
+Leitere-n9-1,,Leitere,n9,noyu-meu,noyu-meu,,,Ray1919,,,,,330
+Leitere-n10-1,,Leitere,n10,nōyu-meyu,nōyu-meyu,,,Ray1919,,,,,330
+Wanimo-n1-1,,Wanimo,n1,opă,opă,,,Ray1919,,,,,330
+Wanimo-n2-1,,Wanimo,n2,yŭmōnŏ,yŭmōnŏ,,,Ray1919,,,,,330
+Wanimo-n3-1,,Wanimo,n3,enu,enu,,,Ray1919,,,,,330
+Wanimo-n4-1,,Wanimo,n4,nō,nō,,,Ray1919,,,,,330
+Wanimo-n5-1,,Wanimo,n5,no-mĕneau,no-mĕneau,,,Ray1919,,,,,330
+Wanimo-n6-1,,Wanimo,n6,nō-meneyu,nō-meneyu,,,Ray1919,,,,,330
+Wanimo-n7-1,,Wanimo,n7,nō-menehen-du,nō-menehen-du,,,Ray1919,,,,,330
+Wanimo-n8-1,,Wanimo,n8,nuyu,nuyu,,,Ray1919,,,,,330
+Wanimo-n9-1,,Wanimo,n9,nuyu-mĕneau,nuyu-mĕneau,,,Ray1919,,,,,330
+Wanimo-n10-1,,Wanimo,n10,nuyu-meneyu,nuyu-meneyu,,,Ray1919,,,,,330
+Yako-n1-1,,Yako,n1,opă,opă,,,Ray1919,,,,,331
+Yako-n2-1,,Yako,n2,yumōnŏ,yumōnŏ,,,Ray1919,,,,,331
+Yako-n3-1,,Yako,n3,enu,enu,,,Ray1919,,,,,331
+Yako-n4-1,,Yako,n4,nō,nō,,,Ray1919,,,,,331
+Yako-n5-1,,Yako,n5,no-mĕnau,no-mĕnau,,,Ray1919,,,,,331
+Yako-n6-1,,Yako,n6,nō-meneyu,nō-meneyu,,,Ray1919,,,,,331
+Yako-n7-1,,Yako,n7,no-mene-henu,no-mene-henu,,,Ray1919,,,,,331
+Yako-n8-1,,Yako,n8,nōyu,nōyu,,,Ray1919,,,,,331
+Yako-n9-1,,Yako,n9,noyu-va-mĕneau,noyu-va-mĕneau,,,Ray1919,,,,,331
+Yako-n10-1,,Yako,n10,"nōyu-va-meneyu, moti",nōyu-va-meneyu,,,Ray1919,,,,,331
+Yako-n10-2,,Yako,n10,"nōyu-va-meneyu, moti",moti,,,Ray1919,,,,,331
+Wutung-n1-1,,Wutung,n1,aŭfă,aŭfă,,,Ray1919,,,,,331
+Wutung-n2-1,,Wutung,n2,nĭŏmōă,nĭŏmōă,,,Ray1919,,,,,331
+Wutung-n3-1,,Wutung,n3,henŏ,henŏ,,,Ray1919,,,,,331
+Wutung-n4-1,,Wutung,n4,nō-naŭ,nō-naŭ,,,Ray1919,,,,,331
+Wutung-n5-1,,Wutung,n5,wi,wi,,,Ray1919,,,,,331
+Wutung-n6-1,,Wutung,n6,nō-tĭŏ,nō-tĭŏ,,,Ray1919,,,,,331
+Wutung-n7-1,,Wutung,n7,nō-tĭnyo,nō-tĭnyo,,,Ray1919,,,,,331
+Wutung-n8-1,,Wutung,n8,nō-ti-henŏ,nō-ti-henŏ,,,Ray1919,,,,,331
+Wutung-n9-1,,Wutung,n9,nō-tĭnaŭ,nō-tĭnaŭ,,,Ray1919,,,,,331
+Wutung-n10-1,,Wutung,n10,wi-tyă-wi,wi-tyă-wi,,,Ray1919,,,,,331
+Tami-areca_nut-1,,Tami,areca_nut,mbu,mbu,,,Ray1919,,,,,332
+Tami-banana-1,,Tami,banana,pun,pun,,,Ray1919,,,,,332
+Tami-bird-1,,Tami,bird,man,man,,,Ray1919,,,,,332
+Tami-coco_nut-1,,Tami,coco_nut,niŋ,niŋ,,,Ray1919,,,,,332
+Tami-dog-1,,Tami,dog,"kouŋ, kaua",kouŋ,,,Ray1919,,,,,332
+Tami-dog-2,,Tami,dog,"kouŋ, kaua",kaua,,,Ray1919,,,,,332
+Tami-ear-1,,Tami,ear,taliŋa,taliŋa,,,Ray1919,,,,,332
+Tami-eye-1,,Tami,eye,mata,mata,,,Ray1919,,,,,332
+Tami-fire-1,,Tami,fire,ya,ya,,,Ray1919,,,,,332
+Tami-fish-1,,Tami,fish,i,i,,,Ray1919,,,,,332
+Tami-foot_leg-1,,Tami,foot_leg,ge,ge,,,Ray1919,,,,,332
+Bukaua-banana-1,,Bukaua,banana,hŋ,hŋ,,,Ray1919,,,,,332
+Bukaua-bird-1,,Bukaua,bird,ma,ma,,,Ray1919,,,,,332
+Bukaua-coco_nut-1,,Bukaua,coco_nut,nip,nip,,,Ray1919,,,,,332
+Bukaua-dog-1,,Bukaua,dog,giam,giam,,,Ray1919,,,,,332
+Bukaua-ear-1,,Bukaua,ear,dana-laun,dana-laun,,,Ray1919,,,,,332
+Bukaua-eye-1,,Bukaua,eye,mata,mata,,,Ray1919,,,,,332
+Bukaua-fire-1,,Bukaua,fire,ya,ya,,,Ray1919,,,,,332
+Bukaua-fish-1,,Bukaua,fish,i,i,,,Ray1919,,,,,332
+Bukaua-foot_leg-1,,Bukaua,foot_leg,"ahi(n), ŋai(n)",ahi,,,Ray1919,,,,,332
+Bukaua-foot_leg-2,,Bukaua,foot_leg,"ahi(n), ŋai(n)",ŋai,,,Ray1919,,,,,332
+Yabim-areca_nut-1,,Yabim,areca_nut,mbu,mbu,,,Ray1919,,,,,332
+Yabim-banana-1,,Yabim,banana,"hm, m",hm,,,Ray1919,,,,,332
+Yabim-banana-2,,Yabim,banana,"hm, m",m,,,Ray1919,,,,,332
+Yabim-bird-1,,Yabim,bird,mo,mo,,,Ray1919,,,,,332
+Yabim-coco_nut-1,,Yabim,coco_nut,nip,nip,,,Ray1919,,,,,332
+Yabim-dog-1,,Yabim,dog,kiam,kiam,,,Ray1919,,,,,332
+Yabim-ear-1,,Yabim,ear,taŋa,taŋa,,,Ray1919,,,,,332
+Yabim-eye-1,,Yabim,eye,mata,mata,,,Ray1919,,,,,332
+Yabim-fire-1,,Yabim,fire,ya,ya,,,Ray1919,,,,,332
+Yabim-fish-1,,Yabim,fish,i,i,,,Ray1919,,,,,332
+Yabim-foot_leg-1,,Yabim,foot_leg,akai(ŋ),akai,,,Ray1919,,,,,332
+Suam-bird-1,,Suam,bird,mŏ,mŏ,,,Ray1919,,,,,332
+Suam-coco_nut-1,,Suam,coco_nut,nīp,nīp,,,Ray1919,,,,,332
+Suam-dog-1,,Suam,dog,kīam,kīam,,,Ray1919,,,,,332
+Suam-ear-1,,Suam,ear,taŋelūn,taŋelūn,,,Ray1919,,,,,332
+Suam-eye-1,,Suam,eye,mată(nu),mată,,,Ray1919,,,,,332
+Suam-fire-1,,Suam,fire,yă,yă,,,Ray1919,,,,,332
+Suam-fish-1,,Suam,fish,ī,ī,,,Ray1919,,,,,332
+Suam-foot_leg-1,,Suam,foot_leg,"hentăpa, henkeŋteŋ",hentăpa,,,Ray1919,,,,,332
+Suam-foot_leg-2,,Suam,foot_leg,"hentăpa, henkeŋteŋ",henkeŋteŋ,,,Ray1919,,,,,332
+Kelana-areca_nut-1,,Kelana,areca_nut,dabali,dabali,,,Ray1919,,,,,332
+Kelana-banana-1,,Kelana,banana,pundi,pundi,,,Ray1919,,,,,332
+Kelana-bird-1,,Kelana,bird,manu,manu,,,Ray1919,,,,,332
+Kelana-coco_nut-1,,Kelana,coco_nut,niu,niu,,,Ray1919,,,,,332
+Kelana-dog-1,,Kelana,dog,gabun,gabun,,,Ray1919,,,,,332
+Kelana-fire-1,,Kelana,fire,yap,yap,,,Ray1919,,,,,332
+Kelana-fish-1,,Kelana,fish,iga,iga,,,Ray1919,,,,,332
+Kelana-foot_leg-1,,Kelana,foot_leg,age(n)-dap,age-dap,,,Ray1919,,,,,332
+RookIs-banana-1,,RookIs,banana,pun,pun,,,Ray1919,,,,,332
+RookIs-bird-1,,RookIs,bird,man,man,,,Ray1919,,,,,332
+RookIs-coco_nut-1,,RookIs,coco_nut,niu,niu,,,Ray1919,,,,,332
+RookIs-dog-1,,RookIs,dog,gabun,gabun,,,Ray1919,,,,,332
+RookIs-ear-1,,RookIs,ear,taliŋa,taliŋa,,,Ray1919,,,,,332
+RookIs-eye-1,,RookIs,eye,mata,mata,,,Ray1919,,,,,332
+RookIs-fire-1,,RookIs,fire,yap,yap,,,Ray1919,,,,,332
+RookIs-fish-1,,RookIs,fish,ig,ig,,,Ray1919,,,,,332
+RookIs-foot_leg-1,,RookIs,foot_leg,age(n),age,,,Ray1919,,,,,332
+Kaimanga-areca_nut-1,,Kaimanga,areca_nut,mbu,mbu,,,Ray1919,,,,,332
+Kaimanga-banana-1,,Kaimanga,banana,pin,pin,,,Ray1919,,,,,332
+Kaimanga-bird-1,,Kaimanga,bird,man,man,,,Ray1919,,,,,332
+Kaimanga-coco_nut-1,,Kaimanga,coco_nut,niu,niu,,,Ray1919,,,,,332
+Kaimanga-dog-1,,Kaimanga,dog,me,me,,,Ray1919,,,,,332
+Kaimanga-fish-1,,Kaimanga,fish,ie,ie,,,Ray1919,,,,,332
+Tuom-banana-1,,Tuom,banana,un,un,,,Ray1919,,,,,332
+Tuom-bird-1,,Tuom,bird,man,man,,,Ray1919,,,,,332
+Tuom-coco_nut-1,,Tuom,coco_nut,niu,niu,,,Ray1919,,,,,332
+Tuom-dog-1,,Tuom,dog,gawun,gawun,,,Ray1919,,,,,332
+Tuom-ear-1,,Tuom,ear,taliŋan,taliŋan,,,Ray1919,,,,,332
+Tuom-eye-1,,Tuom,eye,mataŋ,mataŋ,,,Ray1919,,,,,332
+Tuom-fish-1,,Tuom,fish,i,i,,,Ray1919,,,,,332
+Tuom-foot_leg-1,,Tuom,foot_leg,agen,agen,,,Ray1919,,,,,332
+Mantok-banana-1,,Mantok,banana,pūn,pūn,,,Ray1919,,,,,332
+Mantok-coco_nut-1,,Mantok,coco_nut,niu,niu,,,Ray1919,,,,,332
+Mantok-dog-1,,Mantok,dog,gawun,gawun,,,Ray1919,,,,,332
+Mantok-ear-1,,Mantok,ear,taliŋan,taliŋan,,,Ray1919,,,,,332
+Mantok-eye-1,,Mantok,eye,matad,matad,,,Ray1919,,,,,332
+Mantok-fire-1,,Mantok,fire,yăb,yăb,,,Ray1919,,,,,332
+Mantok-fish-1,,Mantok,fish,i,i,,,Ray1919,,,,,332
+Mantok-foot_leg-1,,Mantok,foot_leg,agen,agen,,,Ray1919,,,,,332
+Sigap-banana-1,,Sigap,banana,pūn,pūn,,,Ray1919,,,,,332
+Sigap-coco_nut-1,,Sigap,coco_nut,niu,niu,,,Ray1919,,,,,332
+Sigap-dog-1,,Sigap,dog,gaon,gaon,,,Ray1919,,,,,332
+Sigap-ear-1,,Sigap,ear,taŋak,taŋak,,,Ray1919,,,,,332
+Sigap-eye-1,,Sigap,eye,matam,matam,,,Ray1919,,,,,332
+Sigap-foot_leg-1,,Sigap,foot_leg,gēm,gēm,,,Ray1919,,,,,332
+Bilibili-areca_nut-1,,Bilibili,areca_nut,yem (yemb),yem,,,Ray1919,,,,,332
+Bilibili-banana-1,,Bilibili,banana,hundi,hundi,,,Ray1919,,,,,332
+Bilibili-bird-1,,Bilibili,bird,"doru (mo, ma)",doru,,,Ray1919,,,,,332
+Bilibili-coco_nut-1,,Bilibili,coco_nut,"nihu (niu), neŏ",nihu,,,Ray1919,,,,,332
+Bilibili-coco_nut-2,,Bilibili,coco_nut,"nihu (niu), neŏ",neŏ,,,Ray1919,,,,,332
+Bilibili-dog-1,,Bilibili,dog,gaun (gaon),gaun,,,Ray1919,,,,,332
+Bilibili-ear-1,,Bilibili,ear,"tin-lān, tiŋri",tin-lān,,,Ray1919,,,,,332
+Bilibili-ear-2,,Bilibili,ear,"tin-lān, tiŋri",tiŋri,,,Ray1919,,,,,332
+Bilibili-eye-1,,Bilibili,eye,mala,mala,,,Ray1919,,,,,332
+Bilibili-fire-1,,Bilibili,fire,ya,ya,,,Ray1919,,,,,332
+Bilibili-fish-1,,Bilibili,fish,bali (ie),bali,,,Ray1919,,,,,332
+Bilibili-foot_leg-1,,Bilibili,foot_leg,"nie(n), galin",nie,,,Ray1919,,,,,332
+Bilibili-foot_leg-2,,Bilibili,foot_leg,"nie(n), galin",galin,,,Ray1919,,,,,332
+Mitebog-coco_nut-1,,Mitebog,coco_nut,niu,niu,,,Ray1919,,,,,332
+Mitebog-ear-1,,Mitebog,ear,awa(n),awa,,?,Ray1919,,,,,332
+Mitebog-eye-1,,Mitebog,eye,mala(n),mala,,,Ray1919,,,,,332
+Mitebog-fire-1,,Mitebog,fire,ya,ya,,,Ray1919,,,,,332
+Mitebog-foot_leg-1,,Mitebog,foot_leg,nie(n),nie,,,Ray1919,,,,,332
+SzeakBagili-areca_nut-1,,SzeakBagili,areca_nut,"māsi, meel",māsi,,,Ray1919,,,,,332
+SzeakBagili-areca_nut-2,,SzeakBagili,areca_nut,"māsi, meel",meel,,,Ray1919,,,,,332
+SzeakBagili-banana-1,,SzeakBagili,banana,"fut, mug",fut,,,Ray1919,,,,,332
+SzeakBagili-banana-2,,SzeakBagili,banana,"fut, mug",mug,,,Ray1919,,,,,332
+SzeakBagili-coco_nut-1,,SzeakBagili,coco_nut,niu,niu,,,Ray1919,,,,,332
+SzeakBagili-dog-1,,SzeakBagili,dog,gaun,gaun,,,Ray1919,,,,,332
+SzeakBagili-ear-1,,SzeakBagili,ear,kŏkote(d),kŏkote,,,Ray1919,,,,,332
+SzeakBagili-eye-1,,SzeakBagili,eye,māta(d),māta,,,Ray1919,,,,,332
+SzeakBagili-fire-1,,SzeakBagili,fire,ya,ya,,,Ray1919,,,,,332
+Karkar-areca_nut-1,,Karkar,areca_nut,yep,yep,,,Ray1919,,,,,332
+Karkar-banana-1,,Karkar,banana,fūd,fūd,,,Ray1919,,,,,332
+Karkar-bird-1,,Karkar,bird,ananganak,ananganak,,,Ray1919,,,,,332
+Karkar-coco_nut-1,,Karkar,coco_nut,niu,niu,,,Ray1919,,,,,332
+Karkar-dog-1,,Karkar,dog,gaun,gaun,,,Ray1919,,,,,332
+Karkar-ear-1,,Karkar,ear,kukudo(n),kukudo,,,Ray1919,,,,,332
+Karkar-eye-1,,Karkar,eye,măla(n),măla,,,Ray1919,,,,,332
+Karkar-fire-1,,Karkar,fire,yai,yai,,,Ray1919,,,,,332
+Karkar-fish-1,,Karkar,fish,ij,ij,,,Ray1919,,,,,332
+Karkar-foot_leg-1,,Karkar,foot_leg,nie(n),nie,,,Ray1919,,,,,332
+SiarRagetta-banana-1,,SiarRagetta,banana,fute,fute,,,Ray1919,,,,,332
+SiarRagetta-bird-1,,SiarRagetta,bird,ma,ma,,,Ray1919,,,,,332
+SiarRagetta-coco_nut-1,,SiarRagetta,coco_nut,niu,niu,,,Ray1919,,,,,332
+SiarRagetta-dog-1,,SiarRagetta,dog,gaun,gaun,,,Ray1919,,,,,332
+SiarRagetta-ear-1,,SiarRagetta,ear,teliŋa(n),teliŋa,,,Ray1919,,,,,332
+SiarRagetta-eye-1,,SiarRagetta,eye,mala(n),mala,,,Ray1919,,,,,332
+SiarRagetta-fire-1,,SiarRagetta,fire,āi,āi,,,Ray1919,,,,,332
+SiarRagetta-fish-1,,SiarRagetta,fish,ije,ije,,,Ray1919,,,,,332
+SiarRagetta-foot_leg-1,,SiarRagetta,foot_leg,nie(n),nie,,,Ray1919,,,,,332
+Graget-areca_nut-1,,Graget,areca_nut,ĭĕb,ĭĕb,,,Ray1919,,,,,332
+Graget-banana-1,,Graget,banana,fud,fud,,,Ray1919,,,,,332
+Graget-bird-1,,Graget,bird,mă,mă,,,Ray1919,,,,,332
+Graget-coco_nut-1,,Graget,coco_nut,niu,niu,,,Ray1919,,,,,332
+Graget-dog-1,,Graget,dog,"gaun, ŋgaun",gaun,,,Ray1919,,,,,332
+Graget-dog-2,,Graget,dog,"gaun, ŋgaun",ŋgaun,,,Ray1919,,,,,332
+Graget-ear-1,,Graget,ear,tĭlīnă(k),tĭlīnă,,,Ray1919,,,,,332
+Graget-eye-1,,Graget,eye,mălă(k),mălă,,,Ray1919,,,,,332
+Graget-fire-1,,Graget,fire,"ĭă, ai",ĭă,,,Ray1919,,,,,332
+Graget-fire-2,,Graget,fire,"ĭă, ai",ai,,,Ray1919,,,,,332
+Graget-fish-1,,Graget,fish,iye,iye,,,Ray1919,,,,,332
+Graget-foot_leg-1,,Graget,foot_leg,nĕ(k),nĕ,,,Ray1919,,,,,332
+Sarang-bird-1,,Sarang,bird,moluk,moluk,,,Ray1919,,,,,332
+Sarang-ear-1,,Sarang,ear,kutudŏk,kutudŏk,,,Ray1919,,,,,332
+Sarang-eye-1,,Sarang,eye,matar,matar,,,Ray1919,,,,,332
+Sarang-fire-1,,Sarang,fire,yai,yai,,,Ray1919,,,,,332
+Sarang-fish-1,,Sarang,fish,if,if,,,Ray1919,,,,,332
+Manam-banana-1,,Manam,banana,udi,udi,,,Ray1919,,,,,332
+Manam-ear-1,,Manam,ear,uŋi,uŋi,,,Ray1919,,,,,332
+Manam-eye-1,,Manam,eye,mata,mata,,,Ray1919,,,,,332
+HansaV-areca_nut-1,,HansaV,areca_nut,mboa,mboa,,,Ray1919,,,,,332
+HansaV-banana-1,,HansaV,banana,udi,udi,,,Ray1919,,,,,332
+HansaV-bird-1,,HansaV,bird,maŋ,maŋ,,,Ray1919,,,,,332
+HansaV-coco_nut-1,,HansaV,coco_nut,niu,niu,,,Ray1919,,,,,332
+HansaV-dog-1,,HansaV,dog,eo,eo,,,Ray1919,,,,,332
+HansaV-ear-1,,HansaV,ear,uŋ-ego,uŋ-ego,,,Ray1919,,,,,332
+HansaV-eye-1,,HansaV,eye,matago,matago,,,Ray1919,,,,,332
+HansaV-fire-1,,HansaV,fire,eoa,eoa,,,Ray1919,,,,,332
+HansaV-fish-1,,HansaV,fish,ia,ia,,,Ray1919,,,,,332
+Wokeo-bird-1,,Wokeo,bird,man,man,,,Ray1919,,,,,332
+Wokeo-coco_nut-1,,Wokeo,coco_nut,ni,ni,,,Ray1919,,,,,332
+Wokeo-dog-1,,Wokeo,dog,ke,ke,,,Ray1919,,,,,332
+Wokeo-ear-1,,Wokeo,ear,tălĭnă,tălĭnă,,,Ray1919,,,,,332
+Wokeo-fire-1,,Wokeo,fire,"iowă, yowă",iowă,,,Ray1919,,,,,332
+Wokeo-fire-2,,Wokeo,fire,"iowă, yowă",yowă,,,Ray1919,,,,,332
+Keule-dog-1,,Keule,dog,ke,ke,,,Ray1919,,,,,332
+Keule-ear-1,,Keule,ear,tălină,tălină,,,Ray1919,,,,,332
+Karesau-bird-1,,Karesau,bird,man,man,,,Ray1919,,,,,332
+Karesau-dog-1,,Karesau,dog,winau,winau,,,Ray1919,,,,,332
+Ali-areca_nut-1,,Ali,areca_nut,po,po,,,Ray1919,,,,,332
+Ali-banana-1,,Ali,banana,wur,wur,,,Ray1919,,,,,332
+Ali-bird-1,,Ali,bird,mieŋ,mieŋ,,,Ray1919,,,,,332
+Ali-coco_nut-1,,Ali,coco_nut,niu,niu,,,Ray1919,,,,,332
+Ali-dog-1,,Ali,dog,auŋ,auŋ,,,Ray1919,,,,,332
+Ali-ear-1,,Ali,ear,tanaeï(k),tanaeï,,,Ray1919,,,,,332
+Ali-eye-1,,Ali,eye,matekrik,matekrik,,,Ray1919,,,,,332
+Ali-fire-1,,Ali,fire,lip,lip,,,Ray1919,,,,,332
+Ali-fish-1,,Ali,fish,waa,waa,,,Ray1919,,,,,332
+Ali-foot_leg-1,,Ali,foot_leg,lawek,lawek,,,Ray1919,,,,,332
+Seleo-bird-1,,Seleo,bird,miŋ,miŋ,,,Ray1919,,,,,332
+Seleo-coco_nut-1,,Seleo,coco_nut,niu,niu,,,Ray1919,,,,,332
+Seleo-dog-1,,Seleo,dog,aun,aun,,,Ray1919,,,,,332
+Seleo-fish-1,,Seleo,fish,vaa,vaa,,,Ray1919,,,,,332
+Yamir-bird-1,,Yamir,bird,min,min,,,Ray1919,,,,,332
+Yamir-coco_nut-1,,Yamir,coco_nut,niu,niu,,,Ray1919,,,,,332
+Yamir-dog-1,,Yamir,dog,aun,aun,,,Ray1919,,,,,332
+Yamir-fish-1,,Yamir,fish,váa,váa,,,Ray1919,,,,,332
+Yakamul-areca_nut-1,,Yakamul,areca_nut,po,po,,,Ray1919,,,,,332
+Yakamul-banana-1,,Yakamul,banana,"wuḍ, vut'",wuḍ,,,Ray1919,,,,,332
+Yakamul-banana-2,,Yakamul,banana,"wuḍ, vut'",vut',,,Ray1919,,,,,332
+Yakamul-bird-1,,Yakamul,bird,mieŋ,mieŋ,,,Ray1919,,,,,332
+Yakamul-coco_nut-1,,Yakamul,coco_nut,niu,niu,,,Ray1919,,,,,332
+Yakamul-dog-1,,Yakamul,dog,auŋ,auŋ,,,Ray1919,,,,,332
+Yakamul-ear-1,,Yakamul,ear,tanakeik,tanakeik,,,Ray1919,,,,,332
+Yakamul-eye-1,,Yakamul,eye,matekrik,matekrik,,,Ray1919,,,,,332
+Yakamul-fire-1,,Yakamul,fire,"lih, lie",lih,,,Ray1919,,,,,332
+Yakamul-fire-2,,Yakamul,fire,"lih, lie",lie,,,Ray1919,,,,,332
+Yakamul-fish-1,,Yakamul,fish,hăai,hăai,,,Ray1919,,,,,332
+Yakamul-foot_leg-1,,Yakamul,foot_leg,lahek,lahek,,,Ray1919,,,,,332
+Paup-banana-1,,Paup,banana,vut',vut',,,Ray1919,,,,,332
+Paup-bird-1,,Paup,bird,mieŋ,mieŋ,,,Ray1919,,,,,332
+Paup-coco_nut-1,,Paup,coco_nut,nĕu,nĕu,,,Ray1919,,,,,332
+Paup-dog-1,,Paup,dog,auŋ,auŋ,,,Ray1919,,,,,332
+Paup-ear-1,,Paup,ear,tănăkaik,tănăkaik,,,Ray1919,,,,,332
+Paup-fire-1,,Paup,fire,liĕf,liĕf,,,Ray1919,,,,,332
+Paup-fish-1,,Paup,fish,făai,făai,,,Ray1919,,,,,332
+Malol-coco_nut-1,,Malol,coco_nut,neu,neu,,,Ray1919,,,,,332
+UlauSueng-areca_nut-1,,UlauSueng,areca_nut,bô,bô,,,Ray1919,,,,,332
+UlauSueng-banana-1,,UlauSueng,banana,huḍ,huḍ,,,Ray1919,,,,,332
+UlauSueng-bird-1,,UlauSueng,bird,man,man,,,Ray1919,,,,,332
+UlauSueng-coco_nut-1,,UlauSueng,coco_nut,nëu,nëu,,,Ray1919,,,,,332
+UlauSueng-dog-1,,UlauSueng,dog,ahauŋ,ahauŋ,,,Ray1919,,,,,332
+UlauSueng-ear-1,,UlauSueng,ear,ḍarkekḍeiŋ,ḍarkekḍeiŋ,,,Ray1919,,,,,332
+UlauSueng-eye-1,,UlauSueng,eye,matekrik,matekrik,,,Ray1919,,,,,332
+UlauSueng-fire-1,,UlauSueng,fire,yah,yah,,,Ray1919,,,,,332
+UlauSueng-fish-1,,UlauSueng,fish,wolût,wolût,,,Ray1919,,,,,332
+UlauSueng-foot_leg-1,,UlauSueng,foot_leg,arih,arih,,,Ray1919,,,,,332
+Tumleo-areca_nut-1,,Tumleo,areca_nut,po,po,,,Ray1919,,,,,332
+Tumleo-banana-1,,Tumleo,banana,"waur, wŏr",waur,,,Ray1919,,,,,332
+Tumleo-banana-2,,Tumleo,banana,"waur, wŏr",wŏr,,,Ray1919,,,,,332
+Tumleo-bird-1,,Tumleo,bird,mien,mien,,,Ray1919,,,,,332
+Tumleo-coco_nut-1,,Tumleo,coco_nut,neiu,neiu,,,Ray1919,,,,,332
+Tumleo-dog-1,,Tumleo,dog,aun,aun,,,Ray1919,,,,,332
+Tumleo-ear-1,,Tumleo,ear,tanarapik,tanarapik,,,Ray1919,,,,,332
+Tumleo-eye-1,,Tumleo,eye,matalaŋek,matalaŋek,,,Ray1919,,,,,332
+Tumleo-fire-1,,Tumleo,fire,yep,yep,,,Ray1919,,,,,332
+Tumleo-fish-1,,Tumleo,fish,paap,paap,,,Ray1919,,,,,332
+Tumleo-foot_leg-1,,Tumleo,foot_leg,auwit'alikpeity,auwit'alikpeity,,,Ray1919,,,,,332
+Ser-banana-1,,Ser,banana,bur,bur,,,Ray1919,,,,,333
+Ser-bird-1,,Ser,bird,main,main,,,Ray1919,,,,,333
+Ser-dog-1,,Ser,dog,mbiŋ,mbiŋ,,,Ray1919,,,,,333
+Sissano-areca_nut-1,,Sissano,areca_nut,po,po,,,Ray1919,,,,,333
+Sissano-bird-1,,Sissano,bird,măn,măn,,,Ray1919,,,,,333
+Sissano-coco_nut-1,,Sissano,coco_nut,neu,neu,,,Ray1919,,,,,333
+Sissano-dog-1,,Sissano,dog,aun,aun,,,Ray1919,,,,,333
+Sissano-ear-1,,Sissano,ear,nirepok,nirepok,,,Ray1919,,,,,333
+Sissano-eye-1,,Sissano,eye,tawelukug,tawelukug,,,Ray1919,,,,,333
+Yotafa-areca_nut-1,,Yotafa,areca_nut,pugu,pugu,,,Ray1919,,,,,333
+Yotafa-banana-1,,Yotafa,banana,urgeyuki,urgeyuki,,,Ray1919,,,,,333
+Yotafa-bird-1,,Yotafa,bird,mān,mān,,,Ray1919,,,,,333
+Yotafa-coco_nut-1,,Yotafa,coco_nut,"nino, niu",nino,,,Ray1919,,,,,333
+Yotafa-coco_nut-2,,Yotafa,coco_nut,"nino, niu",niu,,,Ray1919,,,,,333
+Yotafa-dog-1,,Yotafa,dog,hoŋ,hoŋ,,,Ray1919,,,,,333
+Yotafa-ear-1,,Yotafa,ear,tĕni,tĕni,,,Ray1919,,,,,333
+Yotafa-eye-1,,Yotafa,eye,"windu, wente",windu,,,Ray1919,,,,,333
+Yotafa-eye-2,,Yotafa,eye,"windu, wente",wente,,,Ray1919,,,,,333
+Yotafa-fire-1,,Yotafa,fire,aidyări,aidyări,,,Ray1919,,,,,333
+Yotafa-fish-1,,Yotafa,fish,igeh,igeh,,,Ray1919,,,,,333
+Yotafa-foot_leg-1,,Yotafa,foot_leg,aya,aya,,,Ray1919,,,,,333
+Ingros-coco_nut-1,,Ingros,coco_nut,niu,niu,,,Ray1919,,,,,333
+Ingros-dog-1,,Ingros,dog,konye,konye,,,Ray1919,,,,,333
+Ingros-ear-1,,Ingros,ear,tiŋyė,tiŋyė,,,Ray1919,,,,,333
+Ingros-fish-1,,Ingros,fish,igĕ,igĕ,,,Ray1919,,,,,333
+Yenbi-ear-1,,Yenbi,ear,tinya,tinya,,,Ray1919,,,,,333
+Entsau-dog-1,,Entsau,dog,konye,konye,,,Ray1919,,,,,333
+Entsau-fish-1,,Entsau,fish,igĕ,igĕ,,,Ray1919,,,,,333
+Tobadi-banana-1,,Tobadi,banana,ure,ure,,,Ray1919,,,,,333
+Tobadi-coco_nut-1,,Tobadi,coco_nut,niu,niu,,,Ray1919,,,,,333
+Tobadi-dog-1,,Tobadi,dog,kauno,kauno,,,Ray1919,,,,,333
+Tobadi-ear-1,,Tobadi,ear,tĕnye,tĕnye,,,Ray1919,,,,,333
+Tobadi-fire-1,,Tobadi,fire,ai,ai,,,Ray1919,,,,,333
+Tobadi-fish-1,,Tobadi,fish,igĕ,igĕ,,,Ray1919,,,,,333
+Tami-hand_arm-1,,Tami,hand_arm,lima,lima,,,Ray1919,,,,,333
+Tami-house-1,,Tami,house,panu,panu,,,Ray1919,,,,,333
+Tami-man-1,,Tami,man,damo,damo,,,Ray1919,,,,,333
+Tami-moon-1,,Tami,moon,kayo,kayo,,,Ray1919,,,,,333
+Tami-pig-1,,Tami,pig,mbol,mbol,,,Ray1919,,,,,333
+Tami-stone-1,,Tami,stone,pa,pa,,,Ray1919,,,,,333
+Tami-sun-1,,Tami,sun,kot,kot,,,Ray1919,,,,,333
+Tami-tooth-1,,Tami,tooth,nau,nau,,,Ray1919,,,,,333
+Tami-water-1,,Tami,water,lan,lan,,,Ray1919,,,,,333
+Tami-woman-1,,Tami,woman,diwi,diwi,,,Ray1919,,,,,333
+Tami-men_s_or_club_house-1,,Tami,men_s_or_club_house,lum,lum,,,Ray1919,,,,,333
+Yabim-men_s_or_club_house-1,,Yabim,men_s_or_club_house,lum,lum,,,Ray1919,,,,,333
+Kaimanga-men_s_or_club_house-1,,Kaimanga,men_s_or_club_house,urum,urum,,,Ray1919,,,,,333
+Bukaua-hand_arm-1,,Bukaua,hand_arm,lama,lama,,,Ray1919,,,,,333
+Bukaua-house-1,,Bukaua,house,gameŋ,gameŋ,,,Ray1919,,,,,333
+Bukaua-man-1,,Bukaua,man,namala,namala,,,Ray1919,,,,,333
+Bukaua-moon-1,,Bukaua,moon,ayu,ayu,,,Ray1919,,,,,333
+Bukaua-pig-1,,Bukaua,pig,be,be,,,Ray1919,,,,,333
+Bukaua-sun-1,,Bukaua,sun,a,a,,,Ray1919,,,,,333
+Bukaua-tooth-1,,Bukaua,tooth,loŋ,loŋ,,,Ray1919,,,,,333
+Bukaua-water-1,,Bukaua,water,bu,bu,,,Ray1919,,,,,333
+Bukaua-woman-1,,Bukaua,woman,lugui,lugui,,,Ray1919,,,,,333
+Yabim-hand_arm-1,,Yabim,hand_arm,lema,lema,,,Ray1919,,,,,333
+Yabim-house-1,,Yabim,house,andu,andu,,,Ray1919,,,,,333
+Yabim-man-1,,Yabim,man,ŋamala,ŋamala,,,Ray1919,,,,,333
+Yabim-moon-1,,Yabim,moon,ayun,ayun,,,Ray1919,,,,,333
+Yabim-pig-1,,Yabim,pig,bo,bo,,,Ray1919,,,,,333
+Yabim-stone-1,,Yabim,stone,po,po,,,Ray1919,,,,,333
+Yabim-sun-1,,Yabim,sun,"o, oa",o,,,Ray1919,,,,,333
+Yabim-sun-2,,Yabim,sun,"o, oa",oa,,,Ray1919,,,,,333
+Yabim-tooth-1,,Yabim,tooth,luŋ,luŋ,,,Ray1919,,,,,333
+Yabim-water-1,,Yabim,water,bū,bū,,,Ray1919,,,,,333
+Yabim-woman-1,,Yabim,woman,"awi, auwi",awi,,,Ray1919,,,,,333
+Yabim-woman-2,,Yabim,woman,"awi, auwi",auwi,,,Ray1919,,,,,333
+Suam-hand_arm-1,,Suam,hand_arm,lemeŋ,lemeŋ,,,Ray1919,,,,,333
+Suam-house-1,,Suam,house,"andu, lūm",andu,,,Ray1919,,,,,333
+Suam-house-2,,Suam,house,"andu, lūm",lūm,,,Ray1919,,,,,333
+Suam-man-1,,Suam,man,ŋa,ŋa,,,Ray1919,,,,,333
+Suam-moon-1,,Suam,moon,abumtau-ayum,abumtau-ayum,,,Ray1919,,,,,333
+Suam-pig-1,,Suam,pig,bŏ,bŏ,,,Ray1919,,,,,333
+Suam-sun-1,,Suam,sun,abumtau ōā,abumtau ōā,,,Ray1919,,,,,333
+Suam-tooth-1,,Suam,tooth,lūn,lūn,,,Ray1919,,,,,333
+Suam-water-1,,Suam,water,bu,bu,,,Ray1919,,,,,333
+Suam-woman-1,,Suam,woman,paliŋa,paliŋa,,,Ray1919,,,,,333
+Kelana-hand_arm-1,,Kelana,hand_arm,lemeŋ-dap,lemeŋ-dap,,"'Cf. tappa, root'",Ray1919,,,,,333
+Kelana-house-1,,Kelana,house,ruma,ruma,,,Ray1919,,,,,333
+Kelana-man-1,,Kelana,man,tamtamon,tamtamon,,,Ray1919,,,,,333
+Kelana-moon-1,,Kelana,moon,keiwo,keiwo,,,Ray1919,,,,,333
+Kelana-pig-1,,Kelana,pig,bŏre,bŏre,,,Ray1919,,,,,333
+Kelana-stone-1,,Kelana,stone,maeto,maeto,,,Ray1919,,,,,333
+Kelana-sun-1,,Kelana,sun,lavangá,lavangá,,,Ray1919,,,,,333
+Kelana-water-1,,Kelana,water,yau,yau,,,Ray1919,,,,,333
+Kelana-woman-1,,Kelana,woman,siliva,siliva,,,Ray1919,,,,,333
+RookIs-hand_arm-1,,RookIs,hand_arm,lima(n),lima,,,Ray1919,,,,,333
+RookIs-house-1,,RookIs,house,rum,rum,,,Ray1919,,,,,333
+RookIs-man-1,,RookIs,man,tamtamon,tamtamon,,,Ray1919,,,,,333
+RookIs-moon-1,,RookIs,moon,kaio,kaio,,,Ray1919,,,,,333
+RookIs-pig-1,,RookIs,pig,"gai, ngai, ŋe",gai,,,Ray1919,,,,,333
+RookIs-pig-2,,RookIs,pig,"gai, ngai, ŋe",ngai,,,Ray1919,,,,,333
+RookIs-pig-3,,RookIs,pig,"gai, ngai, ŋe",ŋe,,,Ray1919,,,,,333
+RookIs-stone-1,,RookIs,stone,mait,mait,,,Ray1919,,,,,333
+RookIs-sun-1,,RookIs,sun,"dagi, ās",dagi,,,Ray1919,,,,,333
+RookIs-sun-2,,RookIs,sun,"dagi, ās",ās,,,Ray1919,,,,,333
+RookIs-tooth-1,,RookIs,tooth,livu(n),livu,,,Ray1919,,,,,333
+RookIs-water-1,,RookIs,water,ya,ya,,,Ray1919,,,,,333
+RookIs-woman-1,,RookIs,woman,siliva,siliva,,,Ray1919,,,,,333
+Kaimanga-house-1,,Kaimanga,house,rum,rum,,,Ray1919,,,,,333
+Kaimanga-pig-1,,Kaimanga,pig,ŋe,ŋe,,,Ray1919,,,,,333
+Kaimanga-sun-1,,Kaimanga,sun,nzŏn,nzŏn,,,Ray1919,,,,,333
+Kaimanga-water-1,,Kaimanga,water,"yōp, yōk",yōp,,,Ray1919,,,,,333
+Kaimanga-water-2,,Kaimanga,water,"yōp, yōk",yōk,,,Ray1919,,,,,333
+Tuom-hand_arm-1,,Tuom,hand_arm,niman,niman,,,Ray1919,,,,,333
+Tuom-house-1,,Tuom,house,rum,rum,,,Ray1919,,,,,333
+Tuom-moon-1,,Tuom,moon,kayo,kayo,,,Ray1919,,,,,333
+Tuom-pig-1,,Tuom,pig,gai,gai,,,Ray1919,,,,,333
+Tuom-stone-1,,Tuom,stone,mait,mait,,,Ray1919,,,,,333
+Tuom-sun-1,,Tuom,sun,ās,ās,,,Ray1919,,,,,333
+Tuom-tooth-1,,Tuom,tooth,livon,livon,,,Ray1919,,,,,333
+Tuom-water-1,,Tuom,water,tagunia,tagunia,,,Ray1919,,,,,333
+Tuom-woman-1,,Tuom,woman,pain,pain,,,Ray1919,,,,,333
+Mantok-hand_arm-1,,Mantok,hand_arm,limad,limad,,,Ray1919,,,,,333
+Mantok-house-1,,Mantok,house,rūm,rūm,,,Ray1919,,,,,333
+Mantok-man-1,,Mantok,man,ditamo,ditamo,,,Ray1919,,,,,333
+Mantok-moon-1,,Mantok,moon,kayo,kayo,,,Ray1919,,,,,333
+Mantok-pig-1,,Mantok,pig,ŋai,ŋai,,,Ray1919,,,,,333
+Mantok-stone-1,,Mantok,stone,yām,yām,,,Ray1919,,,,,333
+Mantok-sun-1,,Mantok,sun,ndāg,ndāg,,,Ray1919,,,,,333
+Mantok-tooth-1,,Mantok,tooth,livōn,livōn,,,Ray1919,,,,,333
+Mantok-water-1,,Mantok,water,yā,yā,,,Ray1919,,,,,333
+Mantok-woman-1,,Mantok,woman,dilive,dilive,,,Ray1919,,,,,333
+Sigap-hand_arm-1,,Sigap,hand_arm,baum,baum,,,Ray1919,,,,,333
+Sigap-pig-1,,Sigap,pig,bŏr,bŏr,,,Ray1919,,,,,333
+Sigap-tooth-1,,Sigap,tooth,"ninŏm, ninop",ninŏm,,,Ray1919,,,,,333
+Sigap-tooth-2,,Sigap,tooth,"ninŏm, ninop",ninop,,,Ray1919,,,,,333
+Sigap-water-1,,Sigap,water,lo,lo,,,Ray1919,,,,,333
+Bilibili-hand_arm-1,,Bilibili,hand_arm,"lima(n), nĭman",lima,,,Ray1919,,,,,334
+Bilibili-hand_arm-2,,Bilibili,hand_arm,"lima(n), nĭman",nĭman,,,Ray1919,,,,,334
+Bilibili-house-1,,Bilibili,house,amb,amb,,,Ray1919,,,,,334
+Bilibili-man-1,,Bilibili,man,"tamol, tomŏl",tamol,,,Ray1919,,,,,334
+Bilibili-man-2,,Bilibili,man,"tamol, tomŏl",tomŏl,,,Ray1919,,,,,334
+Bilibili-moon-1,,Bilibili,moon,"znăsin, sinasin",znăsin,,,Ray1919,,,,,334
+Bilibili-moon-2,,Bilibili,moon,"znăsin, sinasin",sinasin,,,Ray1919,,,,,334
+Bilibili-pig-1,,Bilibili,pig,bŏr,bŏr,,,Ray1919,,,,,334
+Bilibili-stone-1,,Bilibili,stone,"pat, bati, pătĕ",pat,,,Ray1919,,,,,334
+Bilibili-stone-2,,Bilibili,stone,"pat, bati, pătĕ",bati,,,Ray1919,,,,,334
+Bilibili-stone-3,,Bilibili,stone,"pat, bati, pătĕ",pătĕ,,,Ray1919,,,,,334
+Bilibili-sun-1,,Bilibili,sun,"ān, and, ant",ān,,,Ray1919,,,,,334
+Bilibili-sun-2,,Bilibili,sun,"ān, and, ant",and,,,Ray1919,,,,,334
+Bilibili-sun-3,,Bilibili,sun,"ān, and, ant",ant,,,Ray1919,,,,,334
+Bilibili-tooth-1,,Bilibili,tooth,"luon-te, lĭvon",luon-te,,,Ray1919,,,,,334
+Bilibili-tooth-2,,Bilibili,tooth,"luon-te, lĭvon",lĭvon,,,Ray1919,,,,,334
+Bilibili-water-1,,Bilibili,water,"you, ĭo, yo",you,,,Ray1919,,,,,334
+Bilibili-water-2,,Bilibili,water,"you, ĭo, yo",ĭo,,,Ray1919,,,,,334
+Bilibili-water-3,,Bilibili,water,"you, ĭo, yo",yo,,,Ray1919,,,,,334
+Bilibili-woman-1,,Bilibili,woman,pain,pain,,,Ray1919,,,,,334
+Bilibili-men_s_or_club_house-1,,Bilibili,men_s_or_club_house,darem,darem,,,Ray1919,,,,,334
+Mitebog-hand_arm-1,,Mitebog,hand_arm,lima(n),lima,,,Ray1919,,,,,334
+Mitebog-house-1,,Mitebog,house,ad,ad,,(? ab),Ray1919,,,,,334
+Mitebog-man-1,,Mitebog,man,tomol,tomol,,,Ray1919,,,,,334
+Mitebog-stone-1,,Mitebog,stone,pat,pat,,,Ray1919,,,,,334
+Mitebog-tooth-1,,Mitebog,tooth,leo(d),leo,,,Ray1919,,,,,334
+Mitebog-water-1,,Mitebog,water,nar,nar,,,Ray1919,,,,,334
+Mitebog-woman-1,,Mitebog,woman,pain,pain,,,Ray1919,,,,,334
+Bob-pig-1,,Bob,pig,boĭ,boĭ,,,Ray1919,,,,,334
+Bob-sun-1,,Bob,sun,ke,ke,,,Ray1919,,,,,334
+Bob-water-1,,Bob,water,ĭăŋ,ĭăŋ,,,Ray1919,,,,,334
+Bob-woman-1,,Bob,woman,pain,pain,,,Ray1919,,,,,334
+SzeakBagili-hand_arm-1,,SzeakBagili,hand_arm,nema,nema,,,Ray1919,,,,,334
+SzeakBagili-house-1,,SzeakBagili,house,"ab, yagar",ab,,,Ray1919,,,,,334
+SzeakBagili-house-2,,SzeakBagili,house,"ab, yagar",yagar,,,Ray1919,,,,,334
+SzeakBagili-man-1,,SzeakBagili,man,tomo,tomo,,,Ray1919,,,,,334
+SzeakBagili-moon-1,,SzeakBagili,moon,kalam,kalam,,,Ray1919,,,,,334
+SzeakBagili-sun-1,,SzeakBagili,sun,a,a,,,Ray1919,,,,,334
+SzeakBagili-tooth-1,,SzeakBagili,tooth,"livo(k), lino(d)",livo,,,Ray1919,,,,,334
+SzeakBagili-tooth-2,,SzeakBagili,tooth,"livo(k), lino(d)",lino,,,Ray1919,,,,,334
+SzeakBagili-woman-1,,SzeakBagili,woman,pain,pain,,,Ray1919,,,,,334
+Karkar-hand_arm-1,,Karkar,hand_arm,bani(n),bani,,,Ray1919,,,,,334
+Karkar-house-1,,Karkar,house,ab,ab,,,Ray1919,,,,,334
+Karkar-man-1,,Karkar,man,tamol,tamol,,,Ray1919,,,,,334
+Karkar-moon-1,,Karkar,moon,kalam,kalam,,,Ray1919,,,,,334
+Karkar-pig-1,,Karkar,pig,bor,bor,,,Ray1919,,,,,334
+Karkar-stone-1,,Karkar,stone,pat,pat,,,Ray1919,,,,,334
+Karkar-sun-1,,Karkar,sun,at,at,,,Ray1919,,,,,334
+Karkar-tooth-1,,Karkar,tooth,luon,luon,,,Ray1919,,,,,334
+Karkar-water-1,,Karkar,water,yō,yō,,,Ray1919,,,,,334
+Karkar-woman-1,,Karkar,woman,pēn,pēn,,,Ray1919,,,,,334
+SiarRagetta-hand_arm-1,,SiarRagetta,hand_arm,lima(n),lima,,,Ray1919,,,,,334
+SiarRagetta-house-1,,SiarRagetta,house,ab,ab,,,Ray1919,,,,,334
+SiarRagetta-man-1,,SiarRagetta,man,tamol,tamol,,,Ray1919,,,,,334
+SiarRagetta-moon-1,,SiarRagetta,moon,fule,fule,,,Ray1919,,,,,334
+SiarRagetta-pig-1,,SiarRagetta,pig,"bos, bor",bos,,,Ray1919,,,,,334
+SiarRagetta-pig-2,,SiarRagetta,pig,"bos, bor",bor,,,Ray1919,,,,,334
+SiarRagetta-stone-1,,SiarRagetta,stone,pat,pat,,,Ray1919,,,,,334
+SiarRagetta-water-1,,SiarRagetta,water,nas,nas,,,Ray1919,,,,,334
+SiarRagetta-woman-1,,SiarRagetta,woman,pain,pain,,,Ray1919,,,,,334
+Graget-hand_arm-1,,Graget,hand_arm,lima(k),lima,,,Ray1919,,,,,334
+Graget-house-1,,Graget,house,ab,ab,,,Ray1919,,,,,334
+Graget-man-1,,Graget,man,tāmŏl,tāmŏl,,,Ray1919,,,,,334
+Graget-moon-1,,Graget,moon,fŭle,fŭle,,,Ray1919,,,,,334
+Graget-pig-1,,Graget,pig,bŏs,bŏs,,,Ray1919,,,,,334
+Graget-stone-1,,Graget,stone,"pă, păt",pă,,,Ray1919,,,,,334
+Graget-stone-2,,Graget,stone,"pă, păt",păt,,,Ray1919,,,,,334
+Graget-sun-1,,Graget,sun,"at, ad",at,,,Ray1919,,,,,334
+Graget-sun-2,,Graget,sun,"at, ad",ad,,,Ray1919,,,,,334
+Graget-tooth-1,,Graget,tooth,liwo(k),liwo,,,Ray1919,,,,,334
+Graget-water-1,,Graget,water,nās,nās,,,Ray1919,,,,,334
+Graget-woman-1,,Graget,woman,"pain, fain",pain,,,Ray1919,,,,,334
+Graget-woman-2,,Graget,woman,"pain, fain",fain,,,Ray1919,,,,,334
+Graget-men_s_or_club_house-1,,Graget,men_s_or_club_house,dăsĕm,dăsĕm,,,Ray1919,,,,,334
+Sarang-men_s_or_club_house-1,,Sarang,men_s_or_club_house,gugoi,gugoi,,,Ray1919,,,,,334
+Sarang-hand_arm-1,,Sarang,hand_arm,leman,leman,,,Ray1919,,,,,334
+Sarang-house-1,,Sarang,house,ab,ab,,,Ray1919,,,,,334
+Sarang-man-1,,Sarang,man,tamo,tamo,,,Ray1919,,,,,334
+Sarang-moon-1,,Sarang,moon,fūl,fūl,,,Ray1919,,,,,334
+Sarang-pig-1,,Sarang,pig,bōr,bōr,,,Ray1919,,,,,334
+Sarang-stone-1,,Sarang,stone,păt,păt,,,Ray1919,,,,,334
+Sarang-sun-1,,Sarang,sun,ābaŋ,ābaŋ,,,Ray1919,,,,,334
+Sarang-tooth-1,,Sarang,tooth,levon,levon,,,Ray1919,,,,,334
+Sarang-water-1,,Sarang,water,yao,yao,,,Ray1919,,,,,334
+Sarang-woman-1,,Sarang,woman,pain,pain,,,Ray1919,,,,,334
+Manam-house-1,,Manam,house,pera,pera,,,Ray1919,,,,,334
+Manam-man-1,,Manam,man,moane,moane,,,Ray1919,,,,,334
+Manam-woman-1,,Manam,woman,aine,aine,,,Ray1919,,,,,334
+HansaV-hand_arm-1,,HansaV,hand_arm,"neïle, sabagu",neïle,,,Ray1919,,,,,334
+HansaV-hand_arm-2,,HansaV,hand_arm,"neïle, sabagu",sabagu,,,Ray1919,,,,,334
+HansaV-house-1,,HansaV,house,pera,pera,,,Ray1919,,,,,334
+HansaV-man-1,,HansaV,man,tamot,tamot,,,Ray1919,,,,,334
+HansaV-moon-1,,HansaV,moon,ale,ale,,,Ray1919,,,,,334
+HansaV-pig-1,,HansaV,pig,bor,bor,,,Ray1919,,,,,334
+HansaV-stone-1,,HansaV,stone,pato,pato,,,Ray1919,,,,,334
+HansaV-sun-1,,HansaV,sun,amari,amari,,,Ray1919,,,,,334
+HansaV-tooth-1,,HansaV,tooth,meme,meme,,,Ray1919,,,,,334
+HansaV-water-1,,HansaV,water,daŋ,daŋ,,,Ray1919,,,,,334
+HansaV-woman-1,,HansaV,woman,einde,einde,,,Ray1919,,,,,334
+Wokeo-house-1,,Wokeo,house,rume,rume,,,Ray1919,,,,,334
+Wokeo-man-1,,Wokeo,man,moăn,moăn,,,Ray1919,,,,,334
+Wokeo-moon-1,,Wokeo,moon,kălevĕ,kălevĕ,,,Ray1919,,,,,334
+Wokeo-pig-1,,Wokeo,pig,"bōrŏ, mbōrŏ",bōrŏ,,,Ray1919,,,,,334
+Wokeo-pig-2,,Wokeo,pig,"bōrŏ, mbōrŏ",mbōrŏ,,,Ray1919,,,,,334
+Wokeo-sun-1,,Wokeo,sun,wărăŋ,wărăŋ,,,Ray1919,,,,,334
+Wokeo-water-1,,Wokeo,water,"dăn, nimĕ",dăn,,,Ray1919,,,,,334
+Wokeo-water-2,,Wokeo,water,"dăn, nimĕ",nimĕ,,,Ray1919,,,,,334
+Wokeo-woman-1,,Wokeo,woman,venĭ,venĭ,,,Ray1919,,,,,334
+Keule-house-1,,Keule,house,rum,rum,,,Ray1919,,,,,334
+Keule-pig-1,,Keule,pig,bōr,bōr,,,Ray1919,,,,,334
+Karesau-house-1,,Karesau,house,wenu,wenu,,,Ray1919,,,,,334
+Karesau-water-1,,Karesau,water,ran,ran,,,Ray1919,,,,,334
+Karesau-woman-1,,Karesau,woman,moŋ,moŋ,,,Ray1919,,,,,334
+Ali-hand_arm-1,,Ali,hand_arm,awik,awik,,,Ray1919,,,,,334
+Ali-house-1,,Ali,house,ano,ano,,,Ray1919,,,,,334
+Ali-man-1,,Ali,man,"rama, yeni",rama,,,Ray1919,,,,,334
+Ali-man-2,,Ali,man,"rama, yeni",yeni,,,Ray1919,,,,,334
+Ali-moon-1,,Ali,moon,senar,senar,,,Ray1919,,,,,334
+Ali-pig-1,,Ali,pig,bor,bor,,,Ray1919,,,,,334
+Ali-stone-1,,Ali,stone,tamûl,tamûl,,,Ray1919,,,,,334
+Ali-sun-1,,Ali,sun,as,as,,,Ray1919,,,,,334
+Ali-tooth-1,,Ali,tooth,nyeluk,nyeluk,,,Ray1919,,,,,334
+Ali-water-1,,Ali,water,rieŋ,rieŋ,,,Ray1919,,,,,334
+Ali-woman-1,,Ali,woman,tamiŋ,tamiŋ,,,Ray1919,,,,,334
+Seleo-house-1,,Seleo,house,rum,rum,,,Ray1919,,,,,334
+Seleo-man-1,,Seleo,man,rama,rama,,,Ray1919,,,,,334
+Seleo-moon-1,,Seleo,moon,mahar,mahar,,,Ray1919,,,,,334
+Seleo-pig-1,,Seleo,pig,por,por,,,Ray1919,,,,,334
+Seleo-sun-1,,Seleo,sun,ôs,ôs,,,Ray1919,,,,,334
+Seleo-water-1,,Seleo,water,rieŋ,rieŋ,,,Ray1919,,,,,334
+Seleo-woman-1,,Seleo,woman,tamin,tamin,,,Ray1919,,,,,334
+Yamir-house-1,,Yamir,house,rum,rum,,,Ray1919,,,,,334
+Yamir-man-1,,Yamir,man,rama,rama,,,Ray1919,,,,,334
+Yamir-moon-1,,Yamir,moon,mahar,mahar,,,Ray1919,,,,,334
+Yamir-pig-1,,Yamir,pig,pur,pur,,,Ray1919,,,,,334
+Yamir-sun-1,,Yamir,sun,as,as,,,Ray1919,,,,,334
+Yamir-water-1,,Yamir,water,rieŋ,rieŋ,,,Ray1919,,,,,334
+Yamir-woman-1,,Yamir,woman,tamin,tamin,,,Ray1919,,,,,334
+Yakamul-hand_arm-1,,Yakamul,hand_arm,awek,awek,,,Ray1919,,,,,334
+Yakamul-house-1,,Yakamul,house,ano,ano,,,Ray1919,,,,,334
+Yakamul-man-1,,Yakamul,man,"ramó, yeneï",ramó,,,Ray1919,,,,,334
+Yakamul-man-2,,Yakamul,man,"ramó, yeneï",yeneï,,,Ray1919,,,,,334
+Yakamul-moon-1,,Yakamul,moon,hanar,hanar,,,Ray1919,,,,,334
+Yakamul-pig-1,,Yakamul,pig,"pûr, puer",pûr,,,Ray1919,,,,,334
+Yakamul-pig-2,,Yakamul,pig,"pûr, puer",puer,,,Ray1919,,,,,334
+Yakamul-stone-1,,Yakamul,stone,tamel,tamel,,,Ray1919,,,,,334
+Yakamul-sun-1,,Yakamul,sun,"ah, a",ah,,,Ray1919,,,,,334
+Yakamul-sun-2,,Yakamul,sun,"ah, a",a,,,Ray1919,,,,,334
+Yakamul-tooth-1,,Yakamul,tooth,nyelek,nyelek,,,Ray1919,,,,,334
+Yakamul-water-1,,Yakamul,water,rieŋ,rieŋ,,,Ray1919,,,,,334
+Yakamul-woman-1,,Yakamul,woman,tamiŋ,tamiŋ,,,Ray1919,,,,,334
+Yakamul-men_s_or_club_house-1,,Yakamul,men_s_or_club_house,ăpăr,ăpăr,,,Ray1919,,,,,334
+Paup-men_s_or_club_house-1,,Paup,men_s_or_club_house,ăpăr,ăpăr,,,Ray1919,,,,,334
+Tumleo-men_s_or_club_house-1,,Tumleo,men_s_or_club_house,laum,laum,,,Ray1919,,,,,334
+Paup-house-1,,Paup,house,ăno,ăno,,,Ray1919,,,,,334
+Paup-moon-1,,Paup,moon,mahar,mahar,,,Ray1919,,,,,334
+Paup-pig-1,,Paup,pig,puĕr,puĕr,,,Ray1919,,,,,334
+Paup-sun-1,,Paup,sun,as,as,,,Ray1919,,,,,334
+Paup-water-1,,Paup,water,rieŋ,rieŋ,,,Ray1919,,,,,334
+Malol-water-1,,Malol,water,rain,rain,,,Ray1919,,,,,334
+UlauSueng-hand_arm-1,,UlauSueng,hand_arm,ayik,ayik,,,Ray1919,,,,,334
+UlauSueng-house-1,,UlauSueng,house,hanu,hanu,,,Ray1919,,,,,334
+UlauSueng-man-1,,UlauSueng,man,ramat,ramat,,,Ray1919,,,,,334
+UlauSueng-moon-1,,UlauSueng,moon,senar,senar,,,Ray1919,,,,,334
+UlauSueng-pig-1,,UlauSueng,pig,búr,búr,,,Ray1919,,,,,334
+UlauSueng-stone-1,,UlauSueng,stone,hat,hat,,,Ray1919,,,,,334
+UlauSueng-sun-1,,UlauSueng,sun,aḍaŋ,aḍaŋ,,,Ray1919,,,,,334
+UlauSueng-tooth-1,,UlauSueng,tooth,lehûk,lehûk,,,Ray1919,,,,,334
+UlauSueng-water-1,,UlauSueng,water,ḍan,ḍan,,,Ray1919,,,,,334
+UlauSueng-woman-1,,UlauSueng,woman,tahany,tahany,,,Ray1919,,,,,334
+Tumleo-hand_arm-1,,Tumleo,hand_arm,auwik,auwik,,,Ray1919,,,,,334
+Tumleo-house-1,,Tumleo,house,ano,ano,,,Ray1919,,,,,334
+Tumleo-man-1,,Tumleo,man,lama,lama,,,Ray1919,,,,,334
+Tumleo-moon-1,,Tumleo,moon,sanar,sanar,,,Ray1919,,,,,334
+Tumleo-pig-1,,Tumleo,pig,"por, pul",por,,,Ray1919,,,,,334
+Tumleo-pig-2,,Tumleo,pig,"por, pul",pul,,,Ray1919,,,,,334
+Tumleo-stone-1,,Tumleo,stone,eitatun,eitatun,,,Ray1919,,,,,334
+Tumleo-sun-1,,Tumleo,sun,"os, ŏăs",os,,,Ray1919,,,,,334
+Tumleo-sun-2,,Tumleo,sun,"os, ŏăs",ŏăs,,,Ray1919,,,,,334
+Tumleo-tooth-1,,Tumleo,tooth,yaluk,yaluk,,,Ray1919,,,,,334
+Tumleo-water-1,,Tumleo,water,riĕn,riĕn,,,Ray1919,,,,,334
+Tumleo-woman-1,,Tumleo,woman,tamin,tamin,,,Ray1919,,,,,334
+Ser-moon-1,,Ser,moon,bul,bul,,,Ray1919,,,,,334
+Ser-pig-1,,Ser,pig,puŏl,puŏl,,,Ray1919,,,,,334
+Ser-sun-1,,Ser,sun,raŭ,raŭ,,,Ray1919,,,,,334
+Malol-pig-1,,Malol,pig,"puŏl, puĕl",puŏl,,,Ray1919,,,,,334
+Malol-pig-2,,Malol,pig,"puŏl, puĕl",puĕl,,,Ray1919,,,,,334
+Sissano-hand_arm-1,,Sissano,hand_arm,awem,awem,,,Ray1919,,,,,334
+Sissano-house-1,,Sissano,house,ăno,ăno,,,Ray1919,,,,,334
+Sissano-man-1,,Sissano,man,woru,woru,,,Ray1919,,,,,334
+Sissano-moon-1,,Sissano,moon,bul,bul,,,Ray1919,,,,,334
+Sissano-pig-1,,Sissano,pig,pŭl,pŭl,,,Ray1919,,,,,334
+Sissano-stone-1,,Sissano,stone,"at, sel",at,,,Ray1919,,,,,334
+Sissano-stone-2,,Sissano,stone,"at, sel",sel,,,Ray1919,,,,,334
+Sissano-sun-1,,Sissano,sun,arau,arau,,,Ray1919,,,,,334
+Sissano-tooth-1,,Sissano,tooth,eliak,eliak,,,Ray1919,,,,,334
+Sissano-water-1,,Sissano,water,rain,rain,,,Ray1919,,,,,334
+Sissano-woman-1,,Sissano,woman,tameŋ,tameŋ,,,Ray1919,,,,,334
+Yotafa-hand_arm-1,,Yotafa,hand_arm,"tibimi, paibi",tibimi,,,Ray1919,,,,,334
+Yotafa-hand_arm-2,,Yotafa,hand_arm,"tibimi, paibi",paibi,,,Ray1919,,,,,334
+Yotafa-house-1,,Yotafa,house,duma,duma,,,Ray1919,,,,,334
+Yotafa-man-1,,Yotafa,man,"kār, tante, tan, tanta",kār,,,Ray1919,,,,,334
+Yotafa-man-2,,Yotafa,man,"kār, tante, tan, tanta",tante,,,Ray1919,,,,,334
+Yotafa-man-3,,Yotafa,man,"kār, tante, tan, tanta",tan,,,Ray1919,,,,,334
+Yotafa-man-4,,Yotafa,man,"kār, tante, tan, tanta",tanta,,,Ray1919,,,,,334
+Yotafa-moon-1,,Yotafa,moon,sembi,sembi,,,Ray1919,,,,,334
+Yotafa-pig-1,,Yotafa,pig,por,por,,,Ray1919,,,,,334
+Yotafa-stone-1,,Yotafa,stone,āt,āt,,,Ray1919,,,,,334
+Yotafa-sun-1,,Yotafa,sun,tap,tap,,,Ray1919,,,,,334
+Yotafa-tooth-1,,Yotafa,tooth,"nyoh, niyo",nyoh,,,Ray1919,,,,,334
+Yotafa-tooth-2,,Yotafa,tooth,"nyoh, niyo",niyo,,,Ray1919,,,,,334
+Yotafa-water-1,,Yotafa,water,nanu,nanu,,,Ray1919,,,,,334
+Yotafa-woman-1,,Yotafa,woman,moi,moi,,,Ray1919,,,,,334
+Ingros-house-1,,Ingros,house,rumŭ,rumŭ,,,Ray1919,,,,,334
+Ingros-moon-1,,Ingros,moon,sembi,sembi,,,Ray1919,,,,,334
+Ingros-pig-1,,Ingros,pig,pōrĕ,pōrĕ,,,Ray1919,,,,,334
+Ingros-sun-1,,Ingros,sun,tap,tap,,,Ray1919,,,,,334
+Yenbi-house-1,,Yenbi,house,rumă,rumă,,,Ray1919,,,,,334
+Entsau-pig-1,,Entsau,pig,pōrŏ,pōrŏ,,,Ray1919,,,,,334
+Tobadi-men_s_or_club_house-1,,Tobadi,men_s_or_club_house,parĕ,parĕ,,,Ray1919,,,,,334
+Tobadi-house-1,,Tobadi,house,"dum, ruma",dum,,,Ray1919,,,,,334
+Tobadi-house-2,,Tobadi,house,"dum, ruma",ruma,,,Ray1919,,,,,334
+Tobadi-pig-1,,Tobadi,pig,pŏre,pŏre,,,Ray1919,,,,,334
+Tobadi-stone-1,,Tobadi,stone,at',at',,,Ray1919,,,,,334
+Tobadi-sun-1,,Tobadi,sun,taba,taba,,,Ray1919,,,,,334
+Tobadi-water-1,,Tobadi,water,savĕ,savĕ,,,Ray1919,,,,,334
+Kai-areca_nut-1,,Kai,areca_nut,"like, saua",like,,,Ray1919,,,,,335
+Kai-areca_nut-2,,Kai,areca_nut,"like, saua",saua,,,Ray1919,,,,,335
+Kai-banana-1,,Kai,banana,su,su,,,Ray1919,,,,,335
+Kai-bird-1,,Kai,bird,wipe,wipe,,,Ray1919,,,,,335
+Kai-coco_nut-1,,Kai,coco_nut,homu,homu,,,Ray1919,,,,,335
+Kai-dog-1,,Kai,dog,qato,qato,,,Ray1919,,,,,335
+Kai-ear-1,,Kai,ear,hadze,hadze,,,Ray1919,,,,,335
+Kai-eye-1,,Kai,eye,ndzonge,ndzonge,,,Ray1919,,,,,335
+Kai-fire-1,,Kai,fire,dso,dso,,,Ray1919,,,,,335
+Kai-fish-1,,Kai,fish,ŋala,ŋala,,,Ray1919,,,,,335
+Kai-foot_leg-1,,Kai,foot_leg,kike,kike,,,Ray1919,,,,,335
+WariaRiver-bird-1,,WariaRiver,bird,ni,ni,,,Ray1919,,,,,335
+WariaRiver-dog-1,,WariaRiver,dog,sino,sino,,,Ray1919,,,,,335
+Simbang-banana-1,,Simbang,banana,zukweu,zukweu,,,Ray1919,,,,,335
+Simbang-bird-1,,Simbang,bird,wĭpe,wĭpe,,,Ray1919,,,,,335
+Simbang-coco_nut-1,,Simbang,coco_nut,komu,komu,,,Ray1919,,,,,335
+Simbang-dog-1,,Simbang,dog,qŏto,qŏto,,,Ray1919,,,,,335
+Simbang-ear-1,,Simbang,ear,hăse,hăse,,,Ray1919,,,,,335
+Simbang-eye-1,,Simbang,eye,tsonge,tsonge,,,Ray1919,,,,,335
+Simbang-fire-1,,Simbang,fire,ntso,ntso,,,Ray1919,,,,,335
+Simbang-fish-1,,Simbang,fish,"ŋala, balum",ŋala,,,Ray1919,,,,,335
+Simbang-fish-2,,Simbang,fish,"ŋala, balum",balum,,,Ray1919,,,,,335
+Simbang-foot_leg-1,,Simbang,foot_leg,gige,gige,,,Ray1919,,,,,335
+Saleng-banana-1,,Saleng,banana,zokueu,zokueu,,,Ray1919,,,,,335
+Saleng-bird-1,,Saleng,bird,wipe,wipe,,,Ray1919,,,,,335
+Saleng-coco_nut-1,,Saleng,coco_nut,komu,komu,,,Ray1919,,,,,335
+Saleng-dog-1,,Saleng,dog,qoto,qoto,,,Ray1919,,,,,335
+Saleng-ear-1,,Saleng,ear,hadse,hadse,,,Ray1919,,,,,335
+Saleng-eye-1,,Saleng,eye,nzonge,nzonge,,,Ray1919,,,,,335
+Saleng-fire-1,,Saleng,fire,ngo,ngo,,,Ray1919,,,,,335
+Saleng-fish-1,,Saleng,fish,ŋala,ŋala,,,Ray1919,,,,,335
+Saleng-foot_leg-1,,Saleng,foot_leg,giko,giko,,,Ray1919,,,,,335
+YabimKei-areca_nut-1,,YabimKei,areca_nut,bota,bota,,,Ray1919,,,,,335
+YabimKei-banana-1,,YabimKei,banana,su,su,,,Ray1919,,,,,335
+YabimKei-bird-1,,YabimKei,bird,bŭni,bŭni,,,Ray1919,,,,,335
+YabimKei-coco_nut-1,,YabimKei,coco_nut,homu,homu,,,Ray1919,,,,,335
+YabimKei-dog-1,,YabimKei,dog,guato,guato,,,Ray1919,,,,,335
+YabimKei-ear-1,,YabimKei,ear,hăte,hăte,,,Ray1919,,,,,335
+YabimKei-eye-1,,YabimKei,eye,dsonge,dsonge,,,Ray1919,,,,,335
+YabimKei-fire-1,,YabimKei,fire,mŏso,mŏso,,,Ray1919,,,,,335
+YabimKei-fish-1,,YabimKei,fish,bovi,bovi,,,Ray1919,,,,,335
+YabimKei-foot_leg-1,,YabimKei,foot_leg,doko,doko,,,Ray1919,,,,,335
+Poom-areca_nut-1,,Poom,areca_nut,bedá,bedá,,,Ray1919,,,,,335
+Poom-banana-1,,Poom,banana,saloma,saloma,,,Ray1919,,,,,335
+Poom-bird-1,,Poom,bird,nango,nango,,,Ray1919,,,,,335
+Poom-coco_nut-1,,Poom,coco_nut,"hata, χonu",hata,,,Ray1919,,,,,335
+Poom-coco_nut-2,,Poom,coco_nut,"hata, χonu",χonu,,,Ray1919,,,,,335
+Poom-dog-1,,Poom,dog,"hoda, honta",hoda,,,Ray1919,,,,,335
+Poom-dog-2,,Poom,dog,"hoda, honta",honta,,,Ray1919,,,,,335
+Poom-ear-1,,Poom,ear,hăde,hăde,,,Ray1919,,,,,335
+Poom-eye-1,,Poom,eye,"doŋe, done",doŋe,,,Ray1919,,,,,335
+Poom-eye-2,,Poom,eye,"doŋe, done",done,,,Ray1919,,,,,335
+Poom-fire-1,,Poom,fire,"dyo, (n)da",dyo,,,Ray1919,,,,,335
+Poom-fire-2,,Poom,fire,"dyo, (n)da",da,,,Ray1919,,,,,335
+Poom-fish-1,,Poom,fish,si,si,,,Ray1919,,,,,335
+Poom-foot_leg-1,,Poom,foot_leg,"dun, hi(n)ke",dun,,,Ray1919,,,,,335
+Poom-foot_leg-2,,Poom,foot_leg,"dun, hi(n)ke",hike,,,Ray1919,,,,,335
+Bila-bird-1,,Bila,bird,năngŏ,năngŏ,,,Ray1919,,,,,335
+Bila-coco_nut-1,,Bila,coco_nut,hăta,hăta,,,Ray1919,,,,,335
+Bila-dog-1,,Bila,dog,hŏda,hŏda,,,Ray1919,,,,,335
+Bila-fire-1,,Bila,fire,jo,jo,,,Ray1919,,,,,335
+Bila-fish-1,,Bila,fish,si,si,,,Ray1919,,,,,335
+Sogeng-bird-1,,Sogeng,bird,berūŋa,berūŋa,,,Ray1919,,,,,335
+Sogeng-coco_nut-1,,Sogeng,coco_nut,χŏnū,χŏnū,,,Ray1919,,,,,335
+Sogeng-dog-1,,Sogeng,dog,chŏnta,chŏnta,,,Ray1919,,,,,335
+Sogeng-ear-1,,Sogeng,ear,harenoŋeŋ,harenoŋeŋ,,,Ray1919,,,,,335
+Sogeng-eye-1,,Sogeng,eye,donīnĕ,donīnĕ,,,Ray1919,,,,,335
+Sogeng-fire-1,,Sogeng,fire,nda,nda,,,Ray1919,,,,,335
+Sogeng-fish-1,,Sogeng,fish,sī,sī,,,Ray1919,,,,,335
+Sogeng-foot_leg-1,,Sogeng,foot_leg,hikenoŋeŋ,hikenoŋeŋ,,,Ray1919,,,,,335
+Bussim-bird-1,,Bussim,bird,nangŏ,nangŏ,,,Ray1919,,,,,335
+Bussim-coco_nut-1,,Bussim,coco_nut,"χŏnū, hŏmū",χŏnū,,,Ray1919,,,,,335
+Bussim-coco_nut-2,,Bussim,coco_nut,"χŏnū, hŏmū",hŏmū,,,Ray1919,,,,,335
+Bussim-dog-1,,Bussim,dog,"dlo (?), hŏntă",dlo,,,Ray1919,,,,,335
+Bussim-dog-2,,Bussim,dog,"dlo (?), hŏntă",hŏntă,,,Ray1919,,,,,335
+Bussim-ear-1,,Bussim,ear,hădē,hădē,,,Ray1919,,,,,335
+Bussim-eye-1,,Bussim,eye,dŏne(ŋ),dŏne,,,Ray1919,,,,,335
+Bussim-fire-1,,Bussim,fire,nda,nda,,,Ray1919,,,,,335
+Bussim-fish-1,,Bussim,fish,sī,sī,,,Ray1919,,,,,335
+Bussim-foot_leg-1,,Bussim,foot_leg,hĭnkĕ,hĭnkĕ,,,Ray1919,,,,,335
+Kamoka-bird-1,,Kamoka,bird,nango,nango,,,Ray1919,,,,,335
+Kamoka-dog-1,,Kamoka,dog,hŏda,hŏda,,,Ray1919,,,,,335
+Kamoka-fire-1,,Kamoka,fire,gērep,gērep,,,Ray1919,,,,,335
+Kamoka-fish-1,,Kamoka,fish,ŏsom,ŏsom,,,Ray1919,,,,,335
+Pong-areca_nut-1,,Pong,areca_nut,gŏsŏŋ,gŏsŏŋ,,,Ray1919,,,,,335
+Pong-banana-1,,Pong,banana,wesăp,wesăp,,,Ray1919,,,,,335
+Pong-bird-1,,Pong,bird,năni,năni,,,Ray1919,,,,,335
+Pong-coco_nut-1,,Pong,coco_nut,kamŭ,kamŭ,,,Ray1919,,,,,335
+Pong-dog-1,,Pong,dog,wauwa,wauwa,,,Ray1919,,,,,335
+Pong-eye-1,,Pong,eye,deŋan,deŋan,,,Ray1919,,,,,335
+Pong-fire-1,,Pong,fire,nseïna,nseïna,,,Ray1919,,,,,335
+Pong-fish-1,,Pong,fish,pĕsŭm,pĕsŭm,,,Ray1919,,,,,335
+Keseraua-banana-1,,Keseraua,banana,wesab,wesab,,,Ray1919,,,,,335
+Keseraua-ear-1,,Keseraua,ear,kenămna,kenămna,,,Ray1919,,,,,335
+Keseraua-eye-1,,Keseraua,eye,dĭnana,dĭnana,,,Ray1919,,,,,335
+Keseraua-foot_leg-1,,Keseraua,foot_leg,wowatna,wowatna,,,Ray1919,,,,,335
+Ago-areca_nut-1,,Ago,areca_nut,bōk,bōk,,,Ray1919,,,,,335
+Ago-banana-1,,Ago,banana,viδe,viδe,,,Ray1919,,,,,335
+Ago-coco_nut-1,,Ago,coco_nut,hōmū,hōmū,,,Ray1919,,,,,335
+Ago-ear-1,,Ago,ear,heδe,heδe,,,Ray1919,,,,,335
+Ago-eye-1,,Ago,eye,dsŏmō,dsŏmō,,,Ray1919,,,,,335
+Ago-fire-1,,Ago,fire,da,da,,,Ray1919,,,,,335
+Ago-fish-1,,Ago,fish,si,si,,,Ray1919,,,,,335
+KelanaKei-areca_nut-1,,KelanaKei,areca_nut,dabali,dabali,,,Ray1919,,,,,335
+KelanaKei-banana-1,,KelanaKei,banana,wisep,wisep,,,Ray1919,,,,,335
+KelanaKei-bird-1,,KelanaKei,bird,mani,mani,,,Ray1919,,,,,335
+KelanaKei-coco_nut-1,,KelanaKei,coco_nut,komo,komo,,,Ray1919,,,,,335
+KelanaKei-dog-1,,KelanaKei,dog,kăsi,kăsi,,,Ray1919,,,,,335
+KelanaKei-fire-1,,KelanaKei,fire,gerep,gerep,,,Ray1919,,,,,335
+KelanaKei-fish-1,,KelanaKei,fish,sabon,sabon,,,Ray1919,,,,,335
+KelanaKei-foot_leg-1,,KelanaKei,foot_leg,kiese,kiese,,,Ray1919,,,,,335
+Waso-areca_nut-1,,Waso,areca_nut,kakam,kakam,,,Ray1919,,,,,335
+Gorendu-areca_nut-1,,Gorendu,areca_nut,kao,kao,,,Ray1919,,,,,335
+Gorendu-banana-1,,Gorendu,banana,moka,moka,,,Ray1919,,,,,335
+Gorendu-bird-1,,Gorendu,bird,as,as,,,Ray1919,,,,,335
+Gorendu-coco_nut-1,,Gorendu,coco_nut,"munki, tyelem",munki,,,Ray1919,,,,,335
+Gorendu-coco_nut-2,,Gorendu,coco_nut,"munki, tyelem",tyelem,,,Ray1919,,,,,335
+Gorendu-dog-1,,Gorendu,dog,"ča, dzaŋ",ča,,,Ray1919,,,,,335
+Gorendu-dog-2,,Gorendu,dog,"ča, dzaŋ",dzaŋ,,,Ray1919,,,,,335
+Gorendu-ear-1,,Gorendu,ear,dab,dab,,,Ray1919,,,,,335
+Gorendu-eye-1,,Gorendu,eye,namge,namge,,,Ray1919,,,,,335
+Gorendu-fire-1,,Gorendu,fire,bia,bia,,,Ray1919,,,,,335
+Gorendu-fish-1,,Gorendu,fish,"kaib, gumam",kaib,,,Ray1919,,,,,335
+Gorendu-fish-2,,Gorendu,fish,"kaib, gumam",gumam,,,Ray1919,,,,,335
+Gorendu-foot_leg-1,,Gorendu,foot_leg,čamba,čamba,,,Ray1919,,,,,335
+Bongu-areca_nut-1,,Bongu,areca_nut,"ġaü, surem",ġaü,,,Ray1919,,,,,335
+Bongu-areca_nut-2,,Bongu,areca_nut,"ġaü, surem",surem,,,Ray1919,,,,,335
+Bongu-banana-1,,Bongu,banana,moga,moga,,,Ray1919,,,,,335
+Bongu-bird-1,,Bongu,bird,ās,ās,,,Ray1919,,,,,335
+Bongu-coco_nut-1,,Bongu,coco_nut,moŋgī,moŋgī,,,Ray1919,,,,,335
+Bongu-dog-1,,Bongu,dog,sā,sā,,,Ray1919,,,,,335
+Bongu-ear-1,,Bongu,ear,dāb,dāb,,,Ray1919,,,,,335
+Bongu-eye-1,,Bongu,eye,ŋam,ŋam,,,Ray1919,,,,,335
+Bongu-fire-1,,Bongu,fire,bia,bia,,,Ray1919,,,,,335
+Bongu-fish-1,,Bongu,fish,ġaib,ġaib,,,Ray1919,,,,,335
+Bongu-foot_leg-1,,Bongu,foot_leg,samba,samba,,,Ray1919,,,,,335
+Bogajim-areca_nut-1,,Bogajim,areca_nut,dsurem,dsurem,,,Ray1919,,,,,335
+Bogajim-banana-1,,Bogajim,banana,muŋge,muŋge,,,Ray1919,,,,,335
+Bogajim-bird-1,,Bogajim,bird,"χebari, gaibari",χebari,,,Ray1919,,,,,335
+Bogajim-bird-2,,Bogajim,bird,"χebari, gaibari",gaibari,,,Ray1919,,,,,335
+Bogajim-coco_nut-1,,Bogajim,coco_nut,maŋgi,maŋgi,,,Ray1919,,,,,335
+Bogajim-dog-1,,Bogajim,dog,baun,baun,,,Ray1919,,,,,335
+Bogajim-ear-1,,Bogajim,ear,dab-găla,dab-găla,,,Ray1919,,,,,335
+Bogajim-eye-1,,Bogajim,eye,nam-gala,nam-gala,,,Ray1919,,,,,335
+Bogajim-fire-1,,Bogajim,fire,namyuo,namyuo,,,Ray1919,,,,,335
+Bogajim-fish-1,,Bogajim,fish,"γe, ge",γe,,,Ray1919,,,,,335
+Bogajim-fish-2,,Bogajim,fish,"γe, ge",ge,,,Ray1919,,,,,335
+Bogajim-foot_leg-1,,Bogajim,foot_leg,siŋga,siŋga,,,Ray1919,,,,,335
+Burumana-ear-1,,Burumana,ear,damui,damui,,,Ray1919,,,,,335
+Burumana-eye-1,,Burumana,eye,ŋamge,ŋamge,,,Ray1919,,,,,335
+Burumana-foot_leg-1,,Burumana,foot_leg,kwak,kwak,,,Ray1919,,,,,335
+Manikam-areca_nut-1,,Manikam,areca_nut,kao,kao,,,Ray1919,,,,,335
+Manikam-banana-1,,Manikam,banana,"mongol, mogol",mongol,,,Ray1919,,,,,335
+Manikam-banana-2,,Manikam,banana,"mongol, mogol",mogol,,,Ray1919,,,,,335
+Manikam-bird-1,,Manikam,bird,as,as,,,Ray1919,,,,,335
+Manikam-coco_nut-1,,Manikam,coco_nut,mangi,mangi,,,Ray1919,,,,,335
+Manikam-dog-1,,Manikam,dog,čaŋ,čaŋ,,,Ray1919,,,,,335
+Manikam-ear-1,,Manikam,ear,dabe,dabe,,,Ray1919,,,,,335
+Manikam-eye-1,,Manikam,eye,namgi,namgi,,,Ray1919,,,,,335
+Manikam-fire-1,,Manikam,fire,beliu,beliu,,,Ray1919,,,,,335
+Manikam-fish-1,,Manikam,fish,gomam,gomam,,,Ray1919,,,,,335
+Manikam-foot_leg-1,,Manikam,foot_leg,kubak,kubak,,,Ray1919,,,,,335
+Shongu-banana-1,,Shongu,banana,mongol,mongol,,,Ray1919,,,,,335
+Shongu-bird-1,,Shongu,bird,as,as,,,Ray1919,,,,,335
+Shongu-coco_nut-1,,Shongu,coco_nut,jelem,jelem,,,Ray1919,,,,,335
+Shongu-dog-1,,Shongu,dog,dsaŋ,dsaŋ,,,Ray1919,,,,,335
+Shongu-ear-1,,Shongu,ear,dab,dab,,,Ray1919,,,,,335
+Shongu-eye-1,,Shongu,eye,niamyi,niamyi,,,Ray1919,,,,,335
+Shongu-fire-1,,Shongu,fire,bala,bala,,,Ray1919,,,,,335
+Shongu-fish-1,,Shongu,fish,umam,umam,,,Ray1919,,,,,335
+Shongu-foot_leg-1,,Shongu,foot_leg,kakue,kakue,,,Ray1919,,,,,335
+Wuong-banana-1,,Wuong,banana,mungol,mungol,,,Ray1919,,,,,335
+Wuong-coco_nut-1,,Wuong,coco_nut,mangi,mangi,,,Ray1919,,,,,335
+Wuong-dog-1,,Wuong,dog,saŋ,saŋ,,,Ray1919,,,,,335
+Wuong-ear-1,,Wuong,ear,damui,damui,,,Ray1919,,,,,335
+Wuong-eye-1,,Wuong,eye,namge,namge,,,Ray1919,,,,,335
+Wuong-fire-1,,Wuong,fire,beler,beler,,,Ray1919,,,,,335
+Wuong-fish-1,,Wuong,fish,gumam,gumam,,,Ray1919,,,,,335
+Wuong-foot_leg-1,,Wuong,foot_leg,guwak,guwak,,,Ray1919,,,,,335
+Kaliko-areca_nut-1,,Kaliko,areca_nut,kau,kau,,,Ray1919,,,,,335
+Kaliko-banana-1,,Kaliko,banana,mugol,mugol,,,Ray1919,,,,,335
+Kaliko-bird-1,,Kaliko,bird,ash,ash,,,Ray1919,,,,,335
+Kaliko-coco_nut-1,,Kaliko,coco_nut,mangi,mangi,,,Ray1919,,,,,335
+Kaliko-dog-1,,Kaliko,dog,saŋ,saŋ,,,Ray1919,,,,,335
+Kaliko-ear-1,,Kaliko,ear,damui,damui,,,Ray1919,,,,,335
+Kaliko-eye-1,,Kaliko,eye,namge,namge,,,Ray1919,,,,,335
+Kaliko-fire-1,,Kaliko,fire,belachyu,belachyu,,,Ray1919,,,,,335
+Kaliko-fish-1,,Kaliko,fish,gamam,gamam,,,Ray1919,,,,,335
+Kaliko-foot_leg-1,,Kaliko,foot_leg,kwag,kwag,,,Ray1919,,,,,335
+Damun-areca_nut-1,,Damun,areca_nut,bajom,bajom,,,Ray1919,,,,,335
+Damun-banana-1,,Damun,banana,mugol,mugol,,,Ray1919,,,,,335
+Damun-bird-1,,Damun,bird,ash,ash,,,Ray1919,,,,,335
+Damun-coco_nut-1,,Damun,coco_nut,mangi,mangi,,,Ray1919,,,,,335
+Damun-dog-1,,Damun,dog,saŋ,saŋ,,,Ray1919,,,,,335
+Damun-eye-1,,Damun,eye,namge,namge,,,Ray1919,,,,,335
+Damun-fire-1,,Damun,fire,belaio,belaio,,,Ray1919,,,,,335
+Damun-fish-1,,Damun,fish,χamam,χamam,,,Ray1919,,,,,335
+Damun-foot_leg-1,,Damun,foot_leg,kwag,kwag,,,Ray1919,,,,,335
+Koliku-banana-1,,Koliku,banana,muŋgol,muŋgol,,,Ray1919,,,,,335
+Koliku-coco_nut-1,,Koliku,coco_nut,gade,gade,,,Ray1919,,,,,335
+Koliku-dog-1,,Koliku,dog,saŋ,saŋ,,,Ray1919,,,,,335
+Koliku-ear-1,,Koliku,ear,damui,damui,,,Ray1919,,,,,335
+Koliku-eye-1,,Koliku,eye,ŋamge,ŋamge,,,Ray1919,,,,,335
+Koliku-foot_leg-1,,Koliku,foot_leg,kwak,kwak,,,Ray1919,,,,,335
+Male-banana-1,,Male,banana,muŋgol,muŋgol,,,Ray1919,,,,,335
+Male-coco_nut-1,,Male,coco_nut,maŋgi,maŋgi,,,Ray1919,,,,,335
+Male-dog-1,,Male,dog,saŋ,saŋ,,,Ray1919,,,,,335
+Male-ear-1,,Male,ear,damui,damui,,,Ray1919,,,,,335
+Male-eye-1,,Male,eye,ŋamge,ŋamge,,,Ray1919,,,,,335
+Male-foot_leg-1,,Male,foot_leg,kwak,kwak,,,Ray1919,,,,,335
+Langtub-areca_nut-1,,Langtub,areca_nut,tukai,tukai,,,Ray1919,,,,,335
+Langtub-banana-1,,Langtub,banana,foi,foi,,,Ray1919,,,,,335
+Langtub-bird-1,,Langtub,bird,yēu,yēu,,,Ray1919,,,,,335
+Langtub-coco_nut-1,,Langtub,coco_nut,adu,adu,,,Ray1919,,,,,335
+Langtub-dog-1,,Langtub,dog,gaun,gaun,,,Ray1919,,,,,335
+Langtub-ear-1,,Langtub,ear,kŭnula,kŭnula,,,Ray1919,,,,,335
+Langtub-eye-1,,Langtub,eye,āmpatun,āmpatun,,,Ray1919,,,,,335
+Langtub-fire-1,,Langtub,fire,pai,pai,,,Ray1919,,,,,335
+Langtub-fish-1,,Langtub,fish,sieb,sieb,,,Ray1919,,,,,335
+Langtub-foot_leg-1,,Langtub,foot_leg,kabe,kabe,,,Ray1919,,,,,335
+Sungumana-banana-1,,Sungumana,banana,muŋgol,muŋgol,,,Ray1919,,,,,335
+Sungumana-bird-1,,Sungumana,bird,as,as,,,Ray1919,,,,,335
+Sungumana-coco_nut-1,,Sungumana,coco_nut,dyelem,dyelem,,,Ray1919,,,,,335
+Sungumana-dog-1,,Sungumana,dog,saŋ,saŋ,,,Ray1919,,,,,335
+Sungumana-ear-1,,Sungumana,ear,damoi,damoi,,,Ray1919,,,,,335
+Sungumana-eye-1,,Sungumana,eye,ŋamge,ŋamge,,,Ray1919,,,,,335
+Sungumana-fire-1,,Sungumana,fire,bala,bala,,,Ray1919,,,,,335
+Sungumana-fish-1,,Sungumana,fish,umam,umam,,,Ray1919,,,,,335
+Sungumana-foot_leg-1,,Sungumana,foot_leg,kwe,kwe,,,Ray1919,,,,,335
+Maragam-areca_nut-1,,Maragam,areca_nut,kau,kau,,,Ray1919,,,,,335
+Maragam-banana-1,,Maragam,banana,muŋgul,muŋgul,,,Ray1919,,,,,335
+Maragam-bird-1,,Maragam,bird,nigom,nigom,,,Ray1919,,,,,335
+Maragam-coco_nut-1,,Maragam,coco_nut,adu,adu,,,Ray1919,,,,,335
+Maragam-dog-1,,Maragam,dog,ageŋ,ageŋ,,,Ray1919,,,,,335
+Maragam-ear-1,,Maragam,ear,kiblaŋ,kiblaŋ,,,Ray1919,,,,,335
+Maragam-eye-1,,Maragam,eye,amtem,amtem,,,Ray1919,,,,,335
+Maragam-fire-1,,Maragam,fire,pa,pa,,,Ray1919,,,,,335
+Maragam-fish-1,,Maragam,fish,narum,narum,,,Ray1919,,,,,335
+Maragam-foot_leg-1,,Maragam,foot_leg,kupe,kupe,,,Ray1919,,,,,335
+Rumba-areca_nut-1,,Rumba,areca_nut,kau,kau,,,Ray1919,,,,,335
+Rumba-banana-1,,Rumba,banana,mugol,mugol,,,Ray1919,,,,,335
+Rumba-bird-1,,Rumba,bird,qalele,qalele,,,Ray1919,,,,,335
+Rumba-coco_nut-1,,Rumba,coco_nut,adu,adu,,,Ray1919,,,,,335
+Rumba-dog-1,,Rumba,dog,ageŋ,ageŋ,,,Ray1919,,,,,335
+Rumba-ear-1,,Rumba,ear,gilbaŋ,gilbaŋ,,,Ray1919,,,,,335
+Rumba-eye-1,,Rumba,eye,abetem,abetem,,,Ray1919,,,,,335
+Rumba-fire-1,,Rumba,fire,mpa,mpa,,,Ray1919,,,,,335
+Rumba-fish-1,,Rumba,fish,nguarung,nguarung,,,Ray1919,,,,,335
+Rumba-foot_leg-1,,Rumba,foot_leg,kupe,kupe,,,Ray1919,,,,,335
+Englam-areca_nut-1,,Englam,areca_nut,a,a,,,Ray1919,,,,,335
+Englam-banana-1,,Englam,banana,mungul',mungul',,,Ray1919,,,,,335
+Englam-bird-1,,Englam,bird,ianele,ianele,,,Ray1919,,,,,335
+Englam-coco_nut-1,,Englam,coco_nut,ta,ta,,,Ray1919,,,,,335
+Englam-dog-1,,Englam,dog,ane,ane,,,Ray1919,,,,,335
+Englam-ear-1,,Englam,ear,olam,olam,,,Ray1919,,,,,335
+Englam-eye-1,,Englam,eye,namselim,namselim,,,Ray1919,,,,,335
+Englam-fire-1,,Englam,fire,he,he,,,Ray1919,,,,,335
+Englam-fish-1,,Englam,fish,tuome,tuome,,,Ray1919,,,,,335
+Englam-foot_leg-1,,Englam,foot_leg,ai,ai,,,Ray1919,,,,,335
+Kadda-banana-1,,Kadda,banana,mi,mi,,,Ray1919,,,,,336
+Kadda-bird-1,,Kadda,bird,mabulo,mabulo,,,Ray1919,,,,,336
+Kadda-dog-1,,Kadda,dog,anye,anye,,,Ray1919,,,,,336
+Kadda-ear-1,,Kadda,ear,habena,habena,,,Ray1919,,,,,336
+Kadda-eye-1,,Kadda,eye,hamuka,hamuka,,,Ray1919,,,,,336
+Kadda-foot_leg-1,,Kadda,foot_leg,yabake,yabake,,,Ray1919,,,,,336
+Wenke-banana-1,,Wenke,banana,auel,auel,,,Ray1919,,,,,336
+Wenke-dog-1,,Wenke,dog,mama,mama,,,Ray1919,,,,,336
+Wenke-ear-1,,Wenke,ear,gangusam,gangusam,,,Ray1919,,,,,336
+Wenke-eye-1,,Wenke,eye,angigim,angigim,,,Ray1919,,,,,336
+Wenke-fish-1,,Wenke,fish,ramam,ramam,,,Ray1919,,,,,336
+Wenke-foot_leg-1,,Wenke,foot_leg,golom,golom,,,Ray1919,,,,,336
+Panim-areca_nut-1,,Panim,areca_nut,ĕb,ĕb,,,Ray1919,,,,,336
+Panim-banana-1,,Panim,banana,īt,īt,,,Ray1919,,,,,336
+Panim-bird-1,,Panim,bird,mă,mă,,,Ray1919,,,,,336
+Panim-coco_nut-1,,Panim,coco_nut,āsŭl,āsŭl,,,Ray1919,,,,,336
+Panim-dog-1,,Panim,dog,bai,bai,,,Ray1919,,,,,336
+Panim-ear-1,,Panim,ear,dahi,dahi,,,Ray1919,,,,,336
+Panim-eye-1,,Panim,eye,āmeig,āmeig,,,Ray1919,,,,,336
+Panim-fire-1,,Panim,fire,dyai,dyai,,,Ray1919,,,,,336
+Panim-fish-1,,Panim,fish,dōl,dōl,,,Ray1919,,,,,336
+Panim-foot_leg-1,,Panim,foot_leg,laif,laif,,,Ray1919,,,,,336
+Mis-areca_nut-1,,Mis,areca_nut,fă,fă,,,Ray1919,,,,,336
+Mis-banana-1,,Mis,banana,mug,mug,,,Ray1919,,,,,336
+Mis-bird-1,,Mis,bird,ē,ē,,,Ray1919,,,,,336
+Mis-coco_nut-1,,Mis,coco_nut,kiri,kiri,,,Ray1919,,,,,336
+Mis-dog-1,,Mis,dog,be,be,,,Ray1919,,,,,336
+Mis-ear-1,,Mis,ear,daug,daug,,,Ray1919,,,,,336
+Mis-eye-1,,Mis,eye,"amĕn, amel",amĕn,,,Ray1919,,,,,336
+Mis-eye-2,,Mis,eye,"amĕn, amel",amel,,,Ray1919,,,,,336
+Mis-fire-1,,Mis,fire,kĕb,kĕb,,,Ray1919,,,,,336
+Mis-fish-1,,Mis,fish,kakē,kakē,,,Ray1919,,,,,336
+Kemba-areca_nut-1,,Kemba,areca_nut,fă,fă,,,Ray1919,,,,,336
+Kemba-banana-1,,Kemba,banana,muge,muge,,,Ray1919,,,,,336
+Kemba-bird-1,,Kemba,bird,e,e,,,Ray1919,,,,,336
+Kemba-dog-1,,Kemba,dog,"be, baĭ",be,,,Ray1919,,,,,336
+Kemba-dog-2,,Kemba,dog,"be, baĭ",baĭ,,,Ray1919,,,,,336
+Kemba-eye-1,,Kemba,eye,amēl,amēl,,,Ray1919,,,,,336
+Kemba-fire-1,,Kemba,fire,"kĕbĕ, kēvyal",kĕbĕ,,,Ray1919,,,,,336
+Kemba-fire-2,,Kemba,fire,"kĕbĕ, kēvyal",kēvyal,,,Ray1919,,,,,336
+Kemba-fish-1,,Kemba,fish,kăkĕ,kăkĕ,,,Ray1919,,,,,336
+Kemba-foot_leg-1,,Kemba,foot_leg,fail,fail,,,Ray1919,,,,,336
+Kai-hand_arm-1,,Kai,hand_arm,me,me,,,Ray1919,,,,,336
+Kai-house-1,,Kai,house,fi,fi,,,Ray1919,,,,,336
+Kai-man-1,,Kai,man,ŋi,ŋi,,,Ray1919,,,,,336
+Kai-moon-1,,Kai,moon,"masa, mosa",masa,,,Ray1919,,,,,336
+Kai-moon-2,,Kai,moon,"masa, mosa",mosa,,,Ray1919,,,,,336
+Kai-pig-1,,Kai,pig,"be, ṁbowe",be,,,Ray1919,,,,,336
+Kai-pig-2,,Kai,pig,"be, ṁbowe",ṁbowe,,,Ray1919,,,,,336
+Kai-stone-1,,Kai,stone,"qala, qola",qala,,,Ray1919,,,,,336
+Kai-stone-2,,Kai,stone,"qala, qola",qola,,,Ray1919,,,,,336
+Kai-sun-1,,Kai,sun,horaŋ,horaŋ,,,Ray1919,,,,,336
+Kai-tooth-1,,Kai,tooth,mi,mi,,,Ray1919,,,,,336
+Kai-water-1,,Kai,water,oba,oba,,,Ray1919,,,,,336
+Kai-woman-1,,Kai,woman,"ŋaga, ŋoga",ŋaga,,,Ray1919,,,,,336
+Kai-woman-2,,Kai,woman,"ŋaga, ŋoga",ŋoga,,,Ray1919,,,,,336
+WariaRiver-man-1,,WariaRiver,man,emo,emo,,,Ray1919,,,,,336
+WariaRiver-pig-1,,WariaRiver,pig,bu,bu,,,Ray1919,,,,,336
+Morobe-pig-1,,Morobe,pig,pu,pu,,,Ray1919,,,,,336
+Simbang-hand_arm-1,,Simbang,hand_arm,me-noŋe,me-noŋe,,,Ray1919,,,,,336
+Simbang-house-1,,Simbang,house,bfi,bfi,,,Ray1919,,,,,336
+Simbang-man-1,,Simbang,man,ŋaka,ŋaka,,,Ray1919,,,,,336
+Simbang-moon-1,,Simbang,moon,măsa,măsa,,,Ray1919,,,,,336
+Simbang-pig-1,,Simbang,pig,mbe,mbe,,,Ray1919,,,,,336
+Simbang-stone-1,,Simbang,stone,qala,qala,,,Ray1919,,,,,336
+Simbang-sun-1,,Simbang,sun,dzoaŋ,dzoaŋ,,,Ray1919,,,,,336
+Simbang-water-1,,Simbang,water,obo,obo,,,Ray1919,,,,,336
+Simbang-woman-1,,Simbang,woman,ŋaka,ŋaka,,,Ray1919,,,,,336
+Saleng-hand_arm-1,,Saleng,hand_arm,me-tăpe,me-tăpe,,,Ray1919,,,,,336
+Saleng-house-1,,Saleng,house,"bfi, bupu",bfi,,,Ray1919,,,,,336
+Saleng-house-2,,Saleng,house,"bfi, bupu",bupu,,,Ray1919,,,,,336
+Saleng-man-1,,Saleng,man,namala,namala,,,Ray1919,,,,,336
+Saleng-moon-1,,Saleng,moon,masa,masa,,,Ray1919,,,,,336
+Saleng-pig-1,,Saleng,pig,mbe,mbe,,,Ray1919,,,,,336
+Saleng-sun-1,,Saleng,sun,zwaŋ,zwaŋ,,,Ray1919,,,,,336
+Saleng-tooth-1,,Saleng,tooth,mi,mi,,,Ray1919,,,,,336
+Saleng-water-1,,Saleng,water,oboa,oboa,,,Ray1919,,,,,336
+Saleng-woman-1,,Saleng,woman,"ŋi, ŋoka",ŋi,,,Ray1919,,,,,336
+Saleng-woman-2,,Saleng,woman,"ŋi, ŋoka",ŋoka,,,Ray1919,,,,,336
+YabimKei-hand_arm-1,,YabimKei,hand_arm,me-noŋe,me-noŋe,,,Ray1919,,,,,336
+YabimKei-house-1,,YabimKei,house,fi,fi,,,Ray1919,,,,,336
+YabimKei-man-1,,YabimKei,man,"hanan, ni",hanan,,,Ray1919,,,,,336
+YabimKei-man-2,,YabimKei,man,"hanan, ni",ni,,,Ray1919,,,,,336
+YabimKei-moon-1,,YabimKei,moon,mŏsa,mŏsa,,,Ray1919,,,,,336
+YabimKei-pig-1,,YabimKei,pig,be,be,,,Ray1919,,,,,336
+YabimKei-sun-1,,YabimKei,sun,dzoan,dzoan,,,Ray1919,,,,,336
+YabimKei-tooth-1,,YabimKei,tooth,me,me,,,Ray1919,,,,,336
+YabimKei-water-1,,YabimKei,water,opa,opa,,,Ray1919,,,,,336
+YabimKei-woman-1,,YabimKei,woman,nŏka,nŏka,,,Ray1919,,,,,336
+Poom-hand_arm-1,,Poom,hand_arm,"me, mole",me,,,Ray1919,,,,,336
+Poom-hand_arm-2,,Poom,hand_arm,"me, mole",mole,,,Ray1919,,,,,336
+Poom-house-1,,Poom,house,"fi, hafe",fi,,,Ray1919,,,,,336
+Poom-house-2,,Poom,house,"fi, hafe",hafe,,,Ray1919,,,,,336
+Poom-man-1,,Poom,man,ni,ni,,,Ray1919,,,,,336
+Poom-moon-1,,Poom,moon,"tamane, weawe",tamane,,,Ray1919,,,,,336
+Poom-moon-2,,Poom,moon,"tamane, weawe",weawe,,,Ray1919,,,,,336
+Poom-pig-1,,Poom,pig,"qoë, be",qoë,,,Ray1919,,,,,336
+Poom-pig-2,,Poom,pig,"qoë, be",be,,,Ray1919,,,,,336
+Poom-sun-1,,Poom,sun,"wĕna, wăgo",wĕna,,,Ray1919,,,,,336
+Poom-sun-2,,Poom,sun,"wĕna, wăgo",wăgo,,,Ray1919,,,,,336
+Poom-tooth-1,,Poom,tooth,sŏfi,sŏfi,,,Ray1919,,,,,336
+Poom-water-1,,Poom,water,nūsa,nūsa,,,Ray1919,,,,,336
+Poom-woman-1,,Poom,woman,"naga, niga",naga,,,Ray1919,,,,,336
+Poom-woman-2,,Poom,woman,"naga, niga",niga,,,Ray1919,,,,,336
+Bila-pig-1,,Bila,pig,bĕ,bĕ,,,Ray1919,,,,,336
+Bila-woman-1,,Bila,woman,ŋaka,ŋaka,,,Ray1919,,,,,336
+Sogeng-hand_arm-1,,Sogeng,hand_arm,men-oŋeŋ,men-oŋeŋ,,,Ray1919,,,,,336
+Sogeng-house-1,,Sogeng,house,fi-duŋ,fi-duŋ,,,Ray1919,,,,,336
+Sogeng-man-1,,Sogeng,man,ŋi,ŋi,,,Ray1919,,,,,336
+Sogeng-moon-1,,Sogeng,moon,ūēaūē,ūēaūē,,,Ray1919,,,,,336
+Sogeng-pig-1,,Sogeng,pig,gboë,gboë,,,Ray1919,,,,,336
+Sogeng-sun-1,,Sogeng,sun,oăgŏ,oăgŏ,,,Ray1919,,,,,336
+Sogeng-tooth-1,,Sogeng,tooth,sofīnĕ,sofīnĕ,,,Ray1919,,,,,336
+Sogeng-water-1,,Sogeng,water,mīsă,mīsă,,,Ray1919,,,,,336
+Sogeng-woman-1,,Sogeng,woman,nīga,nīga,,,Ray1919,,,,,336
+Bussim-hand_arm-1,,Bussim,hand_arm,"mĕne, mĕte",mĕne,,,Ray1919,,,,,336
+Bussim-hand_arm-2,,Bussim,hand_arm,"mĕne, mĕte",mĕte,,,Ray1919,,,,,336
+Bussim-house-1,,Bussim,house,"fi-kulū, măt-ūrūm",fi-kulū,,,Ray1919,,,,,336
+Bussim-house-2,,Bussim,house,"fi-kulū, măt-ūrūm",măt-ūrūm,,,Ray1919,,,,,336
+Bussim-man-1,,Bussim,man,ŋi,ŋi,,,Ray1919,,,,,336
+Bussim-moon-1,,Bussim,moon,"tamă(ë)ne, mĕsŏ-tama(ë)ne",tamăne,,,Ray1919,,,,,336
+Bussim-moon-2,,Bussim,moon,"tamă(ë)ne, mĕsŏ-tama(ë)ne",mĕsŏ-tamane,,,Ray1919,,,,,336
+Bussim-pig-1,,Bussim,pig,gboë,gboë,,,Ray1919,,,,,336
+Bussim-sun-1,,Bussim,sun,"ŏĕnă, kaī(u)ē oĕnă",ŏĕnă,,,Ray1919,,,,,336
+Bussim-sun-2,,Bussim,sun,"ŏĕnă, kaī(u)ē oĕnă",kaīē oĕnă,,,Ray1919,,,,,336
+Bussim-tooth-1,,Bussim,tooth,săfī,săfī,,,Ray1919,,,,,336
+Bussim-water-1,,Bussim,water,mīsă,mīsă,,,Ray1919,,,,,336
+Bussim-woman-1,,Bussim,woman,"nīga, năga",nīga,,,Ray1919,,,,,336
+Bussim-woman-2,,Bussim,woman,"nīga, năga",năga,,,Ray1919,,,,,336
+Kamoka-pig-1,,Kamoka,pig,bŏre,bŏre,,,Ray1919,,,,,336
+Pong-man-1,,Pong,man,nyewe,nyewe,,,Ray1919,,,,,336
+Pong-moon-1,,Pong,moon,rai,rai,,,Ray1919,,,,,336
+Pong-pig-1,,Pong,pig,bera,bera,,,Ray1919,,,,,336
+Pong-stone-1,,Pong,stone,kĭt,kĭt,,,Ray1919,,,,,336
+Pong-sun-1,,Pong,sun,karib,karib,,,Ray1919,,,,,336
+Pong-water-1,,Pong,water,au,au,,,Ray1919,,,,,336
+Pong-woman-1,,Pong,woman,nyerab,nyerab,,,Ray1919,,,,,336
+Keseraua-hand_arm-1,,Keseraua,hand_arm,metăna,metăna,,,Ray1919,,,,,336
+Keseraua-house-1,,Keseraua,house,uruma,uruma,,,Ray1919,,,,,336
+Keseraua-man-1,,Keseraua,man,naŋ,naŋ,,,Ray1919,,,,,336
+Keseraua-moon-1,,Keseraua,moon,boita,boita,,,Ray1919,,,,,336
+Keseraua-stone-1,,Keseraua,stone,wese,wese,,,Ray1919,,,,,336
+Keseraua-sun-1,,Keseraua,sun,karip,karip,,,Ray1919,,,,,336
+Keseraua-tooth-1,,Keseraua,tooth,nĕsăd,nĕsăd,,,Ray1919,,,,,336
+Keseraua-woman-1,,Keseraua,woman,ŋerap,ŋerap,,,Ray1919,,,,,336
+Ago-moon-1,,Ago,moon,tămāna,tămāna,,,Ray1919,,,,,337
+Ago-pig-1,,Ago,pig,mbe,mbe,,,Ray1919,,,,,337
+Ago-stone-1,,Ago,stone,pŏsar,pŏsar,,,Ray1919,,,,,337
+Ago-sun-1,,Ago,sun,wēna,wēna,,,Ray1919,,,,,337
+Ago-tooth-1,,Ago,tooth,dsofi,dsofi,,,Ray1919,,,,,337
+Ago-water-1,,Ago,water,mĭsă,mĭsă,,,Ray1919,,,,,337
+KelanaKei-hand_arm-1,,KelanaKei,hand_arm,mete-se,mete-se,,,Ray1919,,,,,337
+KelanaKei-house-1,,KelanaKei,house,matse,matse,,,Ray1919,,,,,337
+KelanaKei-man-1,,KelanaKei,man,mundugil,mundugil,,,Ray1919,,,,,337
+KelanaKei-moon-1,,KelanaKei,moon,koivon,koivon,,,Ray1919,,,,,337
+KelanaKei-pig-1,,KelanaKei,pig,geia,geia,,,Ray1919,,,,,337
+KelanaKei-stone-1,,KelanaKei,stone,wĕsi,wĕsi,,,Ray1919,,,,,337
+KelanaKei-sun-1,,KelanaKei,sun,kaiwe,kaiwe,,,Ray1919,,,,,337
+KelanaKei-water-1,,KelanaKei,water,sango,sango,,,Ray1919,,,,,337
+KelanaKei-woman-1,,KelanaKei,woman,kunduaŋ,kunduaŋ,,,Ray1919,,,,,337
+Waso-pig-1,,Waso,pig,bo,bo,,,Ray1919,,,,,337
+Gorendu-hand_arm-1,,Gorendu,hand_arm,iboŋ,iboŋ,,,Ray1919,,,,,337
+Gorendu-house-1,,Gorendu,house,"gogumu, tobar",gogumu,,,Ray1919,,,,,337
+Gorendu-house-2,,Gorendu,house,"gogumu, tobar",tobar,,,Ray1919,,,,,337
+Gorendu-man-1,,Gorendu,man,"tamo, tuma",tamo,,,Ray1919,,,,,337
+Gorendu-man-2,,Gorendu,man,"tamo, tuma",tuma,,,Ray1919,,,,,337
+Gorendu-moon-1,,Gorendu,moon,"karam, elem",karam,,,Ray1919,,,,,337
+Gorendu-moon-2,,Gorendu,moon,"karam, elem",elem,,,Ray1919,,,,,337
+Gorendu-pig-1,,Gorendu,pig,bul,bul,,,Ray1919,,,,,337
+Gorendu-stone-1,,Gorendu,stone,"tutaŋ, ubu, betau",tutaŋ,,,Ray1919,,,,,337
+Gorendu-stone-2,,Gorendu,stone,"tutaŋ, ubu, betau",ubu,,,Ray1919,,,,,337
+Gorendu-stone-3,,Gorendu,stone,"tutaŋ, ubu, betau",betau,,,Ray1919,,,,,337
+Gorendu-sun-1,,Gorendu,sun,"čin, dzieŋ",čin,,,Ray1919,,,,,337
+Gorendu-sun-2,,Gorendu,sun,"čin, dzieŋ",dzieŋ,,,Ray1919,,,,,337
+Gorendu-tooth-1,,Gorendu,tooth,kagi,kagi,,,Ray1919,,,,,337
+Gorendu-water-1,,Gorendu,water,yī,yī,,,Ray1919,,,,,337
+Gorendu-woman-1,,Gorendu,woman,keringa,keringa,,,Ray1919,,,,,337
+Bongu-hand_arm-1,,Bongu,hand_arm,iboŋ,iboŋ,,,Ray1919,,,,,337
+Bongu-house-1,,Bongu,house,tal,tal,,,Ray1919,,,,,337
+Bongu-man-1,,Bongu,man,tāmō,tāmō,,,Ray1919,,,,,337
+Bongu-moon-1,,Bongu,moon,ġaġam,ġaġam,,,Ray1919,,,,,337
+Bongu-pig-1,,Bongu,pig,bul,bul,,,Ray1919,,,,,337
+Bongu-stone-1,,Bongu,stone,"gitaŋ, betau",gitaŋ,,,Ray1919,,,,,337
+Bongu-stone-2,,Bongu,stone,"gitaŋ, betau",betau,,,Ray1919,,,,,337
+Bongu-sun-1,,Bongu,sun,siŋ,siŋ,,,Ray1919,,,,,337
+Bongu-tooth-1,,Bongu,tooth,ġāġi,ġāġi,,,Ray1919,,,,,337
+Bongu-water-1,,Bongu,water,ī,ī,,,Ray1919,,,,,337
+Bongu-woman-1,,Bongu,woman,naŋglī,naŋglī,,,Ray1919,,,,,337
+Bogajim-hand_arm-1,,Bogajim,hand_arm,baŋ,baŋ,,,Ray1919,,,,,337
+Bogajim-house-1,,Bogajim,house,"kure, tal",kure,,,Ray1919,,,,,337
+Bogajim-house-2,,Bogajim,house,"kure, tal",tal,,,Ray1919,,,,,337
+Bogajim-man-1,,Bogajim,man,tamo,tamo,,,Ray1919,,,,,337
+Bogajim-moon-1,,Bogajim,moon,bai,bai,,,Ray1919,,,,,337
+Bogajim-pig-1,,Bogajim,pig,bel,bel,,,Ray1919,,,,,337
+Bogajim-stone-1,,Bogajim,stone,meniŋ,meniŋ,,,Ray1919,,,,,337
+Bogajim-sun-1,,Bogajim,sun,zeŋ,zeŋ,,,Ray1919,,,,,337
+Bogajim-tooth-1,,Bogajim,tooth,ralage,ralage,,,Ray1919,,,,,337
+Bogajim-water-1,,Bogajim,water,ya,ya,,,Ray1919,,,,,337
+Bogajim-woman-1,,Bogajim,woman,unġasari,unġasari,,,Ray1919,,,,,337
+Burumana-hand_arm-1,,Burumana,hand_arm,bar,bar,,,Ray1919,,,,,337
+Burumana-house-1,,Burumana,house,tal,tal,,,Ray1919,,,,,337
+Burumana-man-1,,Burumana,man,tuma,tuma,,,Ray1919,,,,,337
+Burumana-stone-1,,Burumana,stone,meniŋ,meniŋ,,,Ray1919,,,,,337
+Burumana-water-1,,Burumana,water,yag,yag,,,Ray1919,,,,,337
+Burumana-woman-1,,Burumana,woman,ŋgali,ŋgali,,,Ray1919,,,,,337
+Manikam-hand_arm-1,,Manikam,hand_arm,bar,bar,,,Ray1919,,,,,337
+Manikam-house-1,,Manikam,house,gure,gure,,,Ray1919,,,,,337
+Manikam-man-1,,Manikam,man,toma,toma,,,Ray1919,,,,,337
+Manikam-moon-1,,Manikam,moon,kaγam,kaγam,,,Ray1919,,,,,337
+Manikam-pig-1,,Manikam,pig,bôl,bôl,,,Ray1919,,,,,337
+Manikam-stone-1,,Manikam,stone,"meneŋ, peteu",meneŋ,,,Ray1919,,,,,337
+Manikam-stone-2,,Manikam,stone,"meneŋ, peteu",peteu,,,Ray1919,,,,,337
+Manikam-sun-1,,Manikam,sun,"kieŋ, keŋ",kieŋ,,,Ray1919,,,,,337
+Manikam-sun-2,,Manikam,sun,"kieŋ, keŋ",keŋ,,,Ray1919,,,,,337
+Manikam-tooth-1,,Manikam,tooth,alagi,alagi,,,Ray1919,,,,,337
+Manikam-water-1,,Manikam,water,yak,yak,,,Ray1919,,,,,337
+Manikam-woman-1,,Manikam,woman,gali,gali,,,Ray1919,,,,,337
+Shongu-hand_arm-1,,Shongu,hand_arm,bar,bar,,,Ray1919,,,,,337
+Shongu-house-1,,Shongu,house,urum,urum,,,Ray1919,,,,,337
+Shongu-man-1,,Shongu,man,tshuma,tshuma,,,Ray1919,,,,,337
+Shongu-moon-1,,Shongu,moon,elem,elem,,,Ray1919,,,,,337
+Shongu-pig-1,,Shongu,pig,buol,buol,,,Ray1919,,,,,337
+Shongu-sun-1,,Shongu,sun,dziŋ,dziŋ,,,Ray1919,,,,,337
+Shongu-tooth-1,,Shongu,tooth,alagi,alagi,,,Ray1919,,,,,337
+Shongu-water-1,,Shongu,water,yak,yak,,,Ray1919,,,,,337
+Shongu-woman-1,,Shongu,woman,aŋli,aŋli,,,Ray1919,,,,,337
+Wuong-hand_arm-1,,Wuong,hand_arm,bar,bar,,,Ray1919,,,,,337
+Wuong-house-1,,Wuong,house,talu,talu,,,Ray1919,,,,,337
+Wuong-man-1,,Wuong,man,tuma,tuma,,,Ray1919,,,,,337
+Wuong-moon-1,,Wuong,moon,karam,karam,,,Ray1919,,,,,337
+Wuong-pig-1,,Wuong,pig,bol,bol,,,Ray1919,,,,,337
+Wuong-sun-1,,Wuong,sun,keŋ,keŋ,,,Ray1919,,,,,337
+Wuong-tooth-1,,Wuong,tooth,ralage,ralage,,,Ray1919,,,,,337
+Wuong-woman-1,,Wuong,woman,gali,gali,,,Ray1919,,,,,337
+Kaliko-hand_arm-1,,Kaliko,hand_arm,bar,bar,,,Ray1919,,,,,337
+Kaliko-house-1,,Kaliko,house,tal,tal,,,Ray1919,,,,,337
+Kaliko-man-1,,Kaliko,man,tamo,tamo,,,Ray1919,,,,,337
+Kaliko-moon-1,,Kaliko,moon,kaχram,kaχram,,,Ray1919,,,,,337
+Kaliko-pig-1,,Kaliko,pig,bol,bol,,,Ray1919,,,,,337
+Kaliko-stone-1,,Kaliko,stone,meneŋ,meneŋ,,,Ray1919,,,,,337
+Kaliko-sun-1,,Kaliko,sun,kiaŋ,kiaŋ,,,Ray1919,,,,,337
+Kaliko-tooth-1,,Kaliko,tooth,alagi,alagi,,,Ray1919,,,,,337
+Kaliko-water-1,,Kaliko,water,iag,iag,,,Ray1919,,,,,337
+Kaliko-woman-1,,Kaliko,woman,ŋali,ŋali,,,Ray1919,,,,,337
+Damun-hand_arm-1,,Damun,hand_arm,bar,bar,,,Ray1919,,,,,337
+Damun-house-1,,Damun,house,ure,ure,,,Ray1919,,,,,337
+Damun-man-1,,Damun,man,tamo,tamo,,,Ray1919,,,,,337
+Damun-moon-1,,Damun,moon,kuleem,kuleem,,,Ray1919,,,,,337
+Damun-pig-1,,Damun,pig,bol,bol,,,Ray1919,,,,,337
+Damun-stone-1,,Damun,stone,meneŋ,meneŋ,,,Ray1919,,,,,337
+Damun-tooth-1,,Damun,tooth,alagi,alagi,,,Ray1919,,,,,337
+Damun-water-1,,Damun,water,iag,iag,,,Ray1919,,,,,337
+Damun-woman-1,,Damun,woman,ŋali,ŋali,,,Ray1919,,,,,337
+Koliku-hand_arm-1,,Koliku,hand_arm,bar,bar,,,Ray1919,,,,,337
+Koliku-house-1,,Koliku,house,tal,tal,,,Ray1919,,,,,337
+Koliku-man-1,,Koliku,man,tuma,tuma,,,Ray1919,,,,,337
+Koliku-stone-1,,Koliku,stone,meneŋ,meneŋ,,,Ray1919,,,,,337
+Koliku-water-1,,Koliku,water,yag,yag,,,Ray1919,,,,,337
+Koliku-woman-1,,Koliku,woman,ŋgali,ŋgali,,,Ray1919,,,,,337
+Male-hand_arm-1,,Male,hand_arm,bar,bar,,,Ray1919,,,,,337
+Male-house-1,,Male,house,tal,tal,,,Ray1919,,,,,337
+Male-man-1,,Male,man,tuma,tuma,,,Ray1919,,,,,337
+Male-stone-1,,Male,stone,meniŋ,meniŋ,,,Ray1919,,,,,337
+Male-water-1,,Male,water,yag,yag,,,Ray1919,,,,,337
+Male-woman-1,,Male,woman,ŋgali,ŋgali,,,Ray1919,,,,,337
+Langtub-hand_arm-1,,Langtub,hand_arm,kula,kula,,,Ray1919,,,,,337
+Langtub-house-1,,Langtub,house,wande,wande,,,Ray1919,,,,,337
+Langtub-man-1,,Langtub,man,parăn,parăn,,,Ray1919,,,,,337
+Langtub-moon-1,,Langtub,moon,tambun,tambun,,,Ray1919,,,,,337
+Langtub-pig-1,,Langtub,pig,mboi,mboi,,,Ray1919,,,,,337
+Langtub-stone-1,,Langtub,stone,năŋe,năŋe,,,Ray1919,,,,,337
+Langtub-sun-1,,Langtub,sun,ke,ke,,,Ray1919,,,,,337
+Langtub-tooth-1,,Langtub,tooth,băgē,băgē,,,Ray1919,,,,,337
+Langtub-water-1,,Langtub,water,yaŋ,yaŋ,,,Ray1919,,,,,337
+Langtub-woman-1,,Langtub,woman,panŏ,panŏ,,,Ray1919,,,,,337
+Sungumana-hand_arm-1,,Sungumana,hand_arm,bar,bar,,,Ray1919,,,,,337
+Sungumana-house-1,,Sungumana,house,urum,urum,,,Ray1919,,,,,337
+Sungumana-man-1,,Sungumana,man,"tuma, tyuma",tuma,,,Ray1919,,,,,337
+Sungumana-man-2,,Sungumana,man,"tuma, tyuma",tyuma,,,Ray1919,,,,,337
+Sungumana-moon-1,,Sungumana,moon,elem,elem,,,Ray1919,,,,,337
+Sungumana-pig-1,,Sungumana,pig,bol,bol,,,Ray1919,,,,,337
+Sungumana-stone-1,,Sungumana,stone,duma,duma,,,Ray1919,,,,,337
+Sungumana-sun-1,,Sungumana,sun,seŋ,seŋ,,,Ray1919,,,,,337
+Sungumana-tooth-1,,Sungumana,tooth,alagi,alagi,,,Ray1919,,,,,337
+Sungumana-water-1,,Sungumana,water,yag,yag,,,Ray1919,,,,,337
+Sungumana-woman-1,,Sungumana,woman,"aŋgli, agli",aŋgli,,,Ray1919,,,,,337
+Sungumana-woman-2,,Sungumana,woman,"aŋgli, agli",agli,,,Ray1919,,,,,337
+Maragam-hand_arm-1,,Maragam,hand_arm,mai,mai,,,Ray1919,,,,,337
+Maragam-house-1,,Maragam,house,wande,wande,,,Ray1919,,,,,337
+Maragam-man-1,,Maragam,man,taŋgom,taŋgom,,,Ray1919,,,,,337
+Maragam-moon-1,,Maragam,moon,tambunam,tambunam,,,Ray1919,,,,,337
+Maragam-pig-1,,Maragam,pig,bu,bu,,,Ray1919,,,,,337
+Maragam-stone-1,,Maragam,stone,dumi,dumi,,,Ray1919,,,,,337
+Maragam-sun-1,,Maragam,sun,kei,kei,,,Ray1919,,,,,337
+Maragam-water-1,,Maragam,water,kule,kule,,,Ray1919,,,,,337
+Maragam-woman-1,,Maragam,woman,pinom,pinom,,,Ray1919,,,,,337
+Rumba-hand_arm-1,,Rumba,hand_arm,uai,uai,,,Ray1919,,,,,337
+Rumba-house-1,,Rumba,house,uande,uande,,,Ray1919,,,,,337
+Rumba-man-1,,Rumba,man,tangom,tangom,,,Ray1919,,,,,337
+Rumba-moon-1,,Rumba,moon,dambun,dambun,,,Ray1919,,,,,337
+Rumba-pig-1,,Rumba,pig,mbo,mbo,,,Ray1919,,,,,337
+Rumba-stone-1,,Rumba,stone,dame,dame,,,Ray1919,,,,,337
+Rumba-sun-1,,Rumba,sun,gei,gei,,,Ray1919,,,,,337
+Rumba-tooth-1,,Rumba,tooth,maketem,maketem,,,Ray1919,,,,,337
+Rumba-water-1,,Rumba,water,kule,kule,,,Ray1919,,,,,337
+Rumba-woman-1,,Rumba,woman,binom,binom,,,Ray1919,,,,,337
+Englam-hand_arm-1,,Englam,hand_arm,dei,dei,,,Ray1919,,,,,337
+Englam-house-1,,Englam,house,badi,badi,,,Ray1919,,,,,337
+Englam-man-1,,Englam,man,tamo,tamo,,,Ray1919,,,,,337
+Englam-moon-1,,Englam,moon,saem,saem,,,Ray1919,,,,,337
+Englam-stone-1,,Englam,stone,"ater, damu",ater,,,Ray1919,,,,,337
+Englam-stone-2,,Englam,stone,"ater, damu",damu,,,Ray1919,,,,,337
+Englam-sun-1,,Englam,sun,ulen,ulen,,,Ray1919,,,,,337
+Englam-tooth-1,,Englam,tooth,maiselim,maiselim,,,Ray1919,,,,,337
+Englam-water-1,,Englam,water,i,i,,,Ray1919,,,,,337
+Englam-woman-1,,Englam,woman,genagulum,genagulum,,,Ray1919,,,,,337
+Kadda-hand_arm-1,,Kadda,hand_arm,yobo,yobo,,,Ray1919,,,,,337
+Kadda-house-1,,Kadda,house,kabike,kabike,,,Ray1919,,,,,337
+Kadda-man-1,,Kadda,man,nomu,nomu,,,Ray1919,,,,,337
+Kadda-moon-1,,Kadda,moon,ăsiko,ăsiko,,,Ray1919,,,,,337
+Kadda-pig-1,,Kadda,pig,bôge,bôge,,,Ray1919,,,,,337
+Kadda-sun-1,,Kadda,sun,beme,beme,,,Ray1919,,,,,337
+Kadda-woman-1,,Kadda,woman,bia,bia,,,Ray1919,,,,,337
+Wenke-hand_arm-1,,Wenke,hand_arm,gambin,gambin,,,Ray1919,,,,,337
+Wenke-house-1,,Wenke,house,"koreb, koruwam",koreb,,,Ray1919,,,,,337
+Wenke-house-2,,Wenke,house,"koreb, koruwam",koruwam,,,Ray1919,,,,,337
+Wenke-moon-1,,Wenke,moon,"gulrum, gulerum",gulrum,,,Ray1919,,,,,337
+Wenke-moon-2,,Wenke,moon,"gulrum, gulerum",gulerum,,,Ray1919,,,,,337
+Wenke-pig-1,,Wenke,pig,bu,bu,,,Ray1919,,,,,337
+Wenke-sun-1,,Wenke,sun,romu,romu,,,Ray1919,,,,,337
+Wenke-tooth-1,,Wenke,tooth,mara,mara,,,Ray1919,,,,,337
+Wenke-woman-1,,Wenke,woman,nanti,nanti,,,Ray1919,,,,,337
+Panim-hand_arm-1,,Panim,hand_arm,ĕbĕn,ĕbĕn,,,Ray1919,,,,,337
+Panim-house-1,,Panim,house,"ndsō, nso",ndsō,,,Ray1919,,,,,337
+Panim-house-2,,Panim,house,"ndsō, nso",nso,,,Ray1919,,,,,337
+Panim-man-1,,Panim,man,dană,dană,,,Ray1919,,,,,337
+Panim-moon-1,,Panim,moon,yăgĕl,yăgĕl,,,Ray1919,,,,,337
+Panim-pig-1,,Panim,pig,fō,fō,,,Ray1919,,,,,337
+Panim-stone-1,,Panim,stone,mĕnin,mĕnin,,,Ray1919,,,,,337
+Panim-sun-1,,Panim,sun,am,am,,,Ray1919,,,,,337
+Panim-tooth-1,,Panim,tooth,aig,aig,,,Ray1919,,,,,337
+Panim-water-1,,Panim,water,wā,wā,,,Ray1919,,,,,337
+Panim-woman-1,,Panim,woman,ai,ai,,,Ray1919,,,,,337
+Panim-men_s_or_club_house-1,,Panim,men_s_or_club_house,baδēm,baδēm,,,Ray1919,,,,,337
+Mis-men_s_or_club_house-1,,Mis,men_s_or_club_house,lāg,lāg,,,Ray1919,,,,,337
+Kemba-men_s_or_club_house-1,,Kemba,men_s_or_club_house,daδem,daδem,,,Ray1919,,,,,337
+Mis-hand_arm-1,,Mis,hand_arm,"evel, even",evel,,,Ray1919,,,,,337
+Mis-hand_arm-2,,Mis,hand_arm,"evel, even",even,,,Ray1919,,,,,337
+Mis-house-1,,Mis,house,lo,lo,,,Ray1919,,,,,337
+Mis-man-1,,Mis,man,"dănăf, danas",dănăf,,,Ray1919,,,,,337
+Mis-man-2,,Mis,man,"dănăf, danas",danas,,,Ray1919,,,,,337
+Mis-moon-1,,Mis,moon,kalăm,kalăm,,,Ray1919,,,,,337
+Mis-pig-1,,Mis,pig,fo,fo,,,Ray1919,,,,,337
+Mis-stone-1,,Mis,stone,băr,băr,,,Ray1919,,,,,337
+Mis-sun-1,,Mis,sun,kĕm,kĕm,,,Ray1919,,,,,337
+Mis-tooth-1,,Mis,tooth,"en, el",en,,,Ray1919,,,,,337
+Mis-tooth-2,,Mis,tooth,"en, el",el,,,Ray1919,,,,,337
+Mis-water-1,,Mis,water,lē,lē,,,Ray1919,,,,,337
+Mis-woman-1,,Mis,woman,ās,ās,,,Ray1919,,,,,337
+Kemba-hand_arm-1,,Kemba,hand_arm,kevel,kevel,,,Ray1919,,,,,337
+Kemba-house-1,,Kemba,house,lo,lo,,,Ray1919,,,,,337
+Kemba-man-1,,Kemba,man,danab,danab,,,Ray1919,,,,,337
+Kemba-moon-1,,Kemba,moon,kalam,kalam,,,Ray1919,,,,,337
+Kemba-pig-1,,Kemba,pig,"fo, bo",fo,,,Ray1919,,,,,337
+Kemba-pig-2,,Kemba,pig,"fo, bo",bo,,,Ray1919,,,,,337
+Kemba-sun-1,,Kemba,sun,kēmba,kēmba,,,Ray1919,,,,,337
+Kemba-water-1,,Kemba,water,lē,lē,,,Ray1919,,,,,337
+Nupanob-areca_nut-1,,Nupanob,areca_nut,"bă, bā",bă,,,Ray1919,,,,,338
+Nupanob-areca_nut-2,,Nupanob,areca_nut,"bă, bā",bā,,,Ray1919,,,,,338
+Nupanob-bird-1,,Nupanob,bird,ai,ai,,,Ray1919,,,,,338
+Nupanob-coco_nut-1,,Nupanob,coco_nut,utu,utu,,,Ray1919,,,,,338
+Nupanob-dog-1,,Nupanob,dog,bai,bai,,,Ray1919,,,,,338
+Nupanob-ear-1,,Nupanob,ear,"daul, daun",daul,,,Ray1919,,,,,338
+Nupanob-ear-2,,Nupanob,ear,"daul, daun",daun,,,Ray1919,,,,,338
+Nupanob-eye-1,,Nupanob,eye,"amĕl, amenik",amĕl,,,Ray1919,,,,,338
+Nupanob-eye-2,,Nupanob,eye,"amĕl, amenik",amenik,,,Ray1919,,,,,338
+Nupanob-fire-1,,Nupanob,fire,ab,ab,,,Ray1919,,,,,338
+Nupanob-fish-1,,Nupanob,fish,"kakai, kaχai",kakai,,,Ray1919,,,,,338
+Nupanob-fish-2,,Nupanob,fish,"kakai, kaχai",kaχai,,,Ray1919,,,,,338
+Nupanob-foot_leg-1,,Nupanob,foot_leg,"bail, bakale, akage",bail,,,Ray1919,,,,,338
+Nupanob-foot_leg-2,,Nupanob,foot_leg,"bail, bakale, akage",bakale,,,Ray1919,,,,,338
+Nupanob-foot_leg-3,,Nupanob,foot_leg,"bail, bakale, akage",akage,,,Ray1919,,,,,338
+Bawaipa-areca_nut-1,,Bawaipa,areca_nut,bă,bă,,,Ray1919,,,,,338
+Bawaipa-banana-1,,Bawaipa,banana,muge,muge,,,Ray1919,,,,,338
+Bawaipa-bird-1,,Bawaipa,bird,ai,ai,,,Ray1919,,,,,338
+Bawaipa-dog-1,,Bawaipa,dog,bai,bai,,,Ray1919,,,,,338
+Bawaipa-fire-1,,Bawaipa,fire,abe,abe,,,Ray1919,,,,,338
+Bawaipa-fish-1,,Bawaipa,fish,kakai,kakai,,,Ray1919,,,,,338
+Misdao-banana-1,,Misdao,banana,muge,muge,,,Ray1919,,,,,338
+Misdao-bird-1,,Misdao,bird,āyĕ,āyĕ,,,Ray1919,,,,,338
+Misdao-eye-1,,Misdao,eye,amele,amele,,,Ray1919,,,,,338
+Misdao-fish-1,,Misdao,fish,kakai,kakai,,,Ray1919,,,,,338
+Misdao-foot_leg-1,,Misdao,foot_leg,baile,baile,,,Ray1919,,,,,338
+Rempin-banana-1,,Rempin,banana,mug,mug,,,Ray1919,,,,,338
+Rempin-dog-1,,Rempin,dog,bai,bai,,,Ray1919,,,,,338
+Rempin-ear-1,,Rempin,ear,dēbun,dēbun,,,Ray1919,,,,,338
+Rempin-eye-1,,Rempin,eye,amait,amait,,,Ray1919,,,,,338
+Rempin-fish-1,,Rempin,fish,kike,kike,,,Ray1919,,,,,338
+Rempin-foot_leg-1,,Rempin,foot_leg,beid,beid,,,Ray1919,,,,,338
+Bunu-banana-1,,Bunu,banana,ug,ug,,,Ray1919,,,,,338
+Bunu-bird-1,,Bunu,bird,ā,ā,,,Ray1919,,,,,338
+Bunu-coco_nut-1,,Bunu,coco_nut,gureŋ,gureŋ,,,Ray1919,,,,,338
+Bunu-ear-1,,Bunu,ear,gerakeṣan,gerakeṣan,,,Ray1919,,,,,338
+Bunu-eye-1,,Bunu,eye,geme,geme,,,Ray1919,,,,,338
+Bunu-foot_leg-1,,Bunu,foot_leg,gesen,gesen,,,Ray1919,,,,,338
+Tombenam-areca_nut-1,,Tombenam,areca_nut,ŋab,ŋab,,,Ray1919,,,,,338
+Tombenam-banana-1,,Tombenam,banana,gi,gi,,,Ray1919,,,,,338
+Tombenam-bird-1,,Tombenam,bird,mūkă,mūkă,,,Ray1919,,,,,338
+Tombenam-coco_nut-1,,Tombenam,coco_nut,"niu, năta",niu,,,Ray1919,,,,,338
+Tombenam-coco_nut-2,,Tombenam,coco_nut,"niu, năta",năta,,,Ray1919,,,,,338
+Tombenam-dog-1,,Tombenam,dog,kē,kē,,,Ray1919,,,,,338
+Tombenam-ear-1,,Tombenam,ear,ītyōăk,ītyōăk,,,Ray1919,,,,,338
+Tombenam-eye-1,,Tombenam,eye,īmūtăk,īmūtăk,,,Ray1919,,,,,338
+Tombenam-fire-1,,Tombenam,fire,mūn,mūn,,,Ray1919,,,,,338
+Tombenam-fish-1,,Tombenam,fish,ŋălin,ŋălin,,,Ray1919,,,,,338
+Tombenam-foot_leg-1,,Tombenam,foot_leg,inĕnē,inĕnē,,,Ray1919,,,,,338
+Monumbo-areca_nut-1,,Monumbo,areca_nut,nā ip,nā ip,,,Ray1919,,,,,338
+Monumbo-banana-1,,Monumbo,banana,kuan,kuan,,,Ray1919,,,,,338
+Monumbo-bird-1,,Monumbo,bird,nakur,nakur,,,Ray1919,,,,,338
+Monumbo-coco_nut-1,,Monumbo,coco_nut,nde,nde,,,Ray1919,,,,,338
+Monumbo-dog-1,,Monumbo,dog,aur,aur,,,Ray1919,,,,,338
+Monumbo-ear-1,,Monumbo,ear,mak,mak,,,Ray1919,,,,,338
+Monumbo-eye-1,,Monumbo,eye,tar,tar,,,Ray1919,,,,,338
+Monumbo-fire-1,,Monumbo,fire,ŋait,ŋait,,,Ray1919,,,,,338
+Monumbo-fish-1,,Monumbo,fish,tsir,tsir,,,Ray1919,,,,,338
+Monumbo-foot_leg-1,,Monumbo,foot_leg,tamtakil,tamtakil,,,Ray1919,,,,,338
+Alepapum-coco_nut-1,,Alepapum,coco_nut,iruaŋ,iruaŋ,,,Ray1919,,,,,338
+Alepapum-ear-1,,Alepapum,ear,korani,korani,,,Ray1919,,,,,338
+Alepapum-eye-1,,Alepapum,eye,damagatu,damagatu,,,Ray1919,,,,,338
+Kopar-areca_nut-1,,Kopar,areca_nut,buruŋ,buruŋ,,,Ray1919,,,,,338
+Mangut-areca_nut-1,,Mangut,areca_nut,pariŋ,pariŋ,,,Ray1919,,,,,338
+Mabu-areca_nut-1,,Mabu,areca_nut,angetaŋ,angetaŋ,,,Ray1919,,,,,338
+Watam-bird-1,,Watam,bird,gorak,gorak,,,Ray1919,,,,,338
+Watam-coco_nut-1,,Watam,coco_nut,ruaŋ,ruaŋ,,,Ray1919,,,,,338
+Watam-dog-1,,Watam,dog,kiou,kiou,,,Ray1919,,,,,338
+Watam-ear-1,,Watam,ear,koar,koar,,,Ray1919,,,,,338
+Watam-eye-1,,Watam,eye,namak,namak,,,Ray1919,,,,,338
+Watam-fire-1,,Watam,fire,zak,zak,,,Ray1919,,,,,338
+Watam-fish-1,,Watam,fish,shing,shing,,,Ray1919,,,,,338
+Watam-foot_leg-1,,Watam,foot_leg,or,or,,,Ray1919,,,,,338
+KAugustaRiver-areca_nut-1,,KAugustaRiver,areca_nut,mena,mena,,,Ray1919,,,,,338
+KAugustaRiver-banana-1,,KAugustaRiver,banana,"lab, labu",lab,,,Ray1919,,,,,338
+KAugustaRiver-banana-2,,KAugustaRiver,banana,"lab, labu",labu,,,Ray1919,,,,,338
+KAugustaRiver-bird-1,,KAugustaRiver,bird,wābi,wābi,,,Ray1919,,,,,338
+KAugustaRiver-coco_nut-1,,KAugustaRiver,coco_nut,"tŏpan, tobma",tŏpan,,,Ray1919,,,,,338
+KAugustaRiver-coco_nut-2,,KAugustaRiver,coco_nut,"tŏpan, tobma",tobma,,,Ray1919,,,,,338
+KAugustaRiver-dog-1,,KAugustaRiver,dog,"uāra, aše",uāra,,,Ray1919,,,,,338
+KAugustaRiver-dog-2,,KAugustaRiver,dog,"uāra, aše",aše,,,Ray1919,,,,,338
+KAugustaRiver-eye-1,,KAugustaRiver,eye,"nou, mĭni, mele, yĭna",nou,,,Ray1919,,,,,338
+KAugustaRiver-eye-2,,KAugustaRiver,eye,"nou, mĭni, mele, yĭna",mĭni,,,Ray1919,,,,,338
+KAugustaRiver-eye-3,,KAugustaRiver,eye,"nou, mĭni, mele, yĭna",mele,,,Ray1919,,,,,338
+KAugustaRiver-eye-4,,KAugustaRiver,eye,"nou, mĭni, mele, yĭna",yĭna,,,Ray1919,,,,,338
+KAugustaRiver-fire-1,,KAugustaRiver,fire,"üm, nyie, yinge",üm,,,Ray1919,,,,,338
+KAugustaRiver-fire-2,,KAugustaRiver,fire,"üm, nyie, yinge",nyie,,,Ray1919,,,,,338
+KAugustaRiver-fire-3,,KAugustaRiver,fire,"üm, nyie, yinge",yinge,,,Ray1919,,,,,338
+KAugustaRiver-fish-1,,KAugustaRiver,fish,"yara, bao, kami",yara,,,Ray1919,,,,,338
+KAugustaRiver-fish-2,,KAugustaRiver,fish,"yara, bao, kami",bao,,,Ray1919,,,,,338
+KAugustaRiver-fish-3,,KAugustaRiver,fish,"yara, bao, kami",kami,,,Ray1919,,,,,338
+KAugustaRiver-foot_leg-1,,KAugustaRiver,foot_leg,dzoo,dzoo,,,Ray1919,,,,,338
+Kavu-areca_nut-1,,Kavu,areca_nut,pupus,pupus,,,Ray1919,,,,,338
+Kavu-banana-1,,Kavu,banana,ipap,ipap,,,Ray1919,,,,,338
+Kavu-bird-1,,Kavu,bird,alumel,alumel,,,Ray1919,,,,,338
+Kavu-coco_nut-1,,Kavu,coco_nut,aumb,aumb,,,Ray1919,,,,,338
+Kavu-dog-1,,Kavu,dog,nambat,nambat,,,Ray1919,,,,,338
+Kavu-ear-1,,Kavu,ear,alinkas,alinkas,,,Ray1919,,,,,338
+Kavu-eye-1,,Kavu,eye,nembäs,nembäs,,,Ray1919,,,,,338
+Kavu-fire-1,,Kavu,fire,asekä,asekä,,,Ray1919,,,,,338
+Kavu-fish-1,,Kavu,fish,eivul,eivul,,,Ray1919,,,,,338
+Kavu-foot_leg-1,,Kavu,foot_leg,ariu,ariu,,,Ray1919,,,,,338
+Kumemim-areca_nut-1,,Kumemim,areca_nut,pupus,pupus,,,Ray1919,,,,,338
+Kumemim-ear-1,,Kumemim,ear,ăligas,ăligas,,,Ray1919,,,,,338
+Put-areca_nut-1,,Put,areca_nut,bubus,bubus,,,Ray1919,,,,,338
+Put-ear-1,,Put,ear,ăligas,ăligas,,,Ray1919,,,,,338
+Valman-areca_nut-1,,Valman,areca_nut,potu,potu,,,Ray1919,,,,,338
+Valman-banana-1,,Valman,banana,mikie,mikie,,,Ray1919,,,,,338
+Valman-bird-1,,Valman,bird,ŋal,ŋal,,,Ray1919,,,,,338
+Valman-coco_nut-1,,Valman,coco_nut,ŋotu,ŋotu,,,Ray1919,,,,,338
+Valman-dog-1,,Valman,dog,pälen,pälen,,,Ray1919,,,,,338
+Valman-ear-1,,Valman,ear,mukûl,mukûl,,,Ray1919,,,,,338
+Valman-eye-1,,Valman,eye,t'ekul,t'ekul,,,Ray1919,,,,,338
+Valman-fire-1,,Valman,fire,ni,ni,,,Ray1919,,,,,338
+Valman-fish-1,,Valman,fish,vuem,vuem,,,Ray1919,,,,,338
+Valman-foot_leg-1,,Valman,foot_leg,kayal,kayal,,,Ray1919,,,,,338
+Vrinagol-areca_nut-1,,Vrinagol,areca_nut,potu,potu,,,Ray1919,,,,,338
+Vrinagol-dog-1,,Vrinagol,dog,"pelĕn, belĕn",pelĕn,,,Ray1919,,,,,338
+Vrinagol-dog-2,,Vrinagol,dog,"pelĕn, belĕn",belĕn,,,Ray1919,,,,,338
+Akur-dog-1,,Akur,dog,pele,pele,,,Ray1919,,,,,338
+Anal-bird-1,,Anal,bird,nale,nale,,,Ray1919,,,,,338
+Anal-coco_nut-1,,Anal,coco_nut,vōm,vōm,,,Ray1919,,,,,338
+Anal-dog-1,,Anal,dog,pele,pele,,,Ray1919,,,,,338
+Anal-fish-1,,Anal,fish,nil,nil,,,Ray1919,,,,,338
+Kopoam-dog-1,,Kopoam,dog,pele,pele,,,Ray1919,,,,,338
+Arop-areca_nut-1,,Arop,areca_nut,"po, mosu",po,,,Ray1919,,,,,338
+Arop-areca_nut-2,,Arop,areca_nut,"po, mosu",mosu,,,Ray1919,,,,,338
+Arop-banana-1,,Arop,banana,"bur, vur",bur,,,Ray1919,,,,,338
+Arop-banana-2,,Arop,banana,"bur, vur",vur,,,Ray1919,,,,,338
+Arop-bird-1,,Arop,bird,"mein, măn",mein,,,Ray1919,,,,,338
+Arop-bird-2,,Arop,bird,"mein, măn",măn,,,Ray1919,,,,,338
+Arop-coco_nut-1,,Arop,coco_nut,"rīeu, neu, ne",rīeu,,,Ray1919,,,,,338
+Arop-coco_nut-2,,Arop,coco_nut,"rīeu, neu, ne",neu,,,Ray1919,,,,,338
+Arop-coco_nut-3,,Arop,coco_nut,"rīeu, neu, ne",ne,,,Ray1919,,,,,338
+Arop-dog-1,,Arop,dog,"pelen, aun",pelen,,,Ray1919,,,,,338
+Arop-dog-2,,Arop,dog,"pelen, aun",aun,,,Ray1919,,,,,338
+Arop-fish-1,,Arop,fish,pi,pi,,,Ray1919,,,,,338
+Varopu-areca_nut-1,,Varopu,areca_nut,mutu,mutu,,,Ray1919,,,,,338
+Varopu-banana-1,,Varopu,banana,apon,apon,,,Ray1919,,,,,338
+Varopu-coco_nut-1,,Varopu,coco_nut,ne,ne,,,Ray1919,,,,,338
+Varopu-dog-1,,Varopu,dog,lapa,lapa,,,Ray1919,,,,,338
+Varopu-ear-1,,Varopu,ear,teve,teve,,,Ray1919,,,,,338
+Varopu-eye-1,,Varopu,eye,ine,ine,,,Ray1919,,,,,338
+Varopu-fire-1,,Varopu,fire,aku,aku,,,Ray1919,,,,,338
+Varopu-fish-1,,Varopu,fish,va,va,,,Ray1919,,,,,338
+Varopu-foot_leg-1,,Varopu,foot_leg,karo,karo,,,Ray1919,,,,,338
+Nupanob-hand_arm-1,,Nupanob,hand_arm,"pel, epel, pēle",pel,,,Ray1919,,,,,339
+Nupanob-hand_arm-2,,Nupanob,hand_arm,"pel, epel, pēle",epel,,,Ray1919,,,,,339
+Nupanob-hand_arm-3,,Nupanob,hand_arm,"pel, epel, pēle",pēle,,,Ray1919,,,,,339
+Nupanob-house-1,,Nupanob,house,"lāg, lage",lāg,,,Ray1919,,,,,339
+Nupanob-house-2,,Nupanob,house,"lāg, lage",lage,,,Ray1919,,,,,339
+Nupanob-man-1,,Nupanob,man,dănāb,dănāb,,,Ray1919,,,,,339
+Nupanob-moon-1,,Nupanob,moon,"alam, kalam",alam,,,Ray1919,,,,,339
+Nupanob-moon-2,,Nupanob,moon,"alam, kalam",kalam,,,Ray1919,,,,,339
+Nupanob-pig-1,,Nupanob,pig,bō,bō,,,Ray1919,,,,,339
+Nupanob-stone-1,,Nupanob,stone,man,man,,,Ray1919,,,,,339
+Nupanob-sun-1,,Nupanob,sun,am,am,,,Ray1919,,,,,339
+Nupanob-tooth-1,,Nupanob,tooth,ail,ail,,,Ray1919,,,,,339
+Nupanob-water-1,,Nupanob,water,lē,lē,,,Ray1919,,,,,339
+Nupanob-woman-1,,Nupanob,woman,"as, aχe",as,,,Ray1919,,,,,339
+Nupanob-woman-2,,Nupanob,woman,"as, aχe",aχe,,,Ray1919,,,,,339
+Bawaipa-pig-1,,Bawaipa,pig,bo,bo,,,Ray1919,,,,,339
+Bawaipa-water-1,,Bawaipa,water,le,le,,,Ray1919,,,,,339
+Misdao-hand_arm-1,,Misdao,hand_arm,epele,epele,,,Ray1919,,,,,339
+Misdao-man-1,,Misdao,man,dănāb,dănāb,,,Ray1919,,,,,339
+Misdao-moon-1,,Misdao,moon,kalam,kalam,,,Ray1919,,,,,339
+Misdao-pig-1,,Misdao,pig,boi,boi,,,Ray1919,,,,,339
+Misdao-sun-1,,Misdao,sun,ām,ām,,,Ray1919,,,,,339
+Misdao-water-1,,Misdao,water,le,le,,,Ray1919,,,,,339
+Misdao-woman-1,,Misdao,woman,ase,ase,,,Ray1919,,,,,339
+Rempin-hand_arm-1,,Rempin,hand_arm,habed,habed,,,Ray1919,,,,,339
+Rempin-man-1,,Rempin,man,dal,dal,,,Ray1919,,,,,339
+Rempin-pig-1,,Rempin,pig,bo,bo,,,Ray1919,,,,,339
+Rempin-sun-1,,Rempin,sun,an,an,,,Ray1919,,,,,339
+Rempin-water-1,,Rempin,water,"nē, yē",nē,,,Ray1919,,,,,339
+Rempin-water-2,,Rempin,water,"nē, yē",yē,,,Ray1919,,,,,339
+Bunu-hand_arm-1,,Bunu,hand_arm,geben,geben,,,Ray1919,,,,,339
+Bunu-man-1,,Bunu,man,măt,măt,,,Ray1919,,,,,339
+Bunu-moon-1,,Bunu,moon,ful,ful,,,Ray1919,,,,,339
+Bunu-sun-1,,Bunu,sun,sē,sē,,,Ray1919,,,,,339
+Bunu-water-1,,Bunu,water,yu,yu,,,Ray1919,,,,,339
+Bunu-woman-1,,Bunu,woman,an,an,,,Ray1919,,,,,339
+Tombenam-hand_arm-1,,Tombenam,hand_arm,"ĕămbē, kambe",ĕămbē,,,Ray1919,,,,,339
+Tombenam-hand_arm-2,,Tombenam,hand_arm,"ĕămbē, kambe",kambe,,,Ray1919,,,,,339
+Tombenam-house-1,,Tombenam,house,dăn,dăn,,,Ray1919,,,,,339
+Tombenam-man-1,,Tombenam,man,mōandĕ,mōandĕ,,,Ray1919,,,,,339
+Tombenam-moon-1,,Tombenam,moon,tau,tau,,,Ray1919,,,,,339
+Tombenam-pig-1,,Tombenam,pig,bōr,bōr,,,Ray1919,,,,,339
+Tombenam-stone-1,,Tombenam,stone,mai,mai,,,Ray1919,,,,,339
+Tombenam-sun-1,,Tombenam,sun,ŏtīm,ŏtīm,,,Ray1919,,,,,339
+Tombenam-tooth-1,,Tombenam,tooth,nănăk,nănăk,,,Ray1919,,,,,339
+Tombenam-water-1,,Tombenam,water,"aak, dyu",aak,,,Ray1919,,,,,339
+Tombenam-water-2,,Tombenam,water,"aak, dyu",dyu,,,Ray1919,,,,,339
+Tombenam-woman-1,,Tombenam,woman,nănănā,nănănā,,,Ray1919,,,,,339
+Monumbo-hand_arm-1,,Monumbo,hand_arm,ŋaŋdambi,ŋaŋdambi,,,Ray1919,,,,,339
+Monumbo-house-1,,Monumbo,house,"tsiŋer, ŋgoko",tsiŋer,,,Ray1919,,,,,339
+Monumbo-house-2,,Monumbo,house,"tsiŋer, ŋgoko",ŋgoko,,,Ray1919,,,,,339
+Monumbo-man-1,,Monumbo,man,mer,mer,,,Ray1919,,,,,339
+Monumbo-moon-1,,Monumbo,moon,yū,yū,,,Ray1919,,,,,339
+Monumbo-pig-1,,Monumbo,pig,mbur,mbur,,,Ray1919,,,,,339
+Monumbo-stone-1,,Monumbo,stone,ikupul,ikupul,,,Ray1919,,,,,339
+Monumbo-sun-1,,Monumbo,sun,tsaut,tsaut,,,Ray1919,,,,,339
+Monumbo-tooth-1,,Monumbo,tooth,ēr,ēr,,,Ray1919,,,,,339
+Monumbo-water-1,,Monumbo,water,tsu,tsu,,,Ray1919,,,,,339
+Monumbo-woman-1,,Monumbo,woman,kawatsek,kawatsek,,,Ray1919,,,,,339
+Alepapum-hand_arm-1,,Alepapum,hand_arm,"kagarani, dafolwani",kagarani,,,Ray1919,,,,,339
+Alepapum-hand_arm-2,,Alepapum,hand_arm,"kagarani, dafolwani",dafolwani,,,Ray1919,,,,,339
+Kopar-stone-1,,Kopar,stone,pat',pat',,,Ray1919,,,,,339
+Watam-hand_arm-1,,Watam,hand_arm,par-kekat,par-kekat,,,Ray1919,,,,,339
+Watam-house-1,,Watam,house,endo,endo,,,Ray1919,,,,,339
+Watam-man-1,,Watam,man,namot,namot,,,Ray1919,,,,,339
+Watam-pig-1,,Watam,pig,markum,markum,,,Ray1919,,,,,339
+Watam-water-1,,Watam,water,arum,arum,,,Ray1919,,,,,339
+Watam-woman-1,,Watam,woman,woin,woin,,,Ray1919,,,,,339
+KAugustaRiver-hand_arm-1,,KAugustaRiver,hand_arm,ănier,ănier,,,Ray1919,,,,,339
+KAugustaRiver-house-1,,KAugustaRiver,house,"wi, ya",wi,,,Ray1919,,,,,339
+KAugustaRiver-house-2,,KAugustaRiver,house,"wi, ya",ya,,,Ray1919,,,,,339
+KAugustaRiver-moon-1,,KAugustaRiver,moon,"ûmo, môbo, o",ûmo,,,Ray1919,,,,,339
+KAugustaRiver-moon-2,,KAugustaRiver,moon,"ûmo, môbo, o",môbo,,,Ray1919,,,,,339
+KAugustaRiver-moon-3,,KAugustaRiver,moon,"ûmo, môbo, o",o,,,Ray1919,,,,,339
+KAugustaRiver-pig-1,,KAugustaRiver,pig,"mbal, hu",mbal,,,Ray1919,,,,,339
+KAugustaRiver-pig-2,,KAugustaRiver,pig,"mbal, hu",hu,,,Ray1919,,,,,339
+KAugustaRiver-sun-1,,KAugustaRiver,sun,"yaban, nyie, waŋ",yaban,,,Ray1919,,,,,339
+KAugustaRiver-sun-2,,KAugustaRiver,sun,"yaban, nyie, waŋ",nyie,,,Ray1919,,,,,339
+KAugustaRiver-sun-3,,KAugustaRiver,sun,"yaban, nyie, waŋ",waŋ,,,Ray1919,,,,,339
+KAugustaRiver-tooth-1,,KAugustaRiver,tooth,"deu, wok, big, nimbi",deu,,,Ray1919,,,,,339
+KAugustaRiver-tooth-2,,KAugustaRiver,tooth,"deu, wok, big, nimbi",wok,,,Ray1919,,,,,339
+KAugustaRiver-tooth-3,,KAugustaRiver,tooth,"deu, wok, big, nimbi",big,,,Ray1919,,,,,339
+KAugustaRiver-tooth-4,,KAugustaRiver,tooth,"deu, wok, big, nimbi",nimbi,,,Ray1919,,,,,339
+KAugustaRiver-water-1,,KAugustaRiver,water,"yo, gu, ob",yo,,,Ray1919,,,,,339
+KAugustaRiver-water-2,,KAugustaRiver,water,"yo, gu, ob",gu,,,Ray1919,,,,,339
+KAugustaRiver-water-3,,KAugustaRiver,water,"yo, gu, ob",ob,,,Ray1919,,,,,339
+Kaip-moon-1,,Kaip,moon,"vol, val",vol,,,Ray1919,,,,,339
+Kaip-moon-2,,Kaip,moon,"vol, val",val,,,Ray1919,,,,,339
+Kaip-stone-1,,Kaip,stone,pa,pa,,,Ray1919,,,,,339
+Kaip-sun-1,,Kaip,sun,"nia, nya",nia,,,Ray1919,,,,,339
+Kaip-sun-2,,Kaip,sun,"nia, nya",nya,,,Ray1919,,,,,339
+Muschu-pig-1,,Muschu,pig,bŏlŏ,bŏlŏ,,,Ray1919,,,,,339
+Muschu-stone-1,,Muschu,stone,pa,pa,,,Ray1919,,,,,339
+Muschu-sun-1,,Muschu,sun,na,na,,,Ray1919,,,,,339
+DallmannH-pig-1,,DallmannH,pig,"bŏlĕ, pŏlĕ",bŏlĕ,,,Ray1919,,,,,339
+DallmannH-pig-2,,DallmannH,pig,"bŏlĕ, pŏlĕ",pŏlĕ,,,Ray1919,,,,,339
+DallmannH-stone-1,,DallmannH,stone,pa,pa,,,Ray1919,,,,,339
+DallmannH-sun-1,,DallmannH,sun,"nia, nya",nia,,,Ray1919,,,,,339
+DallmannH-sun-2,,DallmannH,sun,"nia, nya",nya,,,Ray1919,,,,,339
+Dakur-pig-1,,Dakur,pig,"bur, buĕr",bur,,,Ray1919,,,,,339
+Dakur-pig-2,,Dakur,pig,"bur, buĕr",buĕr,,,Ray1919,,,,,339
+Kavu-hand_arm-1,,Kavu,hand_arm,vip,vip,,,Ray1919,,,,,339
+Kavu-house-1,,Kavu,house,ulipat,ulipat,,,Ray1919,,,,,339
+Kavu-man-1,,Kavu,man,aleman,aleman,,,Ray1919,,,,,339
+Kavu-moon-1,,Kavu,moon,aun,aun,,,Ray1919,,,,,339
+Kavu-pig-1,,Kavu,pig,bûl,bûl,,,Ray1919,,,,,339
+Kavu-stone-1,,Kavu,stone,utam,utam,,,Ray1919,,,,,339
+Kavu-sun-1,,Kavu,sun,aun,aun,,,Ray1919,,,,,339
+Kavu-tooth-1,,Kavu,tooth,nalô,nalô,,,Ray1919,,,,,339
+Kavu-water-1,,Kavu,water,ambal,ambal,,,Ray1919,,,,,339
+Kavu-woman-1,,Kavu,woman,"ilmatok, vilmatok",ilmatok,,,Ray1919,,,,,339
+Kavu-woman-2,,Kavu,woman,"ilmatok, vilmatok",vilmatok,,,Ray1919,,,,,339
+Kumemim-moon-1,,Kumemim,moon,sĕnăr,sĕnăr,,,Ray1919,,,,,339
+Kumemim-pig-1,,Kumemim,pig,bul,bul,,,Ray1919,,,,,339
+Put-moon-1,,Put,moon,sĕnăr,sĕnăr,,,Ray1919,,,,,339
+Put-pig-1,,Put,pig,buel,buel,,,Ray1919,,,,,339
+Valman-hand_arm-1,,Valman,hand_arm,vi,vi,,,Ray1919,,,,,339
+Valman-house-1,,Valman,house,nagol,nagol,,,Ray1919,,,,,339
+Valman-man-1,,Valman,man,kaminagol,kaminagol,,,Ray1919,,,,,339
+Valman-moon-1,,Valman,moon,sanar,sanar,,,Ray1919,,,,,339
+Valman-pig-1,,Valman,pig,vûl,vûl,,,Ray1919,,,,,339
+Valman-stone-1,,Valman,stone,tomul,tomul,,,Ray1919,,,,,339
+Valman-sun-1,,Valman,sun,ŋanu,ŋanu,,,Ray1919,,,,,339
+Valman-tooth-1,,Valman,tooth,eiagol,eiagol,,,Ray1919,,,,,339
+Valman-water-1,,Valman,water,vul,vul,,,Ray1919,,,,,339
+Valman-woman-1,,Valman,woman,niki,niki,,,Ray1919,,,,,339
+Vrinagol-house-1,,Vrinagol,house,"nagol, pel",nagol,,,Ray1919,,,,,339
+Vrinagol-house-2,,Vrinagol,house,"nagol, pel",pel,,,Ray1919,,,,,339
+Vrinagol-moon-1,,Vrinagol,moon,sănăr,sănăr,,,Ray1919,,,,,339
+Vrinagol-pig-1,,Vrinagol,pig,"buĕl, vuĕl",buĕl,,,Ray1919,,,,,339
+Vrinagol-pig-2,,Vrinagol,pig,"buĕl, vuĕl",vuĕl,,,Ray1919,,,,,339
+Akur-pig-1,,Akur,pig,"buĕl, vuĕl",buĕl,,,Ray1919,,,,,339
+Akur-pig-2,,Akur,pig,"buĕl, vuĕl",vuĕl,,,Ray1919,,,,,339
+Tsinapali-pig-1,,Tsinapali,pig,"buĕl, vuĕl",buĕl,,,Ray1919,,,,,339
+Tsinapali-pig-2,,Tsinapali,pig,"buĕl, vuĕl",vuĕl,,,Ray1919,,,,,339
+Anal-house-1,,Anal,house,nakol,nakol,,,Ray1919,,,,,339
+Anal-man-1,,Anal,man,teïmpe,teïmpe,,,Ray1919,,,,,339
+Anal-moon-1,,Anal,moon,alno,alno,,,Ray1919,,,,,339
+Anal-pig-1,,Anal,pig,mero,mero,,,Ray1919,,,,,339
+Anal-sun-1,,Anal,sun,yaume,yaume,,,Ray1919,,,,,339
+Anal-water-1,,Anal,water,tipe,tipe,,,Ray1919,,,,,339
+Anal-woman-1,,Anal,woman,nimo reipi,nimo reipi,,,Ray1919,,,,,339
+Kopoam-pig-1,,Kopoam,pig,merau,merau,,,Ray1919,,,,,339
+Arop-house-1,,Arop,house,alon,alon,,,Ray1919,,,,,339
+Arop-man-1,,Arop,man,ani,ani,,,Ray1919,,,,,339
+Arop-moon-1,,Arop,moon,"vu, bu",vu,,,Ray1919,,,,,339
+Arop-moon-2,,Arop,moon,"vu, bu",bu,,,Ray1919,,,,,339
+Arop-pig-1,,Arop,pig,"puō, puōl",puō,,,Ray1919,,,,,339
+Arop-pig-2,,Arop,pig,"puō, puōl",puōl,,,Ray1919,,,,,339
+Arop-stone-1,,Arop,stone,at,at,,,Ray1919,,,,,339
+Arop-sun-1,,Arop,sun,"aurau, arau",aurau,,,Ray1919,,,,,339
+Arop-sun-2,,Arop,sun,"aurau, arau",arau,,,Ray1919,,,,,339
+Arop-water-1,,Arop,water,"rān, rain",rān,,,Ray1919,,,,,339
+Arop-water-2,,Arop,water,"rān, rain",rain,,,Ray1919,,,,,339
+Arop-woman-1,,Arop,woman,tamin amōn,tamin amōn,,,Ray1919,,,,,339
+Varopu-hand_arm-1,,Varopu,hand_arm,aüte,aüte,,,Ray1919,,,,,339
+Varopu-man-1,,Varopu,man,"tauven, arvi",tauven,,,Ray1919,,,,,339
+Varopu-man-2,,Varopu,man,"tauven, arvi",arvi,,,Ray1919,,,,,339
+Varopu-moon-1,,Varopu,moon,ura,ura,,,Ray1919,,,,,339
+Varopu-pig-1,,Varopu,pig,rau,rau,,,Ray1919,,,,,339
+Varopu-sun-1,,Varopu,sun,umo,umo,,,Ray1919,,,,,339
+Varopu-water-1,,Varopu,water,pij,pij,,,Ray1919,,,,,339
+Varopu-woman-1,,Varopu,woman,vumbei,vumbei,,,Ray1919,,,,,339
+Leitere-pig-1,,Leitere,pig,ba,ba,,,Ray1919,,,,,339
+Wanimo-pig-1,,Wanimo,pig,da,da,,,Ray1919,,,,,339
+Yako-pig-1,,Yako,pig,da,da,,,Ray1919,,,,,339
+Wutung-pig-1,,Wutung,pig,da,da,,,Ray1919,,,,,339
+Seko-pig-1,,Seko,pig,"pale, bare",pale,,,Ray1919,,,,,339
+Seko-pig-2,,Seko,pig,"pale, bare",bare,,,Ray1919,,,,,339
