@@ -12,6 +12,8 @@ If you use these data please cite
 
 This dataset is licensed under a CC-BY-4.0 license
 
+Available online at https://github.com/SimonGreenhill/raynorthernpapua
+
 ## Notes
 
 # Notes
@@ -63,6 +65,7 @@ Glottolog v5.3, Concepticon v3.4.0, CLTS v2.3.0.
 ## Statistics
 
 
+[![CLDF validation](https://github.com/SimonGreenhill/raynorthernpapua/workflows/CLDF-validation/badge.svg)](https://github.com/SimonGreenhill/raynorthernpapua/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 98%](etc/badge_languages.svg)
 ![Concepticon: 96%](etc/badge_concepts.svg)
 ![Source: 100%](etc/badge_sources.svg)

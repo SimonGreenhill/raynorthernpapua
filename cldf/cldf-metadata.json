@@ -3,10 +3,18 @@
     "aboutUrl": null,
     "dc:bibliographicCitation": "Ray, Sidney H. 1919. The Languages of Northern Papua. The Journal of the Royal Anthropological Institute of Great Britain and Ireland 49: 317-341.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:identifier": "https://github.com/SimonGreenhill/raynorthernpapua",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Ray's \"The Languages of Northern Papua\" from 1919",
+    "dcat:accessURL": "https://github.com/SimonGreenhill/raynorthernpapua",
     "prov:wasDerivedFrom": [
+        {
+            "rdf:about": "https://github.com/SimonGreenhill/raynorthernpapua",
+            "rdf:type": "prov:Entity",
+            "dc:created": "67831f0",
+            "dc:title": "Repository"
+        },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
